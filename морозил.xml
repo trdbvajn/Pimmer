@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2a001917-12aa-45e8-a1e9-5cd93ce649b7">Морозильники</category>
+    </categories>
+    <offers>
+      <offer id="10001" available="true">
+        <url>http://www.example.com/product/10001</url>
+        <price>13500с</price>
+        <model>BC\BD(W)-116 лтм</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2024/04/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%A0%D0%B5%D0%BA%D0%BE%D1%80%D0%B4-116-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-1.jpg</picture>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2024/04/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%A0%D0%B5%D0%BA%D0%BE%D1%80%D0%B4-116-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-2.jpg</picture>
+        <param name="Объём (л)">116</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Габариты (ШхВхГ, см)">55x85x60</param>
+      </offer>
+      <offer id="10002" available="true">
+        <url>http://www.example.com/product/10002</url>
+        <price>23500с</price>
+        <model>BC\BD-328</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2023/06/photo_2024-04-09_12-38-20-removebg-preview.png</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2023/06/photo_2024-04-09_12-38-16-removebg-preview.png</picture>
+        <param name="Объём (л)">328</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Габариты (ШхВхГ, см)">65x85x65</param>
+      </offer>
+      <offer id="10003" available="true">
+        <url>http://www.example.com/product/10003</url>
+        <price>18500с</price>
+        <model>BC\BD-220</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2023/07/photo_2024-04-09_12-38-12-removebg-preview.png</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2023/07/photo_2024-04-09_12-38-08-removebg-preview.png</picture>
+        <param name="Объём (л)">220</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+      <offer id="10004" available="true">
+        <url>http://www.example.com/product/10004</url>
+        <price>19500с</price>
+        <model>BD-185</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2023/07/photo_2024-04-24_13-54-50-removebg-preview.png</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2023/07/photo_2024-04-24_13-54-55-removebg-preview.png</picture>
+        <param name="Объём (л)">185</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Габариты (ШхВхГ, см)">55x85x55</param>
+      </offer>
+      <offer id="10005" available="true">
+        <url>http://www.example.com/product/10005</url>
+        <price>19500с</price>
+        <model>XF-216CC</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2024/06/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-Xingx-216-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-1.jpg</picture>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2024/06/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-Xingx-216-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-2.jpg</picture>
+        <param name="Объём (л)">216</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x65</param>
+      </offer>
+      <offer id="10006" available="true">
+        <url>http://www.example.com/product/10006</url>
+        <price>23000с</price>
+        <model>XF-350CC</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2023/04/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-Xingx-350-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-1.jpg</picture>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2023/04/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-Xingx-350-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-2.jpg</picture>
+        <param name="Объём (л)">350</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Габариты (ШхВхГ, см)">70x85x70</param>
+      </offer>
+      <offer id="10007" available="true">
+        <url>http://www.example.com/product/10007</url>
+        <price>16500с</price>
+        <model>XF-180CC</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://img5.lalafo.com/i/posters/original/48/d8/d4/0ed8f47c38356590f65a43c90e.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">180</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Габариты (ШхВхГ, см)">55x85x55</param>
+      </offer>
+      <offer id="10008" available="true">
+        <url>http://www.example.com/product/10008</url>
+        <price>22000с</price>
+        <model>BD-208</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://cdn.devcats.kg/ads/leDaPvR6rzqY819LGSvXVi6cD83JntJyNJL9zZ9qlRUNdOItpI.WEBP</picture>
+        <picture>https://cdn.devcats.kg/ads/WPelHKp7Ocy3B5gyXrYQy9jWjOG2KAGoxj7nGFXSjX0g6N4smi.WEBP</picture>
+        <param name="Объём (л)">208</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+      <offer id="10009" available="true">
+        <url>http://www.example.com/product/10009</url>
+        <price>23000с</price>
+        <model>BC\BD(W)-327C</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2023/05/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%A0%D0%B5%D0%BA%D0%BE%D1%80%D0%B4-327-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-1.jpg</picture>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2023/05/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%A0%D0%B5%D0%BA%D0%BE%D1%80%D0%B4-327-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-2.jpg</picture>
+        <param name="Объём (л)">327</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Габариты (ШхВхГ, см)">70x85x70</param>
+      </offer>
+      <offer id="10010" available="true">
+        <url>http://www.example.com/product/10010</url>
+        <price>38500с</price>
+        <model>KDF 400IC</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2022/08/kleo-ic400-425-l-belyi-105096577-1.jpg</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2022/08/bez-nazvanija-5-4.png</picture>
+        <param name="Объём (л)">400</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Габариты (ШхВхГ, см)">80x85x70</param>
+      </offer>
+      <offer id="10011" available="true">
+        <url>http://www.example.com/product/10011</url>
+        <price>47500с</price>
+        <model>KDF 500IC</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2023/04/photo_2024-03-14_17-14-06-removebg-preview.png</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2023/04/photo_2024-03-14_17-13-59-removebg-preview.png</picture>
+        <param name="Объём (л)">500</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">45</param>
+        <param name="Габариты (ШхВхГ, см)">90x85x75</param>
+      </offer>
+      <offer id="10012" available="true">
+        <url>http://www.example.com/product/10012</url>
+        <price>19000с</price>
+        <model>CFR-201</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/169267534.jpg</picture>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/169267633.jpg</picture>
+        <param name="Объём (л)">201</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Габариты (ШхВхГ, см)">55x85x60</param>
+      </offer>
+      <offer id="10013" available="true">
+        <url>http://www.example.com/product/10013</url>
+        <price>38000с</price>
+        <model>XF-450</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2023/10/photo_2024-04-09_12-40-59-removebg-preview.png</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">450</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Габариты (ШхВхГ, см)">85x85x75</param>
+      </offer>
+      <offer id="10014" available="true">
+        <url>http://www.example.com/product/10014</url>
+        <price>35500с</price>
+        <model>SC\SD-358</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/04/photo_2024-04-22_16-02-57-removebg-preview.png</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2024/04/photo_2024-04-22_16-02-54-removebg-preview.png</picture>
+        <param name="Объём (л)">358</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Габариты (ШхВхГ, см)">75x85x70</param>
+      </offer>
+      <offer id="10015" available="true">
+        <url>http://www.example.com/product/10015</url>
+        <price>56000с</price>
+        <model>XF-750</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://resources.cdn-kaspi.kz/img/m/p/hc2/h80/80611896262686.png?format=gallery-large</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">750</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">45</param>
+        <param name="Габариты (ШхВхГ, см)">100x85x75</param>
+      </offer>
+      <offer id="10016" available="true">
+        <url>http://www.example.com/product/10016</url>
+        <price>34500с</price>
+        <model>SD\SC-338</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2023/05/photo_2024-03-14_17-11-53-removebg-preview.png</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">338</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Количество камер">1</param>
+        <param name="Температурный диапазон (°C)">до -18</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Габариты (ШхВхГ, см)">70x85x70</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
