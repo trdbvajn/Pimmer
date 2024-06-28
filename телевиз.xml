@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2c5af07c-cca0-4d74-bdf9-b9b62ac76d81">Телевизоры</category>
+    </categories>
+    <offers>
+      <offer id="3001" available="true">
+        <url>http://www.example.com/product/3001</url>
+        <price>28000с</price>
+        <model>50C350LE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://tv-toshiba.ru/upload/webp/resize_cache/iblock/14f/500_283_1d7a58ff99b324185ccb5ad5dfbdb5e85/xc75ju3t9nf6i32xfpkw1fulbrvmpmbf.webp</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">50</param>
+        <param name="Разрешение экрана (пиксели)">3840x2160</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">112.3x65.1x23.6</param>
+      </offer>
+      <offer id="3002" available="true">
+        <url>http://www.example.com/product/3002</url>
+        <price>26500с</price>
+        <model>55Q9F</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/ea6/440_440_1/ea6826b94f88e2155d6e27523f75233f.jpg</picture>
+        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/e22/440_440_1/e229ffc8e8d3097ceb5c3ec0a975e043.jpg</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">3840x2160</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">QLED</param>
+        <param name="Частота обновления экрана (Гц)">120</param>
+        <param name="Мощность звука (Вт)">40</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">122.8x70.7x30.5</param>
+      </offer>
+      <offer id="3003" available="true">
+        <url>http://www.example.com/product/3003</url>
+        <price>29000с</price>
+        <model>55LED-55Q90</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://systema.kg/466611-medium_default/yasin-led-tv-55q90-55-4k-uhd-38602920-android-450-cd-m2-1000000-1-6ms-178-178-wifi.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">3840x2160</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x71.0x25.0</param>
+      </offer>
+      <offer id="3004" available="true">
+        <url>http://www.example.com/product/3004</url>
+        <price>34000с</price>
+        <model>55C350LE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/f34/897_579_1d0e97ea46f4438969ab06dd5b311ca67/f34884708f672f11a07e5deccd442703.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">3840x2160</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x71.0x25.0</param>
+      </offer>
+      <offer id="3005" available="true">
+        <url>http://www.example.com/product/3005</url>
+        <price>41000с</price>
+        <model>55A7GQ</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://ru.hisense.com/upload/resize_cache/iblock/7a4/800_500_1/h9me4sni4fz1t86ros1kj72vi208i1hf.png</picture>
+        <picture>https://ru.hisense.com/upload/resize_cache/iblock/58b/800_500_1/sl6ky16k7spdb3nfvjpld667q1tnufa9.png</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">3840x2160</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x71.0x25.0</param>
+      </offer>
+      <offer id="3006" available="true">
+        <url>http://www.example.com/product/3006</url>
+        <price>29000с</price>
+        <model>55SUE9500</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5249393/img_id5018963540150558416.jpeg/600x800</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/6219218/img_id1883860568093122226.jpeg/optimize</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">3840x2160</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x71.0x25.0</param>
+      </offer>
+      <offer id="3007" available="true">
+        <url>http://www.example.com/product/3007</url>
+        <price>28000с</price>
+        <model>50C350LE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/10815509/2a0000018af5cf2bc76101c2ec317a106aea/600x800</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4950407/2a0000018af5cf2cbf1c745cf611635161e6/optimize</picture>
+        <param name="Диагональ экрана (дюймы)">50</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">112.1x70.6x23.5</param>
+      </offer>
+      <offer id="3013" available="true">
+        <url>http://www.example.com/product/3013</url>
+        <price>43000с</price>
+        <model>65LED-65UD81</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://technomarket.kg/images/detailed/24/5565_min.png</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">65</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">145.6x90.3x29.0</param>
+      </offer>
+      <offer id="3014" available="true">
+        <url>http://www.example.com/product/3014</url>
+        <price>45000с</price>
+        <model>65P635</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://systema.kg/466687-medium_default/televizor-tcl-65p635-razreshenie-4k-uhd-3840x2160-hdr-google-tv-wi-fi-ugol-obzora-176-20-vt-2kh10-vt-dolby-audio-hdmi-x3-usb-x1-.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">65</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">145.2x89.9x28.6</param>
+      </offer>
+      <offer id="3015" available="true">
+        <url>http://www.example.com/product/3015</url>
+        <price>44000с</price>
+        <model>65SUE9500</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5236584/img_id8965512080650134215.jpeg/optimize</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4489193/img_id3988781684378912728.jpeg/optimize</picture>
+        <param name="Диагональ экрана (дюймы)">65</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">145.0x89.8x28.5</param>
+      </offer>
+      <offer id="3016" available="true">
+        <url>http://www.example.com/product/3016</url>
+        <price>27500с</price>
+        <model>50 700series</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://kupi.kg/cache/files/43097.jpg_w800_h800_resize.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">50</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">112.0x70.5x23.4</param>
+      </offer>
+      <offer id="3017" available="true">
+        <url>http://www.example.com/product/3017</url>
+        <price>19500с</price>
+        <model>43V35KE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://kupi.kg/cache/files/38921.jpg_w800_h800_resize.jpg</picture>
+        <picture>https://kupi.kg/cache/files/38924.jpg_w800_h800_resize.jpg</picture>
+        <param name="Диагональ экрана (дюймы)">43</param>
+        <param name="Разрешение экрана (пиксели)">Full HD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">16</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">97.5x61.1x22.3</param>
+      </offer>
+      <offer id="3018" available="true">
+        <url>http://www.example.com/product/3018</url>
+        <price>42000с</price>
+        <model>65A63H</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://utfs.io/f/898e2065-601d-42b3-8936-96b09849a839-hh4d23.png</picture>
+        <picture>https://utfs.io/f/83c50b4d-ef40-40ea-a2c3-be1cf5aab7ab-i63258.png</picture>
+        <param name="Диагональ экрана (дюймы)">65</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">144.8x89.7x28.4</param>
+      </offer>
+      <offer id="3019" available="true">
+        <url>http://www.example.com/product/3019</url>
+        <price>35500с</price>
+        <model>55P635</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://systema.kg/415255-large_default/televizor-55-tcl-55p635-4k-hdr-google-tv-bezramochnyj.jpg</picture>
+        <picture>https://systema.kg/415257-large_default/televizor-55-tcl-55p635-4k-hdr-google-tv-bezramochnyj.jpg</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x77.2x24.6</param>
+      </offer>
+      <offer id="3020" available="true">
+        <url>http://www.example.com/product/3020</url>
+        <price>47000с</price>
+        <model>65NR680N</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://systema.kg/410073-large_default/konka-led-tv-65nr680n-65-uhd-4k-3840x2160-60hz-smart-webos-50-2-pulta-dvb-t-c-t2-s-s2hdmi-usb.jpg</picture>
+        <picture>https://systema.kg/410074-large_default/konka-led-tv-65nr680n-65-uhd-4k-3840x2160-60hz-smart-webos-50-2-pulta-dvb-t-c-t2-s-s2hdmi-usb.jpg</picture>
+        <param name="Диагональ экрана (дюймы)">65</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">145.0x89.8x28.5</param>
+      </offer>
+      <offer id="3021" available="true">
+        <url>http://www.example.com/product/3021</url>
+        <price>31000с</price>
+        <model>55VR700W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://cdn.devcats.kg/ads/Okf9H4k73Lp4LIlq9K14WjMGjOt2fVq3ajJgbSUgj1qgWc2Tkm.WEBP</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x77.2x24.6</param>
+      </offer>
+      <offer id="3022" available="true">
+        <url>http://www.example.com/product/3022</url>
+        <price>37000с</price>
+        <model>43UR78006LK.ADKG</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://elmakon.uz/images/thumbnails/1223/1000/detailed/42/10_lxel-e2.png</picture>
+        <picture>https://elmakon.uz/images/thumbnails/1223/1000/detailed/42/11_wycx-d7.png</picture>
+        <param name="Диагональ экрана (дюймы)">43</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">16</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">96.7x61.1x22.1</param>
+      </offer>
+      <offer id="3023" available="true">
+        <url>http://www.example.com/product/3023</url>
+        <price>31500с</price>
+        <model>S55LU8500</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://cdn.mediapark.uz/imgs/b3296b82-3c84-440d-8511-cf6a07da0f93.webp</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана (дюймы)">55</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">123.0x77.2x24.6</param>
+      </offer>
+      <offer id="3024" available="true">
+        <url>http://www.example.com/product/3024</url>
+        <price>24000с</price>
+        <model>US50H3501</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://elmakon.uz/images/thumbnails/550/450/detailed/35/1_tx6t-fn.jpg</picture>
+        <picture>https://elmakon.uz/images/thumbnails/550/450/detailed/35/2_7ei6-e3.jpg</picture>
+        <param name="Диагональ экрана (дюймы)">50</param>
+        <param name="Разрешение экрана (пиксели)">4K UHD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">20</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">112.0x70.5x23.4</param>
+      </offer>
+      <offer id="3025" available="true">
+        <url>http://www.example.com/product/3025</url>
+        <price>17000с</price>
+        <model>US43H3403</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2c5af07c-cca0-4d74-bdf9-b9b62ac76d81</categoryId>
+        <picture>https://cdn.mediapark.uz/imgs/f170bcd8-32a8-418d-a068-00c5ea7d656e_mediaparkproduct1300x1300.webp</picture>
+        <picture>https://cdn.mediapark.uz/imgs/9aad533d-5edc-4627-aef4-03b3edb9c09d_mediaparkproduct_11300x1300.webp</picture>
+        <param name="Диагональ экрана (дюймы)">43</param>
+        <param name="Разрешение экрана (пиксели)">Full HD</param>
+        <param name="Тип матрицы (LED/LCD/OLED)">LED</param>
+        <param name="Частота обновления экрана (Гц)">60</param>
+        <param name="Мощность звука (Вт)">16</param>
+        <param name="Габариты с подставкой (ШхВхГ, см)">97.5x61.1x22.3</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
