@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="d123e12e-e8f6-448c-85ed-a9017368e801">Стиральные машины</category>
+    </categories>
+    <offers>
+      <offer id="2001" available="true">
+        <url>http://www.example.com/product/2001</url>
+        <price>30000с</price>
+        <model>TW-BL70A9(WK)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d123e12e-e8f6-448c-85ed-a9017368e801</categoryId>
+        <picture>https://systema.kg/510455-large_default/stiralnaya-mashina-toshiba-tw-bl70a2wk.jpg</picture>
+        <picture>nan</picture>
+        <param name="Максимальная загрузка (кг)">7</param>
+        <param name="Класс энергопотребления">A+++</param>
+        <param name="Количество оборотов (об/мин)">1400</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Уровень шума при стирке (дБ)">52</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x55</param>
+      </offer>
+      <offer id="2002" available="true">
+        <url>http://www.example.com/product/2002</url>
+        <price>32000с</price>
+        <model>TW-BL70A2(SS)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d123e12e-e8f6-448c-85ed-a9017368e801</categoryId>
+        <picture>https://onbir.kg/components/com_jshopping/files/img_products/full_new_project_-_2022-07-25t165712.255.webp</picture>
+        <picture>nan</picture>
+        <param name="Максимальная загрузка (кг)">7</param>
+        <param name="Класс энергопотребления">A+++</param>
+        <param name="Количество оборотов (об/мин)">1400</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Уровень шума при стирке (дБ)">52</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x55</param>
+      </offer>
+      <offer id="2003" available="true">
+        <url>http://www.example.com/product/2003</url>
+        <price>34000с</price>
+        <model>TW-BL80A2(WK)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d123e12e-e8f6-448c-85ed-a9017368e801</categoryId>
+        <picture>https://www.kivano.kg/images/product/135950/full/1714642106_75200700.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Максимальная загрузка (кг)">8</param>
+        <param name="Класс энергопотребления">A+++</param>
+        <param name="Количество оборотов (об/мин)">1400</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Уровень шума при стирке (дБ)">53</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x55</param>
+      </offer>
+      <offer id="2004" available="true">
+        <url>http://www.example.com/product/2004</url>
+        <price>35000с</price>
+        <model>TW-BL80A2(SS)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d123e12e-e8f6-448c-85ed-a9017368e801</categoryId>
+        <picture>https://onbir.kg/components/com_jshopping/files/img_products/full_2221566.webp</picture>
+        <picture>nan</picture>
+        <param name="Максимальная загрузка (кг)">8</param>
+        <param name="Класс энергопотребления">A+++</param>
+        <param name="Количество оборотов (об/мин)">1400</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Уровень шума при стирке (дБ)">53</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x55</param>
+      </offer>
+      <offer id="2005" available="true">
+        <url>http://www.example.com/product/2005</url>
+        <price>38000с</price>
+        <model>TW-BL90A4(WK)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d123e12e-e8f6-448c-85ed-a9017368e801</categoryId>
+        <picture>https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2Fstiralnaya_mashina_toshiba_tw_bl90a4uzwk_265065_2.jpg&amp;w=1920&amp;q=85</picture>
+        <picture>https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2Fstiralnaya_mashina_toshiba_tw_bl90a4uzwk_265065_4.jpg&amp;w=1920&amp;q=85</picture>
+        <param name="Максимальная загрузка (кг)">9</param>
+        <param name="Класс энергопотребления">A+++</param>
+        <param name="Количество оборотов (об/мин)">1400</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Уровень шума при стирке (дБ)">54</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+      <offer id="2006" available="true">
+        <url>http://www.example.com/product/2006</url>
+        <price>43000с</price>
+        <model>BK90G4(SK)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d123e12e-e8f6-448c-85ed-a9017368e801</categoryId>
+        <picture>https://www.kivano.kg/images/product/135943/171464036565580_full.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Максимальная загрузка (кг)">9</param>
+        <param name="Класс энергопотребления">A+++</param>
+        <param name="Количество оборотов (об/мин)">1400</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Уровень шума при стирке (дБ)">54</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
