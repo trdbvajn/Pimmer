@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1ded2c8b-0b06-436b-bba9-1c1f828dc562">Кондиционеры</category>
+    </categories>
+    <offers>
+      <offer id="4001" available="true">
+        <url>http://www.example.com/product/4001</url>
+        <price>35000с</price>
+        <model>09-181 inve. -25</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-05-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">2024-08-02 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 25</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4002" available="true">
+        <url>http://www.example.com/product/4002</url>
+        <price>32000с</price>
+        <model>12/170 -15</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://zor.store/images/thumbnails/550/450/detailed/81/CHIGO___12-170_split_%E2%84%961.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-05-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">2024-08-03 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 35</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4003" available="true">
+        <url>http://www.example.com/product/4003</url>
+        <price>33000с</price>
+        <model>12/186 -15</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-05-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">2024-08-03 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 35</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4004" available="true">
+        <url>http://www.example.com/product/4004</url>
+        <price>40000с</price>
+        <model>12/181 inve. -25</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-05-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">2024-08-03 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 35</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4005" available="true">
+        <url>http://www.example.com/product/4005</url>
+        <price>58000с</price>
+        <model>18/181 inve. -25</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">5.0</param>
+        <param name="Мощность обогрева (кВт)">2024-05-05 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">45</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4006" available="true">
+        <url>http://www.example.com/product/4006</url>
+        <price>60000с</price>
+        <model>24/170 -15</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://climat312.kg/wp-content/uploads/chigo-09-170-split.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">7.0</param>
+        <param name="Мощность обогрева (кВт)">2024-05-07 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 72</param>
+        <param name="Уровень шума (дБ)">48</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+      </offer>
+      <offer id="4007" available="true">
+        <url>http://www.example.com/product/4007</url>
+        <price>17500с</price>
+        <model>07 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-20_15-26-34.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-01-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">2024-03-02 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 21</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4008" available="true">
+        <url>http://www.example.com/product/4008</url>
+        <price>20500с</price>
+        <model>09 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/4hbv4f9k210gbzly6ua1qoaoc23taaql.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4009" available="true">
+        <url>http://www.example.com/product/4009</url>
+        <price>23500с</price>
+        <model>09 инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/899f6ca60d5a170270420845e75f6aa8_640x480-removebg-preview.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4010" available="true">
+        <url>http://www.example.com/product/4010</url>
+        <price>24500с</price>
+        <model>12 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/4hbv4f9k210gbzly6ua1qoaoc23taaql-1.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4011" available="true">
+        <url>http://www.example.com/product/4011</url>
+        <price>27500с</price>
+        <model>12 инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-41-1.jpg</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-45-4.jpg</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">43</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4012" available="true">
+        <url>http://www.example.com/product/4012</url>
+        <price>35500с</price>
+        <model>18 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-20_15-26-34-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">45</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4013" available="true">
+        <url>http://www.example.com/product/4013</url>
+        <price>35500с</price>
+        <model>18 инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-41-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">45</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4014" available="true">
+        <url>http://www.example.com/product/4014</url>
+        <price>44500с</price>
+        <model>24 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-41-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">8.0</param>
+        <param name="Площадь охлаждения (м²)">до 72</param>
+        <param name="Уровень шума (дБ)">48</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+      </offer>
+      <offer id="4015" available="true">
+        <url>http://www.example.com/product/4015</url>
+        <price>25000с</price>
+        <model>MSAF21-09HRN8-1 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-1.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4016" available="true">
+        <url>http://www.example.com/product/4016</url>
+        <price>25000с</price>
+        <model>MSAF21-09HRN8-0 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://elsooda.kg/media/products/2556/ANFRAZBMOEQMMNH.png.510x510_q85_crop-smart.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4017" available="true">
+        <url>http://www.example.com/product/4017</url>
+        <price>30000с</price>
+        <model>MSAF21-12HRN8-1 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-2.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4018" available="true">
+        <url>http://www.example.com/product/4018</url>
+        <price>30000с</price>
+        <model>MSAF21-12HRN8-0 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4019" available="true">
+        <url>http://www.example.com/product/4019</url>
+        <price>40500с</price>
+        <model>MSAF21-18HRN8-1 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4020" available="true">
+        <url>http://www.example.com/product/4020</url>
+        <price>40500с</price>
+        <model>MSAF21-18HRN8-0 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4021" available="true">
+        <url>http://www.example.com/product/4021</url>
+        <price>52000с</price>
+        <model>MSAF21-24HRN8-1 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://elsooda.kg/media/products/2561/U8YHGXEOZ1XE4PV.png.510x510_q85_crop-smart.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">8.0</param>
+        <param name="Площадь охлаждения (м²)">до 72</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+      </offer>
+      <offer id="4022" available="true">
+        <url>http://www.example.com/product/4022</url>
+        <price>52000с</price>
+        <model>MSAF21-24HRN8-0 -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">8.0</param>
+        <param name="Площадь охлаждения (м²)">до 72</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+      </offer>
+      <offer id="4023" available="true">
+        <url>http://www.example.com/product/4023</url>
+        <price>22000с</price>
+        <model>09 FHR1 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://farro.shop/wp-content/uploads/2020/09/AUX-FREEDOM-ON-OFF-ASW-H18A4-FAR1-farro.shop-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4024" available="true">
+        <url>http://www.example.com/product/4024</url>
+        <price>28000с</price>
+        <model>09 DI инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kondiczioner_aux_asw-h09a4_fhr1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4025" available="true">
+        <url>http://www.example.com/product/4025</url>
+        <price>26000с</price>
+        <model>12 FHR1 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://content.rozetka.com.ua/goods/images/big/17119501.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4026" available="true">
+        <url>http://www.example.com/product/4026</url>
+        <price>30000с</price>
+        <model>12 DI инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://it-climate.com.ua/uploads/shop/products/large/08a31475be59a2a015e3d7fb8dc849dd.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4027" available="true">
+        <url>http://www.example.com/product/4027</url>
+        <price>38000с</price>
+        <model>18 FHR1 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://content1.rozetka.com.ua/goods/images/big/17119272.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4028" available="true">
+        <url>http://www.example.com/product/4028</url>
+        <price>49000с</price>
+        <model>18 DI инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://content1.rozetka.com.ua/goods/images/big/52670415.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4029" available="true">
+        <url>http://www.example.com/product/4029</url>
+        <price>45000с</price>
+        <model>18 QCR-15</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_16-50-09.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4030" available="true">
+        <url>http://www.example.com/product/4030</url>
+        <price>48000с</price>
+        <model>24 FHR лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://strgimgr.umico.az/sized/1680/535814-24ddc494d1b11431510f83b9ad4b2f42.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">8.0</param>
+        <param name="Площадь охлаждения (м²)">до 72</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+      </offer>
+      <offer id="4031" available="true">
+        <url>http://www.example.com/product/4031</url>
+        <price>56000с</price>
+        <model>24 QCR-15</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/04/photo_2024-04-30_10-49-02-removebg-preview.png</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">8.0</param>
+        <param name="Площадь охлаждения (м²)">до 72</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+      </offer>
+      <offer id="4032" available="true">
+        <url>http://www.example.com/product/4032</url>
+        <price>18500с</price>
+        <model>07 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_17-24-50.jpg</picture>
+        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_17-24-57.jpg</picture>
+        <param name="Мощность охлаждения (кВт)">2024-01-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">2024-03-02 00:00:00</param>
+        <param name="Площадь охлаждения (м²)">до 21</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4033" available="true">
+        <url>http://www.example.com/product/4033</url>
+        <price>23000с</price>
+        <model>09 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://cityclimate.kg/wp-content/uploads/2022/03/changhong-photo2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4034" available="true">
+        <url>http://www.example.com/product/4034</url>
+        <price>25000с</price>
+        <model>09 инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://cdn.ts-market.kz/wa-data/public/shop/products/29/64/26429/images/28701/28701.970.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">3.0</param>
+        <param name="Площадь охлаждения (м²)">до 27</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4035" available="true">
+        <url>http://www.example.com/product/4035</url>
+        <price>25500с</price>
+        <model>12 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://images.satu.kz/183681115_w640_h640_konditsioner-changhong-chg-12.jpg</picture>
+        <picture>https://images.satu.kz/183681117_w640_h640_konditsioner-changhong-chg-12.jpg</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4036" available="true">
+        <url>http://www.example.com/product/4036</url>
+        <price>29500с</price>
+        <model>12 инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_17-24-50-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">4.0</param>
+        <param name="Площадь охлаждения (м²)">до 36</param>
+        <param name="Уровень шума (дБ)">42</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+      </offer>
+      <offer id="4037" available="true">
+        <url>http://www.example.com/product/4037</url>
+        <price>37500с</price>
+        <model>18 лето -7</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://tgrad.kz/upload/resize_cache/iblock/545/1000_1000_1/81uelhpyopm6lf1blfqksu0g9o36ct34.webp</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+      <offer id="4038" available="true">
+        <url>http://www.example.com/product/4038</url>
+        <price>41000с</price>
+        <model>18 инвертор -20</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
+        <picture>https://images.satu.kz/183379661_w640_h640_183379661.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
+        <param name="Мощность обогрева (кВт)">6.0</param>
+        <param name="Площадь охлаждения (м²)">до 54</param>
+        <param name="Уровень шума (дБ)">44</param>
+        <param name="Тип хладагента">R410A</param>
+        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
