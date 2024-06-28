@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="df096f3d-f991-4a2b-a428-18c9eb0d72b3">Пылесосы</category>
+    </categories>
+    <offers>
+      <offer id="6001" available="true">
+        <url>http://www.example.com/product/6001</url>
+        <price>8000с</price>
+        <model>SC4520</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>df096f3d-f991-4a2b-a428-18c9eb0d72b3</categoryId>
+        <picture>https://www.kivano.kg/images/product/38191/full/1617008536_16749900.jpg</picture>
+        <picture>https://www.kivano.kg/images/product/38191/150632521630105_full.jpg</picture>
+        <param name="Мощность всасывания (Вт)">350</param>
+        <param name="Тип фильтрации">HEPA</param>
+        <param name="Объём пылесборника (л)">2024-03-01 00:00:00</param>
+        <param name="Длина шнура (м)">6</param>
+        <param name="Уровень шума (дБ)">79</param>
+        <param name="Габариты (ШхВхГ, см)">27x24x37</param>
+      </offer>
+      <offer id="6002" available="true">
+        <url>http://www.example.com/product/6002</url>
+        <price>7000с</price>
+        <model>VK76A02NTL</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>df096f3d-f991-4a2b-a428-18c9eb0d72b3</categoryId>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md05849396/gallery/large_01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md05849396/gallery/large_02.jpg</picture>
+        <param name="Мощность всасывания (Вт)">380</param>
+        <param name="Тип фильтрации">HEPA</param>
+        <param name="Объём пылесборника (л)">2024-05-01 00:00:00</param>
+        <param name="Длина шнура (м)">5</param>
+        <param name="Уровень шума (дБ)">78</param>
+        <param name="Габариты (ШхВхГ, см)">28x25x41</param>
+      </offer>
+      <offer id="6003" available="true">
+        <url>http://www.example.com/product/6003</url>
+        <price>7500с</price>
+        <model>FC9352/01</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>df096f3d-f991-4a2b-a428-18c9eb0d72b3</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/5683eeffba04e8623f01329688140054.jpg</picture>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/831d4de18a0119ed58bd56e52bd9f892.jpg</picture>
+        <param name="Мощность всасывания (Вт)">370</param>
+        <param name="Тип фильтрации">HEPA</param>
+        <param name="Объём пылесборника (л)">2024-05-01 00:00:00</param>
+        <param name="Длина шнура (м)">6</param>
+        <param name="Уровень шума (дБ)">82</param>
+        <param name="Габариты (ШхВхГ, см)">28.1x24.7x40.6</param>
+      </offer>
+      <offer id="6004" available="true">
+        <url>http://www.example.com/product/6004</url>
+        <price>7000с</price>
+        <model>VCB43B1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>df096f3d-f991-4a2b-a428-18c9eb0d72b3</categoryId>
+        <picture>https://www.kivano.kg/images/product/42032/full/1617094914_94822600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Мощность всасывания (Вт)">350</param>
+        <param name="Тип фильтрации">HEPA</param>
+        <param name="Объём пылесборника (л)">2024-08-01 00:00:00</param>
+        <param name="Длина шнура (м)">2024-05-05 00:00:00</param>
+        <param name="Уровень шума (дБ)">80</param>
+        <param name="Габариты (ШхВхГ, см)">29x26x44</param>
+      </offer>
+      <offer id="6005" available="true">
+        <url>http://www.example.com/product/6005</url>
+        <price>8500с</price>
+        <model>BGL3A209</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>df096f3d-f991-4a2b-a428-18c9eb0d72b3</categoryId>
+        <picture>https://m.media-amazon.com/images/I/519twAYNsCL._AC_SL1100_.jpg</picture>
+        <picture>https://m.media-amazon.com/images/I/41ftTyoAU0L._AC_.jpg</picture>
+        <param name="Мощность всасывания (Вт)">330</param>
+        <param name="Тип фильтрации">HEPA</param>
+        <param name="Объём пылесборника (л)">2024-02-01 00:00:00</param>
+        <param name="Длина шнура (м)">7</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Габариты (ШхВхГ, см)">27x23x40</param>
+      </offer>
+      <offer id="6006" available="true">
+        <url>http://www.example.com/product/6006</url>
+        <price>19000с</price>
+        <model>V8 Absolute</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>df096f3d-f991-4a2b-a428-18c9eb0d72b3</categoryId>
+        <picture>https://login.kg/image/cache/webp/catalog/new/Smart%20Home/Pylesos/Dyson/V8%20Absolute/1-1200x800.webp</picture>
+        <picture>https://login.kg/image/cache/webp/catalog/new/Smart%20Home/Pylesos/Dyson/V8%20Absolute/4-1200x800.webp</picture>
+        <param name="Мощность всасывания (Вт)">115</param>
+        <param name="Тип фильтрации">Многоступенчатая</param>
+        <param name="Объём пылесборника (л)">0.54</param>
+        <param name="Длина шнура (м)">Беспроводной</param>
+        <param name="Уровень шума (дБ)">82</param>
+        <param name="Габариты (ШхВхГ, см)">25x22x124</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
