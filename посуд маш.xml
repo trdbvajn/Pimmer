@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="4b86994f-7084-4bc8-9f73-a3464262c4d6">Посудомоечная машина</category>
+    </categories>
+    <offers>
+      <offer id="8001" available="true">
+        <url>http://www.example.com/product/8001</url>
+        <price>22000с</price>
+        <model>DWB-409/5 Встраиваемый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://biryusa.ru/up/import/images/kITGbnQDYJb0eODBU9CsxRbFgb8BIRDAoYZTjooq.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/4evLwAzDwixSFMusAqcDn7m61ubZd4r7EZZ5bYn6.jpg</picture>
+        <param name="Тип установки">Встраиваемая</param>
+        <param name="Вместимость (комплекты)">9</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Количество программ">5</param>
+        <param name="Уровень шума (дБ)">49</param>
+        <param name="Габариты (ШхВхГ, см)">60x82x55</param>
+      </offer>
+      <offer id="8002" available="true">
+        <url>http://www.example.com/product/8002</url>
+        <price>24500с</price>
+        <model>DWB-410/6 Встраиваемый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://biryusa.ru/up/import/images/5cGOMz5ZvK38wtqrPq5yhFh9DzrtahYATXz3UoZc.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/skluiLOd8sBsYvoukwDkN1xgMzaISOnwM3CxoMoQ.jpg</picture>
+        <param name="Тип установки">Встраиваемая</param>
+        <param name="Вместимость (комплекты)">10</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Количество программ">6</param>
+        <param name="Уровень шума (дБ)">48</param>
+        <param name="Габариты (ШхВхГ, см)">60x82x55</param>
+      </offer>
+      <offer id="8003" available="true">
+        <url>http://www.example.com/product/8003</url>
+        <price>28000с</price>
+        <model>DWB-614/6 Встраиваемый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://biryusa.ru/up/import/images/9c8XJXmyLLXT3WkVbPGp67j1wFB6bKvV4lTlqHRH.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/3OA0DRyr6soOIM1PhkLixxWqvsIGOi1xTbf8wUr0.jpg</picture>
+        <param name="Тип установки">Встраиваемая</param>
+        <param name="Вместимость (комплекты)">14</param>
+        <param name="Класс энергоэффективности">A++</param>
+        <param name="Количество программ">6</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Габариты (ШхВхГ, см)">60x82x60</param>
+      </offer>
+      <offer id="8004" available="true">
+        <url>http://www.example.com/product/8004</url>
+        <price>21000с</price>
+        <model>DWF-409/6 W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://biryusa.ru/up/import/images/o9m9Qmdic1hkq9WJsSovn5yBwMXfgNId0fdmCokk.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/34kM30fs6MWW4FH48zqTrj7NgD0tPtMSocwG15m4.jpg</picture>
+        <param name="Тип установки">Отдельностоящая</param>
+        <param name="Вместимость (комплекты)">9</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Количество программ">5</param>
+        <param name="Уровень шума (дБ)">49</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+      <offer id="8005" available="true">
+        <url>http://www.example.com/product/8005</url>
+        <price>24000с</price>
+        <model>DWF-614/5W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://biryusa.ru/up/import/images/QIPWqriyyCkY0LTwycblYYO9U4ec2phrlfV0dIaZ.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/4LFIcikzzuEUtMgJe9LTdlIzMECPBVnMmqavV1dJ.jpg</picture>
+        <param name="Тип установки">Отдельностоящая</param>
+        <param name="Вместимость (комплекты)">14</param>
+        <param name="Класс энергоэффективности">A++</param>
+        <param name="Количество программ">5</param>
+        <param name="Уровень шума (дБ)">47</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+      <offer id="8006" available="true">
+        <url>http://www.example.com/product/8006</url>
+        <price>26000с</price>
+        <model>DWF-614/6 M</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://biryusa.ru/up/import/images/FsUgzPya5Cn97bTO6ZNa5Cfgx61a1LXxdLnVY1pU.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/LhlmPWAun1g41RXWLLYpkNJbb09nLVN5EYgXwYFB.jpg</picture>
+        <param name="Тип установки">Отдельностоящая</param>
+        <param name="Вместимость (комплекты)">14</param>
+        <param name="Класс энергоэффективности">A++</param>
+        <param name="Количество программ">6</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+      <offer id="8007" available="true">
+        <url>http://www.example.com/product/8007</url>
+        <price>25500с</price>
+        <model>DWF-614/6 W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4b86994f-7084-4bc8-9f73-a3464262c4d6</categoryId>
+        <picture>https://technomarket.kg/images/detailed/22/optimize_9jy9-bl.webp</picture>
+        <picture>https://technomarket.kg/images/detailed/22/optimize__6__lqda-v1.webp</picture>
+        <param name="Тип установки">Отдельностоящая</param>
+        <param name="Вместимость (комплекты)">14</param>
+        <param name="Класс энергоэффективности">A++</param>
+        <param name="Количество программ">6</param>
+        <param name="Уровень шума (дБ)">46</param>
+        <param name="Габариты (ШхВхГ, см)">60x85x60</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
