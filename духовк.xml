@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="27ddfe7e-7671-4df6-b511-2c7c91fa26c7">Духовки</category>
+    </categories>
+    <offers>
+      <offer id="5001" available="true">
+        <url>http://www.example.com/product/5001</url>
+        <price>35000с</price>
+        <model>FA5 844 JH IX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>27ddfe7e-7671-4df6-b511-2c7c91fa26c7</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5210379/img_id7243348868778538962.jpeg/optimize</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">71</param>
+        <param name="Класс энергопотребления">A</param>
+        <param name="Максимальная температура (°C)">250</param>
+        <param name="Количество программ">10</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Габариты (ШхВхГ, см)">59.5x59.5x55.1</param>
+      </offer>
+      <offer id="5002" available="true">
+        <url>http://www.example.com/product/5002</url>
+        <price>45000с</price>
+        <model>HBG634BS1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>27ddfe7e-7671-4df6-b511-2c7c91fa26c7</categoryId>
+        <picture>https://www.hausdorf.ru/upload/thumb/catdm/iblock/596/dukhovoy_shkaf_bosch_hbg_634bs1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">71</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Максимальная температура (°C)">300</param>
+        <param name="Количество программ">13</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Габариты (ШхВхГ, см)">59.5x59.4x54.8</param>
+      </offer>
+      <offer id="5003" available="true">
+        <url>http://www.example.com/product/5003</url>
+        <price>40000с</price>
+        <model>NV75N5641RB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>27ddfe7e-7671-4df6-b511-2c7c91fa26c7</categoryId>
+        <picture>https://domobyt.com.ua/content/images/3/1027x1017l80nn0/dukhovoy-shkaf-samsung-nv75n5641rb-48956364410127.webp</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">75</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Максимальная температура (°C)">250</param>
+        <param name="Количество программ">20</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Габариты (ШхВхГ, см)">59.5x59.5x57.0</param>
+      </offer>
+      <offer id="5004" available="true">
+        <url>http://www.example.com/product/5004</url>
+        <price>32000с</price>
+        <model>BO735E30XG</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>27ddfe7e-7671-4df6-b511-2c7c91fa26c7</categoryId>
+        <picture>https://static14.gorenje.com/mabagor/imagelib/largeGallery-thumb-trim/d/6/d60839659a8fbf9acfface95e8848f34_139084_fp.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">71</param>
+        <param name="Класс энергопотребления">A</param>
+        <param name="Максимальная температура (°C)">275</param>
+        <param name="Количество программ">11</param>
+        <param name="Тип управления">Механическое</param>
+        <param name="Габариты (ШхВхГ, см)">59.7x59.5x54.7</param>
+      </offer>
+      <offer id="5005" available="true">
+        <url>http://www.example.com/product/5005</url>
+        <price>30000с</price>
+        <model>EZB52410AK</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>27ddfe7e-7671-4df6-b511-2c7c91fa26c7</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_42_101_1_1_l2d31N.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">60</param>
+        <param name="Класс энергопотребления">A</param>
+        <param name="Максимальная температура (°C)">250</param>
+        <param name="Количество программ">9</param>
+        <param name="Тип управления">Механическое</param>
+        <param name="Габариты (ШхВхГ, см)">59.4x59.4x56.0</param>
+      </offer>
+      <offer id="5006" available="true">
+        <url>http://www.example.com/product/5006</url>
+        <price>47000с</price>
+        <model>HB674GBS1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>27ddfe7e-7671-4df6-b511-2c7c91fa26c7</categoryId>
+        <picture>https://siemens.net.ua/media//cache/images/50/image/900x600/602f0fa2c1f0d1ba5e241f914e856ff9/catalog/product/big_imgf937294e0b89947bb2b35799d4f5a889.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём (л)">71</param>
+        <param name="Класс энергопотребления">A+</param>
+        <param name="Максимальная температура (°C)">300</param>
+        <param name="Количество программ">13</param>
+        <param name="Тип управления">Электронное</param>
+        <param name="Габариты (ШхВхГ, см)">59.5x59.5x54.8</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
