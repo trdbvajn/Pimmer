@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="791fd743-c729-46ea-a7d3-409d316bb732">Холодильник-морозильник</category>
+    </categories>
+    <offers>
+      <offer id="7001" available="true">
+        <url>http://www.example.com/product/7001</url>
+        <price>23000с</price>
+        <model>151</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/ClT7dDSGQv6XStaV10o8oJwJzEZzhAWhKJY48nz1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объем холодильной камеры (л)">220</param>
+        <param name="Объем морозильной камеры (л)">60</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x140x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7002" available="true">
+        <url>http://www.example.com/product/7002</url>
+        <price>30000с</price>
+        <model>6031</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/a7Yrn8olbInbEUPQSJfWEVrRG6e7fUAUsTjPFxcR.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/JtpZiH3rpSsEUjbm0atS3ZbPZFP4rk6zmL0Hmqxe.jpg</picture>
+        <param name="Объем холодильной камеры (л)">240</param>
+        <param name="Объем морозильной камеры (л)">70</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x180x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7003" available="true">
+        <url>http://www.example.com/product/7003</url>
+        <price>27000с</price>
+        <model>6033</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/8rEwQGFkbA1KEEkY6HljEKNIANlS4d5GgP0ZpNCp.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/pvRc5JQhIeEkwSaFbEknClJBqbpSdIxeLQVMbuxC.jpg</picture>
+        <param name="Объем холодильной камеры (л)">230</param>
+        <param name="Объем морозильной камеры (л)">80</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x175x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7004" available="true">
+        <url>http://www.example.com/product/7004</url>
+        <price>24000с</price>
+        <model>6041</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/bRS54xFH7clXJjGRWy12QZUtUmyYhKhJO4ocD2D3.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/xSs6kSzsZ0K6mpe8KkPaNpdC49EnohwarM5kEdGm.jpg</picture>
+        <param name="Объем холодильной камеры (л)">250</param>
+        <param name="Объем морозильной камеры (л)">90</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x190x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7005" available="true">
+        <url>http://www.example.com/product/7005</url>
+        <price>29000с</price>
+        <model>6049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/TU5uVFXL3MoVQuG6HGLoqJMml8mAp3RhYlzkcJKi.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/sOi6tWDnGxM8LQDwaEz1WZ36RtHWYqdayM8CJzwo.jpg</picture>
+        <param name="Объем холодильной камеры (л)">260</param>
+        <param name="Объем морозильной камеры (л)">100</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x195x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7006" available="true">
+        <url>http://www.example.com/product/7006</url>
+        <price>30000с</price>
+        <model>6027</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/Wi5hgSlXla3Tu8fKvfy4HlEQuv9QvVbRThzr5VYT.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/3UPmi7vGMI1sKcVecmGWgxc77oRwvTJK5aZtSg1L.jpg</picture>
+        <param name="Объем холодильной камеры (л)">240</param>
+        <param name="Объем морозильной камеры (л)">90</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x180x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7007" available="true">
+        <url>http://www.example.com/product/7007</url>
+        <price>31000с</price>
+        <model>М6027</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/ET3XHWkFLgSgEw491pd2lT6BS0YNGyeNdgLIkflP.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/szw2rDIjJfssYpFuR9wuS1oU6fZYMoafjuy8tP8P.jpg</picture>
+        <param name="Объем холодильной камеры (л)">240</param>
+        <param name="Объем морозильной камеры (л)">90</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x180x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7008" available="true">
+        <url>http://www.example.com/product/7008</url>
+        <price>31000с</price>
+        <model>М6049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/j3eEoSpwM5PBHlX6i4ohhARm302aaMsHmRnqpYEW.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/f9mUCnKym1OTDWtjbXfPTtyuGVRVVHqQhS77ZKYQ.jpg</picture>
+        <param name="Объем холодильной камеры (л)">260</param>
+        <param name="Объем морозильной камеры (л)">100</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x195x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+      <offer id="7009" available="true">
+        <url>http://www.example.com/product/7009</url>
+        <price>26000с</price>
+        <model>W 6034</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>791fd743-c729-46ea-a7d3-409d316bb732</categoryId>
+        <picture>https://biryusa.ru/up/import/images/42a49vQ6Ixbw4WfhF064MfInuo90ClaEpVkFPDwt.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/v9LIFSYhRTKaMoKwHto2y2jd6WMYYHPfD3ArNLcp.jpg</picture>
+        <param name="Объем холодильной камеры (л)">250</param>
+        <param name="Объем морозильной камеры (л)">90</param>
+        <param name="Класс энергоэффективности">A+</param>
+        <param name="Размораживание">Ручное</param>
+        <param name="Габариты (ШхВхГ, см)">60x190x65</param>
+        <param name="Тип управления">Механическое</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
