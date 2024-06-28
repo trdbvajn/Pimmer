@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="eb52c906-c72f-4f59-b3ef-a4f28179e1f9">Витринный холодильник</category>
+    </categories>
+    <offers>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>34000с</price>
+        <model>Б-310P Белый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>eb52c906-c72f-4f59-b3ef-a4f28179e1f9</categoryId>
+        <picture>https://biryusa.ru/up/import/images/jdVx7dox4dN8PfCSReo8awZlTEfbsZezoxz6iOCC.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/xQQMV8VwggFz8ibFL1suEikX45YhqoyrUdnCK0qO.jpg</picture>
+        <param name="Объем (л)">310</param>
+        <param name="Температурный режим (°C)">0...+7</param>
+        <param name="Тип охлаждения">Динамическое</param>
+        <param name="Потребляемая мощность (Вт)">250</param>
+        <param name="Габариты (ШхВхГ, см)">60x185x65</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>42500с</price>
+        <model>Б-521RN Белый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>eb52c906-c72f-4f59-b3ef-a4f28179e1f9</categoryId>
+        <picture>https://biryusa.ru/up/import/images/8J2WQrss42zzymNxFsQ5BWRNQN69qSXUoOFK1p8n.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/Oc5W8YtWtHkI8Szbq7fwh0ktM02hClT376deYZuG.jpg</picture>
+        <param name="Объем (л)">521</param>
+        <param name="Температурный режим (°C)">0...+7</param>
+        <param name="Тип охлаждения">Динамическое</param>
+        <param name="Потребляемая мощность (Вт)">300</param>
+        <param name="Габариты (ШхВхГ, см)">70x200x70</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
