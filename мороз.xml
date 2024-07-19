@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="9b4376ad-97a6-463a-bfbe-40b05594d236">Морозильники</category>
+    </categories>
+    <offers>
+      <offer id="5001" available="true">
+        <url>http://www.example.com/product/5001</url>
+        <price>22550</price>
+        <model>210 КX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/Y72nFBeqSJzUsmg2fqDbhCl4f2H3I3iTukVcHZCi.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/WA8oz2vx0Udg2QQrey2iYmbhA6fWgI64gL0BRufS.jpg</picture>
+        <param name="Модель">210 КX</param>
+        <param name="Тип (вертикальный/ларь)">ларь</param>
+        <param name="Объем (л)">210</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">1</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5002" available="true">
+        <url>http://www.example.com/product/5002</url>
+        <price>24200</price>
+        <model>240 КX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/AWLvofacWC3Y3XnJikgCV0WYmC8lCJILR540fck0.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/IHTeKMFHBCPkdyFlbD3wSWJI1mgS7fslxlogkVB0.jpg</picture>
+        <param name="Модель">240 КX</param>
+        <param name="Тип (вертикальный/ларь)">ларь</param>
+        <param name="Объем (л)">240</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">2</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5003" available="true">
+        <url>http://www.example.com/product/5003</url>
+        <price>25630</price>
+        <model>260 КX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/VulBav8ez5r86JPyeMZVMy7p31DoheLZLamtQJe7.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/dWQXBVbFSaCfuJm8LkbUvuFL1qwqC568aTvREl8Y.jpg</picture>
+        <param name="Модель">260 КX</param>
+        <param name="Тип (вертикальный/ларь)">ларь</param>
+        <param name="Объем (л)">260</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">2</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5004" available="true">
+        <url>http://www.example.com/product/5004</url>
+        <price>27500</price>
+        <model>285 КX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/qEb6iPJ4QTdsu5sTTyoRuVfr23xDapyBQZGjEvtA.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/cUTuHBjr35hWcxz0RDCAMxjIGwb6pQKLeCOpJVnn.jpg</picture>
+        <param name="Модель">285 КX</param>
+        <param name="Тип (вертикальный/ларь)">ларь</param>
+        <param name="Объем (л)">285</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">2</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5005" available="true">
+        <url>http://www.example.com/product/5005</url>
+        <price>28050</price>
+        <model>305 КX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/1B6ratV5bMSEwU069z6HsmdamsfczC4Xf52n7Inl.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/TzmKRoeflBbBMpBxlhgbX6NCuLUfyaXss75kCp9w.jpg</picture>
+        <param name="Модель">305 КX</param>
+        <param name="Тип (вертикальный/ларь)">ларь</param>
+        <param name="Объем (л)">305</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">3</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5006" available="true">
+        <url>http://www.example.com/product/5006</url>
+        <price>31900</price>
+        <model>355 VK</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://cartesio777.ru/d/560468.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">355 VK</param>
+        <param name="Тип (вертикальный/ларь)">ларь</param>
+        <param name="Объем (л)">355</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">3</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5007" available="true">
+        <url>http://www.example.com/product/5007</url>
+        <price>34650</price>
+        <model>SN 6046</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/2BYYXUuwTNJE19jQ1tpiOGliLs54xFVSd4SRZXdd.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/WFfBOYclhulgYLzDMvZ13vwT521w8oG1A9zNupW9.jpg</picture>
+        <param name="Модель">SN 6046</param>
+        <param name="Тип (вертикальный/ларь)">вертикальный</param>
+        <param name="Объем (л)">300</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">4</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+      <offer id="5008" available="true">
+        <url>http://www.example.com/product/5008</url>
+        <price>30470</price>
+        <model>6046</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9b4376ad-97a6-463a-bfbe-40b05594d236</categoryId>
+        <picture>https://biryusa.ru/up/import/images/w1AogJv5fhBDXyVP0XivtiP0tQ6Mw5gfB7NuQDy3.jpg</picture>
+        <picture>https://biryusa.ru/up/import/images/N3oCUdySA9CKZ3yD8vIo6l9HkZtZyF3fSPCIdQwd.jpg</picture>
+        <param name="Модель">6046</param>
+        <param name="Тип (вертикальный/ларь)">вертикальный</param>
+        <param name="Объем (л)">250</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Количество корзин/ящиков">3</param>
+        <param name="Уровень шума (дБ)">40</param>
+        <param name="Дополнительные функции (система No Frost, режим суперзаморозки и т.д.)">система No Frost, режим суперзаморозки</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
