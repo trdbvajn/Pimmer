@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="fe87bd24-7cc8-4839-8d6d-df813223e0af">Холодильники</category>
+    </categories>
+    <offers>
+      <offer id="6001" available="true">
+        <url>http://www.example.com/product/6001</url>
+        <price>39710</price>
+        <model>RK FNF-172</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://pozis.ru/upload/iblock/03e/f6w3f9yyd1y6hqgyev9braoqp5fbtywt.jpg</picture>
+        <picture>https://pozis.ru/upload/iblock/b62/b623a7d27195b39be3ac7d9d6e45ea26.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">320</param>
+        <param name="Объем (л)">A++</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">38</param>
+        <param name="Уровень шума (дБ)">No Frost, Инверторный компрессор</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6002" available="true">
+        <url>http://www.example.com/product/6002</url>
+        <price>32340</price>
+        <model>RK-139</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://pozis.ru/upload/resize_cache/iblock/684/400_400_140cd750bba9870f18aada2478b24840a/68453d2433d7dca456e7edf8112bf3fd.jpg</picture>
+        <picture>https://pozis.ru/upload/resize_cache/iblock/fce/400_400_140cd750bba9870f18aada2478b24840a/fce0b6c1b4a5394e32a0fd547270aea0.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">290</param>
+        <param name="Объем (л)">A++</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">38</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6003" available="true">
+        <url>http://www.example.com/product/6003</url>
+        <price>32780</price>
+        <model>RK-139</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://www.kivano.kg/images/product/83091/full/1598244288_85041500.jpg</picture>
+        <picture>https://www.kivano.kg/images/product/83091/159824428823075_full.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">290</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6004" available="true">
+        <url>http://www.example.com/product/6004</url>
+        <price>32340</price>
+        <model>RK-139</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://pozis.ru/upload/resize_cache/iblock/06e/400_400_140cd750bba9870f18aada2478b24840a/06e5cd8376e2d542b68525d606140480.jpg</picture>
+        <picture>https://pozis.ru/upload/resize_cache/iblock/730/400_400_140cd750bba9870f18aada2478b24840a/730cea8428ee51188613d18e75943b17.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">290</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6005" available="true">
+        <url>http://www.example.com/product/6005</url>
+        <price>32340</price>
+        <model>RK-139</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://pozis.ru/upload/iblock/070/070c199996922e3f3dfd69033d582652.jpg</picture>
+        <picture>https://pozis.ru/upload/iblock/a3e/a3e54a07dc56421c2b0608b2740b1334.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">290</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6006" available="true">
+        <url>http://www.example.com/product/6006</url>
+        <price>33220</price>
+        <model>RK-149</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://pozis.ru/upload/iblock/e39/e395d8130867bc206c9c8e7ceb7c40a2.jpg</picture>
+        <picture>https://pozis.ru/upload/iblock/563/563fb0dca086fe8f4458da0e7a729e5b.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">310</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6007" available="true">
+        <url>http://www.example.com/product/6007</url>
+        <price>33220</price>
+        <model>RK-149</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://pozis.ru/upload/iblock/80f/80fc669e370c7ae5669b82342de8420b.jpg</picture>
+        <picture>https://pozis.ru/upload/iblock/9aa/9aa841f1098eacff118cda9eb1318d06.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">310</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6008" available="true">
+        <url>http://www.example.com/product/6008</url>
+        <price>35035</price>
+        <model>HD-395FWENH</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://s3p.kattabozor.uz/ri/e9a90db2f84e3adc820445c955f99ad12e58c3dea8eb938e451bbd11aac45cdc_bM2Dyv_640l.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">350</param>
+        <param name="Объем (л)">A++</param>
+        <param name="Энергопотребление (класс)">5</param>
+        <param name="Количество полок/ящиков">38</param>
+        <param name="Уровень шума (дБ)">No Frost, Инверторный компрессор</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6009" available="true">
+        <url>http://www.example.com/product/6009</url>
+        <price>23650</price>
+        <model>HD-276FN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kholodilnik_shivaki_hd_276_fn.jpg</picture>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kholodilnik_shivaki_hd_276_fn_2.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">270</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6010" available="true">
+        <url>http://www.example.com/product/6010</url>
+        <price>24640</price>
+        <model>HD-276FN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://www.artelgroup.org/upload/product_pictures/276-S.png</picture>
+        <picture>nan</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">270</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6011" available="true">
+        <url>http://www.example.com/product/6011</url>
+        <price>24640</price>
+        <model>HD-316FN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://cdn.evrika.com/storage/products/images/medium/pSuyM4xuOFyY7dOHTQizl9jTDnU8J6E9SMJfhYU3.jpg.webp</picture>
+        <picture>https://cdn.evrika.com/storage/products/images/medium/W3ibptT81GkKIOrwUyGVMnUn1UAOWcTDnagLcyKm.jpg.webp</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">310</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6012" available="true">
+        <url>http://www.example.com/product/6012</url>
+        <price>25135</price>
+        <model>HD-316FN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://univershop.uz/wp-content/uploads/2020/07/5e15c24496744.jpg</picture>
+        <picture>https://univershop.uz/wp-content/uploads/2020/07/5e15c2449c274.jpg</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">310</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6013" available="true">
+        <url>http://www.example.com/product/6013</url>
+        <price>40480</price>
+        <model>HD-474 SN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://cdn.mediapark.uz/imgs/13116e6b-ad11-4100-9c75-e01b3d09c425_mediaparkproduct1300x1300.webp</picture>
+        <picture>https://cdn.mediapark.uz/imgs/67de38b4-64be-4e34-9520-615ab2445e28_mediaparkproduct_11300x1300.webp</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">470</param>
+        <param name="Объем (л)">A++</param>
+        <param name="Энергопотребление (класс)">5</param>
+        <param name="Количество полок/ящиков">38</param>
+        <param name="Уровень шума (дБ)">No Frost, Инверторный компрессор</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6014" available="true">
+        <url>http://www.example.com/product/6014</url>
+        <price>26125</price>
+        <model>HD-341FN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://api.radius.uz/storage/products/January2024/d6co4Lb2UvIcTLjFUFKS.webp</picture>
+        <picture>https://api.radius.uz/storage/products/November2023/Z1xTdkOAWMe97HH5xECp.webp</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">340</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6015" available="true">
+        <url>http://www.example.com/product/6015</url>
+        <price>25630</price>
+        <model>HD-341FN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://cdn.mediapark.uz/imgs/c34b38a3-3739-4caa-9248-5064d4fc6ff3_mediaparkproduct1300x1300.webp</picture>
+        <picture>https://cdn.mediapark.uz/imgs/b2400daf-a5e1-4c2d-aed2-11819b7138a5_mediaparkproduct_11300x1300.webp</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">340</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">4</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6016" available="true">
+        <url>http://www.example.com/product/6016</url>
+        <price>48895</price>
+        <model>4623-100</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/holodilniki/atlant/hm-4623-100/Atlant%20%D0%A5%D0%9C%204623-100-1000x1000.png</picture>
+        <picture>https://imperia.kg/image/cache/catalog/holodilniki/atlant/hm-4623-100/Atlant%20%D0%A5%D0%9C%204623-100-10-1000x1000.png</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">460</param>
+        <param name="Объем (л)">A++</param>
+        <param name="Энергопотребление (класс)">5</param>
+        <param name="Количество полок/ящиков">38</param>
+        <param name="Уровень шума (дБ)">No Frost, Инверторный компрессор</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6017" available="true">
+        <url>http://www.example.com/product/6017</url>
+        <price>39490</price>
+        <model>HD-430 RWENE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kholodilnik_shivaki_hd_430rwene__white.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">430</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">5</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost, Инверторный компрессор</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+      <offer id="6018" available="true">
+        <url>http://www.example.com/product/6018</url>
+        <price>40480</price>
+        <model>HD-430 RWENE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>fe87bd24-7cc8-4839-8d6d-df813223e0af</categoryId>
+        <picture>https://teza.shop/uploads/shop/products/large/7d07e82018542de330a888d0784d3785.png</picture>
+        <picture>https://teza.shop/uploads/shop/products/additional/aa9cc0feba75d133998da44f21d468ae1.png</picture>
+        <param name="Модель">Двухкамерный</param>
+        <param name="Тип (одно/двухкамерный)">430</param>
+        <param name="Объем (л)">A+</param>
+        <param name="Энергопотребление (класс)">5</param>
+        <param name="Количество полок/ящиков">39</param>
+        <param name="Уровень шума (дБ)">No Frost, Инверторный компрессор</param>
+        <param name="Дополнительные функции (No Frost, инверторный компрессор, режим суперохлаждения и т.д.)">nan</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
