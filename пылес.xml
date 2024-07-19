@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="85f1b564-ddf5-43b3-9087-58d5d3a15301">Пылесосы</category>
+    </categories>
+    <offers>
+      <offer id="3001" available="true">
+        <url>http://www.example.com/product/3001</url>
+        <price>11275</price>
+        <model>VC(SC)18M21A0SB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://kupi.kg/cache/files/29627.jpg_w800_h800_resize.jpg</picture>
+        <picture>https://kupi.kg/cache/files/29631.jpg_w800_h800_resize.jpg</picture>
+        <param name="Модель">VC(SC)18M21A0SB</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">1800</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3002" available="true">
+        <url>http://www.example.com/product/3002</url>
+        <price>12166</price>
+        <model>VC(SC)18M21COVR</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://systema.kg/429346-large_default/pylesos-samsung-vcsc18m21c0vr.jpg</picture>
+        <picture>https://systema.kg/429349-large_default/pylesos-samsung-vcsc18m21c0vr.jpg</picture>
+        <param name="Модель">VC(SC)18M21COVR</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">2000</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3003" available="true">
+        <url>http://www.example.com/product/3003</url>
+        <price>12760</price>
+        <model>VC(SC)18M21D0VG</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5219059/img_id135133277260089648.jpeg/optimize</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5242010/img_id1468567801474405801.jpeg/optimize</picture>
+        <param name="Модель">VC(SC)18M21D0VG</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">2200</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3004" available="true">
+        <url>http://www.example.com/product/3004</url>
+        <price>12661</price>
+        <model>VC(SC)20M2560JP</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://technomix.kg/wp-content/uploads/2022/12/img_0_24_415_1.jpg</picture>
+        <picture>https://technomix.kg/wp-content/uploads/2022/12/img_0_24_415_3.jpg</picture>
+        <param name="Модель">VC(SC)20M2560JP</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">2000</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3005" available="true">
+        <url>http://www.example.com/product/3005</url>
+        <price>12958</price>
+        <model>VS(SC)18M31A0HP</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://images.samsung.com/is/image/samsung/ru-vc18m31b0hnev-vc18m31a0hp-ev-rperspectivepink-65761571?$2052_1641_PNG$</picture>
+        <picture>https://images.samsung.com/is/image/samsung/ru-vc18m31b0hnev-vc18m31a0hp-ev-dynamicpink-65761573?$684_547_PNG$</picture>
+        <param name="Модель">VS(SC)18M31A0HP</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">1800</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3006" available="true">
+        <url>http://www.example.com/product/3006</url>
+        <price>10978</price>
+        <model>VC5320NNTR</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md07538883/gallery/large02.jpg</picture>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md07538883/gallery/medium01.jpg</picture>
+        <param name="Модель">VC5320NNTR</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">1800</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3007" available="true">
+        <url>http://www.example.com/product/3007</url>
+        <price>12364</price>
+        <model>VC5420NHTR</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://www.lg.com/uz_ru/images/vacuum-cleaners/md07542598/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/uz_ru/images/vacuum-cleaners/md07542598/gallery/large05.jpg</picture>
+        <param name="Модель">VC5420NHTR</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">2000</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3008" available="true">
+        <url>http://www.example.com/product/3008</url>
+        <price>12364</price>
+        <model>VC5420NHTW</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md07517730/gallery/large02.jpg</picture>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md07517730/gallery/large11.jpg</picture>
+        <param name="Модель">VC5420NHTW</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">2000</param>
+        <param name="Объем пылесборника (л)">2.5</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+      <offer id="3009" available="true">
+        <url>http://www.example.com/product/3009</url>
+        <price>9691</price>
+        <model>VK69662N.APBQСIS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>85f1b564-ddf5-43b3-9087-58d5d3a15301</categoryId>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md06194176/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/vacuum-cleaners/md06194176/gallery/large02.jpg</picture>
+        <param name="Модель">VK69662N.APBQСIS</param>
+        <param name="Тип (вертикальный/горизонтальный/робот)">Горизонтальный</param>
+        <param name="Мощность (Вт)">1600</param>
+        <param name="Объем пылесборника (л)">2.0</param>
+        <param name="Уровень шума (дБ)">75</param>
+        <param name="Тип фильтра (HEPA и т.д.)">HEPA</param>
+        <param name="Дополнительные функции (регулировка мощности, турбощетка и т.д.)">Регулировка мощности, турбощетка</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
