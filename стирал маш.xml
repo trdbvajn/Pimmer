@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="8204a46f-be60-4765-8024-59814ca96ebe">Стиральные машины</category>
+    </categories>
+    <offers>
+      <offer id="2001" available="true">
+        <url>http://www.example.com/product/2001</url>
+        <price>26125</price>
+        <model>MFN60-S1003 Slim</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2021/05/mfn60-s1003-slim.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2021/05/mfn60.jpg</picture>
+        <param name="Модель">MFN60-S1003 Slim</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2002" available="true">
+        <url>http://www.example.com/product/2002</url>
+        <price>28897</price>
+        <model>MFN60-S1003S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2022/09/mfn60-s1003s-slim.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2022/09/mfn60-s1003s-slim_5.jpg</picture>
+        <param name="Модель">MFN60-S1003S</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2003" available="true">
+        <url>http://www.example.com/product/2003</url>
+        <price>28600</price>
+        <model>MFE60-S1006S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2021/05/mfe60_silver.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">MFE60-S1006S</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2004" available="true">
+        <url>http://www.example.com/product/2004</url>
+        <price>26620</price>
+        <model>MFE60-S1008S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_874_0_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">MFE60-S1008S</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2005" available="true">
+        <url>http://www.example.com/product/2005</url>
+        <price>35035</price>
+        <model>MFG70-S1411i</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/webp-express/webp-images/uploads/2021/05/mfg70-700x817.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="Модель">MFG70-S1411i</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2006" available="true">
+        <url>http://www.example.com/product/2006</url>
+        <price>31075</price>
+        <model>MFG70-S1411W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://max.kg/nal/img/19073/b_tov_11445072_ebf2a900.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">MFG70-S1411W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2007" available="true">
+        <url>http://www.example.com/product/2007</url>
+        <price>31075</price>
+        <model>MWM 7143 i</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://max.kg/nal/img/19073/b_tov_11447467_f3e919f2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">MWM 7143 i</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2008" available="true">
+        <url>http://www.example.com/product/2008</url>
+        <price>28600</price>
+        <model>MFN70-S1403W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://systema.kg/270872-large_default/stiralnaya-mashina-midea-mfn70-s1403w.jpg</picture>
+        <picture>https://systema.kg/270874-large_default/stiralnaya-mashina-midea-mfn70-s1403w.jpg</picture>
+        <param name="Модель">MFN70-S1403W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2009" available="true">
+        <url>http://www.example.com/product/2009</url>
+        <price>31570</price>
+        <model>MFN70-S1403S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://systema.kg/273879-large_default/stiralnaya-mashina-midea-mfn70-s1403s.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">MFN70-S1403S</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2010" available="true">
+        <url>http://www.example.com/product/2010</url>
+        <price>36025</price>
+        <model>MFC80-ES1401i</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2021/05/mfn60-s.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2021/04/crown-left-side-scaled.jpg</picture>
+        <param name="Модель">MFC80-ES1401i</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">8</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1400</param>
+        <param name="Уровень шума (стирка/отжим)">50/68</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2011" available="true">
+        <url>http://www.example.com/product/2011</url>
+        <price>44440</price>
+        <model>MFC120-ES1401i</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2021/03/mfc-e1615442056994.png</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2021/04/crown-left-side-scaled.jpg</picture>
+        <param name="Модель">MFC120-ES1401i</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">12</param>
+        <param name="Энергопотребление (класс)">A++</param>
+        <param name="Максимальная скорость отжима (об/мин)">1600</param>
+        <param name="Уровень шума (стирка/отжим)">48/65</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2012" available="true">
+        <url>http://www.example.com/product/2012</url>
+        <price>29590</price>
+        <model>MF100W60S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2021/09/mf100front.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2021/09/mf100open.jpg</picture>
+        <param name="Модель">MF100W60S</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2013" available="true">
+        <url>http://www.example.com/product/2013</url>
+        <price>29095</price>
+        <model>MF100W60W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2022/02/mf100w60.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2022/02/mf100w60-2.jpg</picture>
+        <param name="Модель">MF100W60W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2014" available="true">
+        <url>http://www.example.com/product/2014</url>
+        <price>32560</price>
+        <model>MF100W70B/W-C</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2022/02/mf100w60.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2022/02/mf100w60-2.jpg</picture>
+        <param name="Модель">MF100W70B/W-C</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2015" available="true">
+        <url>http://www.example.com/product/2015</url>
+        <price>36025</price>
+        <model>MF100W70B/T-C</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2022/08/mf100w70b.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2022/08/mf100w70b-1.jpg</picture>
+        <param name="Модель">MF100W70B/T-C</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2016" available="true">
+        <url>http://www.example.com/product/2016</url>
+        <price>33055</price>
+        <model>MF100W80</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2022/02/mf100w60-3.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2022/07/mf100w80-baraban-1.jpg</picture>
+        <param name="Модель">MF100W80</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">8</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1400</param>
+        <param name="Уровень шума (стирка/отжим)">50/68</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2017" available="true">
+        <url>http://www.example.com/product/2017</url>
+        <price>35530</price>
+        <model>MF200W70</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2021/04/povernut_mf200-scaled.jpg</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2021/04/bok1_mf200.jpg</picture>
+        <param name="Модель">MF200W70</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2018" available="true">
+        <url>http://www.example.com/product/2018</url>
+        <price>42460</price>
+        <model>MF200W90WB/W-KZ</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2023/02/mf200w90-glavnaya.webp</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2023/02/mf200w90_4.jpg</picture>
+        <param name="Модель">MF200W90WB/W-KZ</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">9</param>
+        <param name="Энергопотребление (класс)">A++</param>
+        <param name="Максимальная скорость отжима (об/мин)">1400</param>
+        <param name="Уровень шума (стирка/отжим)">48/65</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2019" available="true">
+        <url>http://www.example.com/product/2019</url>
+        <price>50380</price>
+        <model>MF200W120WB/W-KZ</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://mideakz.com/wp-content/uploads/2023/01/mf200w120-glavnaya.webp</picture>
+        <picture>https://mideakz.com/wp-content/uploads/2023/01/mf200w120_4.jpg</picture>
+        <param name="Модель">MF200W120WB/W-KZ</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">12</param>
+        <param name="Энергопотребление (класс)">A++</param>
+        <param name="Максимальная скорость отжима (об/мин)">1600</param>
+        <param name="Уровень шума (стирка/отжим)">48/65</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2020" available="true">
+        <url>http://www.example.com/product/2020</url>
+        <price>41965</price>
+        <model>F2M5HS6S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06044636/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06044636/gallery/large06.jpg</picture>
+        <param name="Модель">F2M5HS6S</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2021" available="true">
+        <url>http://www.example.com/product/2021</url>
+        <price>40975</price>
+        <model>F2M5HS6W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06044656/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06044656/gallery/large07.jpg</picture>
+        <param name="Модель">F2M5HS6W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">7</param>
+        <param name="Энергопотребление (класс)">A+</param>
+        <param name="Максимальная скорость отжима (об/мин)">1200</param>
+        <param name="Уровень шума (стирка/отжим)">55/72</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2022" available="true">
+        <url>http://www.example.com/product/2022</url>
+        <price>37015</price>
+        <model>F2J3HS0W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://www.lg.com/ru/images/washing-machines/md07579548/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/washing-machines/md07579548/gallery/large07.jpg</picture>
+        <param name="Модель">F2J3HS0W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2023" available="true">
+        <url>http://www.example.com/product/2023</url>
+        <price>38005</price>
+        <model>F2J3HS2W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06111656/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06111656/gallery/large06.jpg</picture>
+        <param name="Модель">F2J3HS2W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2024" available="true">
+        <url>http://www.example.com/product/2024</url>
+        <price>38005</price>
+        <model>F2J3HS8W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1377_0_1_1vAgnc.jpg</picture>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1377_0_1_jCoaBy.jpg</picture>
+        <param name="Модель">F2J3HS8W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2025" available="true">
+        <url>http://www.example.com/product/2025</url>
+        <price>38005</price>
+        <model>F2J3HS8J</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/stiralnyemashiny/eldzhi/F2J3HS8J/LG%20F2J3HS8J-1000x1000.png</picture>
+        <picture>https://imperia.kg/image/cache/catalog/stiralnyemashiny/eldzhi/F2J3HS8J/LG%20F2J3HS8J%202-1000x1000.png</picture>
+        <param name="Модель">F2J3HS8J</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2026" available="true">
+        <url>http://www.example.com/product/2026</url>
+        <price>38500</price>
+        <model>F2JH3S4L</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1094_0_1.jpg</picture>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1094_2_1.jpg</picture>
+        <param name="Модель">F2JH3S4L</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2027" available="true">
+        <url>http://www.example.com/product/2027</url>
+        <price>34342</price>
+        <model>F2J3WS8W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://kupi.kg/cache/files/44512.jpg_w800_h800_resize.jpg</picture>
+        <picture>https://kupi.kg/cache/files/44513.jpg_w800_h800_resize.jpg</picture>
+        <param name="Модель">F2J3WS8W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2028" available="true">
+        <url>http://www.example.com/product/2028</url>
+        <price>34342</price>
+        <model>F2J3WS1W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1098_0_6.png</picture>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1098_1_6.png</picture>
+        <param name="Модель">F2J3WS1W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2029" available="true">
+        <url>http://www.example.com/product/2029</url>
+        <price>34045</price>
+        <model>F2J3WS0W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06111637/gallery/large01.jpg</picture>
+        <picture>https://www.lg.com/ru/images/washing-machines/md06111637/gallery/large08.jpg</picture>
+        <param name="Модель">F2J3WS0W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2030" available="true">
+        <url>http://www.example.com/product/2030</url>
+        <price>33055</price>
+        <model>F2J3NS8W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1375_0_1_yuEj37.jpg</picture>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_8_1375_0_1_rwkR7e.jpg</picture>
+        <param name="Модель">F2J3NS8W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2031" available="true">
+        <url>http://www.example.com/product/2031</url>
+        <price>33550</price>
+        <model>F2J3NS2W</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2j3ns2w_abwpcom_erok_kz_c/F2J3NS2W_ABWPCOM_EROK_KZ_C-450x450.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">F2J3NS2W</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">6</param>
+        <param name="Энергопотребление (класс)">A</param>
+        <param name="Максимальная скорость отжима (об/мин)">1000</param>
+        <param name="Уровень шума (стирка/отжим)">58/75</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2032" available="true">
+        <url>http://www.example.com/product/2032</url>
+        <price>47410</price>
+        <model>WW80AG6L28BB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/stiralnyemashiny/samsung/%20WW80AG6L28BB/Samsung%20WW80AG6L28BB-1000x1000.png</picture>
+        <picture>https://imperia.kg/image/cache/catalog/stiralnyemashiny/samsung/%20WW80AG6L28BB/Samsung%20WW80AG6L28BB%207-1000x1000.png</picture>
+        <param name="Модель">WW80AG6L28BB</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">8</param>
+        <param name="Энергопотребление (класс)">A++</param>
+        <param name="Максимальная скорость отжима (об/мин)">1400</param>
+        <param name="Уровень шума (стирка/отжим)">50/68</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+      <offer id="2033" available="true">
+        <url>http://www.example.com/product/2033</url>
+        <price>46420</price>
+        <model>WW80AG6L28BE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>8204a46f-be60-4765-8024-59814ca96ebe</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/stiralnyemashiny/samsung/WW80AG6L28BE/Samsung%20WW80AG6L28BE-1000x1000.png</picture>
+        <picture>https://imperia.kg/image/cache/catalog/stiralnyemashiny/samsung/WW80AG6L28BE/Samsung%20WW80AG6L28BE%203-1000x1000.png</picture>
+        <param name="Модель">WW80AG6L28BE</param>
+        <param name="Тип загрузки (фронтальная/вертикальная)">Фронтальная</param>
+        <param name="Объем загрузки (кг)">8</param>
+        <param name="Энергопотребление (класс)">A++</param>
+        <param name="Максимальная скорость отжима (об/мин)">1400</param>
+        <param name="Уровень шума (стирка/отжим)">50/68</param>
+        <param name="Дополнительные функции (инверторный двигатель, Wi-Fi и т.д.)">Инверторный двигатель, Wi-Fi</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
