@@ -7,578 +7,744 @@
       <currency id="KGS" rate="1"/>
     </currencies>
     <categories>
-      <category id="1ded2c8b-0b06-436b-bba9-1c1f828dc562">Кондиционеры</category>
+      <category id="9ad1d317-1367-43e6-a913-1e59373e0dc7">Кондиционеры</category>
     </categories>
     <offers>
-      <offer id="4001" available="true">
-        <url>http://www.example.com/product/4001</url>
-        <price>35000с</price>
-        <model>09-181 inve. -25</model>
+      <offer id="1001" available="true">
+        <url>http://www.example.com/product/1001</url>
+        <price>26510</price>
+        <model>TCL09INV</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-16/541/645/585/231/323/600012151600b0.jpeg</picture>
+        <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-16/541/645/575/231/323/600012151600b1.jpeg</picture>
+        <param name="Модель">TCL09INV</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -15</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi</param>
+      </offer>
+      <offer id="1002" available="true">
+        <url>http://www.example.com/product/1002</url>
+        <price>24035</price>
+        <model>TCL09</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://technoprestige.kg/d/ca9ce05e3d596a8ef8a722743d213e7a568632a8_246012_3c.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-05-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">2024-08-02 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 25</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">TCL09</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4002" available="true">
-        <url>http://www.example.com/product/4002</url>
-        <price>32000с</price>
-        <model>12/170 -15</model>
+      <offer id="1003" available="true">
+        <url>http://www.example.com/product/1003</url>
+        <price>28985</price>
+        <model>TCL12</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://zor.store/images/thumbnails/550/450/detailed/81/CHIGO___12-170_split_%E2%84%961.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kondiczioner_tcl_tac-12chs-xa91.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-05-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">2024-08-03 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 35</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">TCL12</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">40</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4003" available="true">
-        <url>http://www.example.com/product/4003</url>
-        <price>33000с</price>
-        <model>12/186 -15</model>
+      <offer id="1004" available="true">
+        <url>http://www.example.com/product/1004</url>
+        <price>27610</price>
+        <model>TCL12INV</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://climatronic.com.ua/wp-content/uploads/2022/12/11-129.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-05-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">2024-08-03 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 35</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">TCL12INV</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">40</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4004" available="true">
-        <url>http://www.example.com/product/4004</url>
-        <price>40000с</price>
-        <model>12/181 inve. -25</model>
+      <offer id="1005" available="true">
+        <url>http://www.example.com/product/1005</url>
+        <price>39985</price>
+        <model>TCL24</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kondiczioner_tcl_tac-24chs-xa21.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-05-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">2024-08-03 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 35</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">TCL24</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">50</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4005" available="true">
-        <url>http://www.example.com/product/4005</url>
-        <price>58000с</price>
-        <model>18/181 inve. -25</model>
+      <offer id="1006" available="true">
+        <url>http://www.example.com/product/1006</url>
+        <price>23540</price>
+        <model>AUX09FH</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://climat312.kg/wp-content/uploads/image-2-1-600x600.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.kivano.kg/images/product/107345/full/1654683182_89568800.jpg</picture>
+        <picture>https://www.kivano.kg/images/product/107345/165468318289224_full.jpg</picture>
+        <param name="Модель">AUX09FH</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1007" available="true">
+        <url>http://www.example.com/product/1007</url>
+        <price>27500</price>
+        <model>AUX12FH</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://klimatkontrole.lv/wp-content/uploads/aux-freedom-400x400-1.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">5.0</param>
-        <param name="Мощность обогрева (кВт)">2024-05-05 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">45</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">AUX12FH</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">40</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4006" available="true">
-        <url>http://www.example.com/product/4006</url>
-        <price>60000с</price>
-        <model>24/170 -15</model>
+      <offer id="1008" available="true">
+        <url>http://www.example.com/product/1008</url>
+        <price>28985</price>
+        <model>AUX09QE</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://climat312.kg/wp-content/uploads/chigo-09-170-split.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/AUX/QE%20INVERTER/AUX%2009%20QE%20INVERTER-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">7.0</param>
-        <param name="Мощность обогрева (кВт)">2024-05-07 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 72</param>
-        <param name="Уровень шума (дБ)">48</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+        <param name="Модель">AUX09QE</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -15</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi</param>
       </offer>
-      <offer id="4007" available="true">
-        <url>http://www.example.com/product/4007</url>
-        <price>17500с</price>
-        <model>07 лето -7</model>
+      <offer id="1009" available="true">
+        <url>http://www.example.com/product/1009</url>
+        <price>30470</price>
+        <model>AUX12QE</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-20_15-26-34.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-04-30_10-49-02-removebg-preview.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-01-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">2024-03-02 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 21</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">AUX12QE</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">40</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -15</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4008" available="true">
-        <url>http://www.example.com/product/4008</url>
-        <price>20500с</price>
-        <model>09 лето -7</model>
+      <offer id="1010" available="true">
+        <url>http://www.example.com/product/1010</url>
+        <price>41470</price>
+        <model>AUX18FH</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/4hbv4f9k210gbzly6ua1qoaoc23taaql.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/AUX/FH9/AUX%209FH-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">AUX18FH</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">50</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4009" available="true">
-        <url>http://www.example.com/product/4009</url>
-        <price>23500с</price>
-        <model>09 инвертор -20</model>
+      <offer id="1011" available="true">
+        <url>http://www.example.com/product/1011</url>
+        <price>51370</price>
+        <model>AUX24FH</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/899f6ca60d5a170270420845e75f6aa8_640x480-removebg-preview.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/AUX/FH9/AUX%209FH-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">AUX24FH</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">70</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">40.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4010" available="true">
-        <url>http://www.example.com/product/4010</url>
-        <price>24500с</price>
-        <model>12 лето -7</model>
+      <offer id="1012" available="true">
+        <url>http://www.example.com/product/1012</url>
+        <price>25190</price>
+        <model>BEKO09</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/4hbv4f9k210gbzly6ua1qoaoc23taaql-1.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/full_kondiczioner_beko_bnlh_090-091_1.jpg</picture>
+        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/full_kondiczioner_beko_bnlh_090-091.jpg</picture>
+        <param name="Модель">BEKO09</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">nan</param>
+        <param name="Уровень шума (дБ)">nan</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">nan</param>
+      </offer>
+      <offer id="1013" available="true">
+        <url>http://www.example.com/product/1013</url>
+        <price>28490</price>
+        <model>BEKO12</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2020/07/%D0%B1%D0%B5%D0%BA%D0%BE2%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">43</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">BEKO12</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">40</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4011" available="true">
-        <url>http://www.example.com/product/4011</url>
-        <price>27500с</price>
-        <model>12 инвертор -20</model>
+      <offer id="1014" available="true">
+        <url>http://www.example.com/product/1014</url>
+        <price>40310</price>
+        <model>BEKO18</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-41-1.jpg</picture>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-45-4.jpg</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">43</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
-      </offer>
-      <offer id="4012" available="true">
-        <url>http://www.example.com/product/4012</url>
-        <price>35500с</price>
-        <model>18 лето -7</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-20_15-26-34-1.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2020/07/%D0%B1%D0%B5%D0%BA%D0%BE2%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">45</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">BEKO18</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">50</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4013" available="true">
-        <url>http://www.example.com/product/4013</url>
-        <price>35500с</price>
-        <model>18 инвертор -20</model>
+      <offer id="1015" available="true">
+        <url>http://www.example.com/product/1015</url>
+        <price>54230</price>
+        <model>BEKO24</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-41-1.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://www.tabilga.kg/wp-content/uploads/2020/07/%D0%B1%D0%B5%D0%BA%D0%BE2%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">45</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">BEKO24</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">50</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -5</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4014" available="true">
-        <url>http://www.example.com/product/4014</url>
-        <price>44500с</price>
-        <model>24 лето -7</model>
+      <offer id="1016" available="true">
+        <url>http://www.example.com/product/1016</url>
+        <price>27995</price>
+        <model>MSAF4-09</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/02/photo_2024-02-05_16-54-41-1.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/5844/869643988/16.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">8.0</param>
-        <param name="Площадь охлаждения (м²)">до 72</param>
-        <param name="Уровень шума (дБ)">48</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+        <param name="Модель">MSAF4-09</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4015" available="true">
-        <url>http://www.example.com/product/4015</url>
-        <price>25000с</price>
-        <model>MSAF21-09HRN8-1 -7</model>
+      <offer id="1017" available="true">
+        <url>http://www.example.com/product/1017</url>
+        <price>31955</price>
+        <model>MSAF4-12</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-1.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/6250/869644394/16.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">MSAF4-12</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">40</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4016" available="true">
-        <url>http://www.example.com/product/4016</url>
-        <price>25000с</price>
-        <model>MSAF21-09HRN8-0 -7</model>
+      <offer id="1018" available="true">
+        <url>http://www.example.com/product/1018</url>
+        <price>42955</price>
+        <model>MSAF4-18</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://elsooda.kg/media/products/2556/ANFRAZBMOEQMMNH.png.510x510_q85_crop-smart.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/r/Okek2bjlgJc/rs:fit:1000:1000:1/plain/images/products/1/7257/869645401/17.jpg@webp</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">MSAF4-18</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">50</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4017" available="true">
-        <url>http://www.example.com/product/4017</url>
-        <price>30000с</price>
-        <model>MSAF21-12HRN8-1 -7</model>
+      <offer id="1019" available="true">
+        <url>http://www.example.com/product/1019</url>
+        <price>57805</price>
+        <model>MSAF4-24</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-2.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/7721/869645865/17.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">MSAF4-24</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">70</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">40.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4018" available="true">
-        <url>http://www.example.com/product/4018</url>
-        <price>30000с</price>
-        <model>MSAF21-12HRN8-0 -7</model>
+      <offer id="1020" available="true">
+        <url>http://www.example.com/product/1020</url>
+        <price>32945</price>
+        <model>AG09INV</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/5739/871577195/21.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">AG09INV</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">32.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4019" available="true">
-        <url>http://www.example.com/product/4019</url>
-        <price>40500с</price>
-        <model>MSAF21-18HRN8-1 -7</model>
+      <offer id="1021" available="true">
+        <url>http://www.example.com/product/1021</url>
+        <price>36905</price>
+        <model>AG12INV</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/5845/871577301/22.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">AG12INV</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">45</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4020" available="true">
-        <url>http://www.example.com/product/4020</url>
-        <price>40500с</price>
-        <model>MSAF21-18HRN8-0 -7</model>
+      <offer id="1022" available="true">
+        <url>http://www.example.com/product/1022</url>
+        <price>49885</price>
+        <model>AG18INV</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/5986/871577442/23.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">AG18INV</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">55</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">40.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4021" available="true">
-        <url>http://www.example.com/product/4021</url>
-        <price>52000с</price>
-        <model>MSAF21-24HRN8-1 -7</model>
+      <offer id="1023" available="true">
+        <url>http://www.example.com/product/1023</url>
+        <price>61765</price>
+        <model>AG24INV</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://elsooda.kg/media/products/2561/U8YHGXEOZ1XE4PV.png.510x510_q85_crop-smart.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/6040/871577496/23.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">8.0</param>
-        <param name="Площадь охлаждения (м²)">до 72</param>
-        <param name="Уровень шума (дБ)">46</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+        <param name="Модель">AG24INV</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">75</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -20</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">40.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Wi-Fi, медная труба</param>
       </offer>
-      <offer id="4022" available="true">
-        <url>http://www.example.com/product/4022</url>
-        <price>52000с</price>
-        <model>MSAF21-24HRN8-0 -7</model>
+      <offer id="1024" available="true">
+        <url>http://www.example.com/product/1024</url>
+        <price>19030</price>
+        <model>OVIO07N1</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/03/msaf-09hrn8-i-750x750-removebg-preview-3.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://cdn.devcats.kg/ads/CM5Ua7s2sbl9XvFd3LRuxcBlWhX9qBxmDBhm8wcRpSz52NhDVO.WEBP</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">8.0</param>
-        <param name="Площадь охлаждения (м²)">до 72</param>
-        <param name="Уровень шума (дБ)">46</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+        <param name="Модель">OVIO07N1</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">20</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">7000.0</param>
+        <param name="Уровень шума (дБ)">28.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4023" available="true">
-        <url>http://www.example.com/product/4023</url>
-        <price>22000с</price>
-        <model>09 FHR1 лето -7</model>
+      <offer id="1025" available="true">
+        <url>http://www.example.com/product/1025</url>
+        <price>21560</price>
+        <model>OVIO09N1</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://farro.shop/wp-content/uploads/2020/09/AUX-FREEDOM-ON-OFF-ASW-H18A4-FAR1-farro.shop-1.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://cdn.devcats.kg/ads/0XKxt5W7Y6C3AssHpJ4Q54uwudwoa22mbIvHVxTRJKMWNaprtw.WEBP</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">OVIO09N1</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">25</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">28.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4024" available="true">
-        <url>http://www.example.com/product/4024</url>
-        <price>28000с</price>
-        <model>09 DI инвертор -20</model>
+      <offer id="1026" available="true">
+        <url>http://www.example.com/product/1026</url>
+        <price>26015</price>
+        <model>OVIO12N1</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://www.technopolis.kg/components/com_jshopping/files/img_products/kondiczioner_aux_asw-h09a4_fhr1.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://cdn.devcats.kg/ads/RBWMxNcYEXjxYcAyak2Oh2ldryxyhTi0JvlG6Tl443joJSkaS0.WEBP</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">OVIO12N1</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4025" available="true">
-        <url>http://www.example.com/product/4025</url>
-        <price>26000с</price>
-        <model>12 FHR1 лето -7</model>
+      <offer id="1027" available="true">
+        <url>http://www.example.com/product/1027</url>
+        <price>20075</price>
+        <model>CH08K</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://content.rozetka.com.ua/goods/images/big/17119501.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://img5.lalafo.com/i/posters/original/d9/b1/f8/conditioner-column-classic-cooling-mode-heating-mode-56167089_image-1713587505.jpeg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">CH08K</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">25</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">28.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4026" available="true">
-        <url>http://www.example.com/product/4026</url>
-        <price>30000с</price>
-        <model>12 DI инвертор -20</model>
+      <offer id="1028" available="true">
+        <url>http://www.example.com/product/1028</url>
+        <price>22055</price>
+        <model>CH09K</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://it-climate.com.ua/uploads/shop/products/large/08a31475be59a2a015e3d7fb8dc849dd.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://img5.lalafo.com/i/posters/original/d9/b1/f8/conditioner-column-classic-cooling-mode-heating-mode-56167089_image-1713587505.jpeg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">CH09K</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4027" available="true">
-        <url>http://www.example.com/product/4027</url>
-        <price>38000с</price>
-        <model>18 FHR1 лето -7</model>
+      <offer id="1029" available="true">
+        <url>http://www.example.com/product/1029</url>
+        <price>24035</price>
+        <model>DFH-09K</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://content1.rozetka.com.ua/goods/images/big/17119272.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://images.satu.kz/219935652_w640_h640_nastennyj-konditsioner-changhong.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">DFH-09K</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">30</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">28.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
       </offer>
-      <offer id="4028" available="true">
-        <url>http://www.example.com/product/4028</url>
-        <price>49000с</price>
-        <model>18 DI инвертор -20</model>
+      <offer id="1030" available="true">
+        <url>http://www.example.com/product/1030</url>
+        <price>26510</price>
+        <model>DF-12K</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://content1.rozetka.com.ua/goods/images/big/52670415.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://images.satu.kz/219935652_w640_h640_nastennyj-konditsioner-changhong.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">DF-12K</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
       </offer>
-      <offer id="4029" available="true">
-        <url>http://www.example.com/product/4029</url>
-        <price>45000с</price>
-        <model>18 QCR-15</model>
+      <offer id="1031" available="true">
+        <url>http://www.example.com/product/1031</url>
+        <price>40975</price>
+        <model>DF-18K</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_16-50-09.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://images.satu.kz/219935652_w640_h640_nastennyj-konditsioner-changhong.jpg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">DF-18K</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">45</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
       </offer>
-      <offer id="4030" available="true">
-        <url>http://www.example.com/product/4030</url>
-        <price>48000с</price>
-        <model>24 FHR лето -7</model>
+      <offer id="1032" available="true">
+        <url>http://www.example.com/product/1032</url>
+        <price>51370</price>
+        <model>CH24K</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://strgimgr.umico.az/sized/1680/535814-24ddc494d1b11431510f83b9ad4b2f42.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://img5.lalafo.com/i/posters/api/4e/0e/1f/43a57c6192cc2f5837b7ea8165.jpeg</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">8.0</param>
-        <param name="Площадь охлаждения (м²)">до 72</param>
-        <param name="Уровень шума (дБ)">46</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+        <param name="Модель">CH24K</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">70</param>
+        <param name="Тип (инверторный/неинверторный)">Неинверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">40.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4031" available="true">
-        <url>http://www.example.com/product/4031</url>
-        <price>56000с</price>
-        <model>24 QCR-15</model>
+      <offer id="1033" available="true">
+        <url>http://www.example.com/product/1033</url>
+        <price>29590</price>
+        <model>SAM07</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/04/photo_2024-04-30_10-49-02-removebg-preview.png</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR07BQHQ/Samsung%20AR07BQHQ-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-02-07 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">8.0</param>
-        <param name="Площадь охлаждения (м²)">до 72</param>
-        <param name="Уровень шума (дБ)">46</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">110x35x24</param>
+        <param name="Модель">SAM07</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">20</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">7000.0</param>
+        <param name="Уровень шума (дБ)">28.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4032" available="true">
-        <url>http://www.example.com/product/4032</url>
-        <price>18500с</price>
-        <model>07 лето -7</model>
+      <offer id="1034" available="true">
+        <url>http://www.example.com/product/1034</url>
+        <price>31570</price>
+        <model>SAM09</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_17-24-50.jpg</picture>
-        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_17-24-57.jpg</picture>
-        <param name="Мощность охлаждения (кВт)">2024-01-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">2024-03-02 00:00:00</param>
-        <param name="Площадь охлаждения (м²)">до 21</param>
-        <param name="Уровень шума (дБ)">40</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
-      </offer>
-      <offer id="4033" available="true">
-        <url>http://www.example.com/product/4033</url>
-        <price>23000с</price>
-        <model>09 лето -7</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://cityclimate.kg/wp-content/uploads/2022/03/changhong-photo2.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR07BQHQ/Samsung%20AR07BQHQ-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">SAM09</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">25</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
-      <offer id="4034" available="true">
-        <url>http://www.example.com/product/4034</url>
-        <price>25000с</price>
-        <model>09 инвертор -20</model>
+      <offer id="1035" available="true">
+        <url>http://www.example.com/product/1035</url>
+        <price>36520</price>
+        <model>AR09TXHQ</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://cdn.ts-market.kz/wa-data/public/shop/products/29/64/26429/images/28701/28701.970.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR09TXHQ/Samsung%20AR09TXHQ-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-07-02 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">3.0</param>
-        <param name="Площадь охлаждения (м²)">до 27</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">AR09TXHQ</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">25</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
       </offer>
-      <offer id="4035" available="true">
-        <url>http://www.example.com/product/4035</url>
-        <price>25500с</price>
-        <model>12 лето -7</model>
+      <offer id="1036" available="true">
+        <url>http://www.example.com/product/1036</url>
+        <price>35530</price>
+        <model>AR12BQHQ</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://images.satu.kz/183681115_w640_h640_konditsioner-changhong-chg-12.jpg</picture>
-        <picture>https://images.satu.kz/183681117_w640_h640_konditsioner-changhong-chg-12.jpg</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
-      </offer>
-      <offer id="4036" available="true">
-        <url>http://www.example.com/product/4036</url>
-        <price>29500с</price>
-        <model>12 инвертор -20</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://moroz.kg/wp-content/uploads/2024/01/photo_2024-01-08_17-24-50-1.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR07BQHQ/Samsung%20AR07BQHQ-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-06-03 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">4.0</param>
-        <param name="Площадь охлаждения (м²)">до 36</param>
-        <param name="Уровень шума (дБ)">42</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">80x30x20</param>
+        <param name="Модель">AR12BQHQ</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
       </offer>
-      <offer id="4037" available="true">
-        <url>http://www.example.com/product/4037</url>
-        <price>37500с</price>
-        <model>18 лето -7</model>
+      <offer id="1037" available="true">
+        <url>http://www.example.com/product/1037</url>
+        <price>40975</price>
+        <model>AR12TXHQ</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://tgrad.kz/upload/resize_cache/iblock/545/1000_1000_1/81uelhpyopm6lf1blfqksu0g9o36ct34.webp</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR09TXHQ/Samsung%20AR09TXHQ-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">AR12TXHQ</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
       </offer>
-      <offer id="4038" available="true">
-        <url>http://www.example.com/product/4038</url>
-        <price>41000с</price>
-        <model>18 инвертор -20</model>
+      <offer id="1038" available="true">
+        <url>http://www.example.com/product/1038</url>
+        <price>49390</price>
+        <model>AR18BQHQ</model>
         <currencyId>KGS</currencyId>
-        <categoryId>1ded2c8b-0b06-436b-bba9-1c1f828dc562</categoryId>
-        <picture>https://images.satu.kz/183379661_w640_h640_183379661.jpg</picture>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR07BQHQ/Samsung%20AR07BQHQ-1000x1000.png</picture>
         <picture>nan</picture>
-        <param name="Мощность охлаждения (кВт)">2024-04-05 00:00:00</param>
-        <param name="Мощность обогрева (кВт)">6.0</param>
-        <param name="Площадь охлаждения (м²)">до 54</param>
-        <param name="Уровень шума (дБ)">44</param>
-        <param name="Тип хладагента">R410A</param>
-        <param name="Габариты внутреннего блока (ШхВхГ, см)">90x33x23</param>
+        <param name="Модель">AR18BQHQ</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">45</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
+      </offer>
+      <offer id="1039" available="true">
+        <url>http://www.example.com/product/1039</url>
+        <price>58300</price>
+        <model>AR18BXHQ</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR07BQHQ/Samsung%20AR07BQHQ-1000x1000.png</picture>
+        <picture>nan</picture>
+        <param name="Модель">AR18BXHQ</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">45</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">до -10</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба, Wi-Fi</param>
+      </offer>
+      <offer id="1040" available="true">
+        <url>http://www.example.com/product/1040</url>
+        <price>66220</price>
+        <model>SAM24</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://imperia.kg/image/cache/catalog/kondicionery/samsung/AR07BQHQ/Samsung%20AR07BQHQ-1000x1000.png</picture>
+        <picture>nan</picture>
+        <param name="Модель">SAM24</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">70</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">24000.0</param>
+        <param name="Уровень шума (дБ)">40.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1041" available="true">
+        <url>http://www.example.com/product/1041</url>
+        <price>32560</price>
+        <model>SH12HM</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6070/kondicioner-shivaki-art-12hm-12-k-1657799178056-xl.webp</picture>
+        <picture>nan</picture>
+        <param name="Модель">SH12HM</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1042" available="true">
+        <url>http://www.example.com/product/1042</url>
+        <price>39490</price>
+        <model>SH18HM</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/6071/kondicioner-shivaki-art-18hm-18-k-1657799159522-xl.webp</picture>
+        <picture>nan</picture>
+        <param name="Модель">SH18HM</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">50</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">18000.0</param>
+        <param name="Уровень шума (дБ)">35.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1043" available="true">
+        <url>http://www.example.com/product/1043</url>
+        <price>29590</price>
+        <model>SH09BE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://tezz.uz/uploads/images/product/553/thumbs/215548-10501050.jpg</picture>
+        <picture>https://tezz.uz/uploads/images/product/553/thumbs/215548_1-10501050.jpg</picture>
+        <param name="Модель">SH09BE</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">25</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1044" available="true">
+        <url>http://www.example.com/product/1044</url>
+        <price>32065</price>
+        <model>SH12BE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://elmakon.uz/images/thumbnails/1461/1195/detailed/39/photo_2023-05-15_15-12-32.jpg</picture>
+        <picture>https://elmakon.uz/images/thumbnails/1280/1048/detailed/39/photo_2023-05-15_15-14-05.jpg</picture>
+        <param name="Модель">SH12BE</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1045" available="true">
+        <url>http://www.example.com/product/1045</url>
+        <price>29590</price>
+        <model>SH09SE</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://cdn.mediapark.uz/imgs/a4a22e1f-1b06-4e2a-b819-ccf338ff0dac_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-1.webp</picture>
+        <picture>https://cdn.mediapark.uz/imgs/9454da30-9910-4a46-a74d-c43890a8d37e_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-2.webp</picture>
+        <param name="Модель">SH09SE</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">25</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">9000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
+      </offer>
+      <offer id="1046" available="true">
+        <url>http://www.example.com/product/1046</url>
+        <price>39490</price>
+        <model>SH12SA</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>9ad1d317-1367-43e6-a913-1e59373e0dc7</categoryId>
+        <picture>https://cdn.mediapark.uz/imgs/94f3fde1-810a-43bf-b06e-0cd470154139_test.webp</picture>
+        <picture>https://cdn.mediapark.uz/imgs/a933a309-1098-4ea7-bbe7-6591acdd832c_test.webp</picture>
+        <param name="Модель">SH12SA</param>
+        <param name="Площадь обогрева/охлаждения (кв.м)">35</param>
+        <param name="Тип (инверторный/неинверторный)">Инверторный</param>
+        <param name="Рабочий диапазон температур (зима/лето)">-</param>
+        <param name="Мощность (BTU)">12000.0</param>
+        <param name="Уровень шума (дБ)">30.0</param>
+        <param name="Дополнительные функции (Wi-Fi, медная труба и т.д.)">Медная труба</param>
       </offer>
     </offers>
   </shop>
