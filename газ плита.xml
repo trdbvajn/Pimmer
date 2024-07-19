@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="aedccfea-e16a-403d-9655-1b726063074b">Плиты</category>
+    </categories>
+    <offers>
+      <offer id="4001" available="true">
+        <url>http://www.example.com/product/4001</url>
+        <price>18700</price>
+        <model>APETITO 01-E</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://tulpar.kg/image/cache/catalog/byttehnika-photo/plity/gaz-plita-shivaki-apetito-1-e-700x700.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">APETITO 01-E</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">нержавеющая сталь</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4002" available="true">
+        <url>http://www.example.com/product/4002</url>
+        <price>18700</price>
+        <model>APETITO 01-G</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_16_293_0.png</picture>
+        <picture>nan</picture>
+        <param name="Модель">APETITO 01-G</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">нержавеющая сталь</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4003" available="true">
+        <url>http://www.example.com/product/4003</url>
+        <price>18700</price>
+        <model>APETITO 01-G</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://bt24.kz/images/thumbnails/803/702/detailed/12/product_image_8280_25580_mcqo-8s.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">APETITO 01-G</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">нержавеющая сталь</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4004" available="true">
+        <url>http://www.example.com/product/4004</url>
+        <price>18700</price>
+        <model>APETITO 01-E</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://tulpar.kg/image/cache/catalog/byttehnika-photo/plity/gaz-plita-shivaki-apetito-1-e-grey-700x700.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">APETITO 01-E</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">нержавеющая сталь</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4005" available="true">
+        <url>http://www.example.com/product/4005</url>
+        <price>19690</price>
+        <model>MILAGRO 01-E</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://tehnomaxplus.ru/upload/resize_cache/webp/iblock/b07/mm0qr8trij0uphvqymnlwg9tzd7snic3.webp</picture>
+        <picture>https://tehnomaxplus.ru/upload/resize_cache/webp/iblock/e1a/f4t95oiaoi3m4s0hhgrzr3ucltcy8tu3.webp</picture>
+        <param name="Модель">MILAGRO 01-E</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4006" available="true">
+        <url>http://www.example.com/product/4006</url>
+        <price>19690</price>
+        <model>MILAGRO 01-E</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://bt24.kz/images/thumbnails/400/350/detailed/14/%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F__6__8xnw-k4.png</picture>
+        <picture>nan</picture>
+        <param name="Модель">MILAGRO 01-E</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4007" available="true">
+        <url>http://www.example.com/product/4007</url>
+        <price>21175</price>
+        <model>COMARELLO 01-E</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_16_280_0.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">COMARELLO 01-E</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">нержавеющая сталь</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4008" available="true">
+        <url>http://www.example.com/product/4008</url>
+        <price>21175</price>
+        <model>COMARELLO 01-E</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://bt24.kz/images/thumbnails/400/350/detailed/12/product_image_8280_25580__1__lj01-k2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">COMARELLO 01-E</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">нержавеющая сталь</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4009" available="true">
+        <url>http://www.example.com/product/4009</url>
+        <price>19195</price>
+        <model>DOLCE 01-EX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://resources.cdn-kaspi.kz/img/m/p/ha1/h7a/63799503847454.jpg?format=gallery-large</picture>
+        <picture>nan</picture>
+        <param name="Модель">DOLCE 01-EX</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4010" available="true">
+        <url>http://www.example.com/product/4010</url>
+        <price>19195</price>
+        <model>DOLCE 01-EX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://bt24.kz/images/thumbnails/572/501/detailed/12/main_rtcn-3d.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">DOLCE 01-EX</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4011" available="true">
+        <url>http://www.example.com/product/4011</url>
+        <price>19195</price>
+        <model>DOLCE 01-EX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://tulpar.kg/image/cache/catalog/byttehnika-photo/plity/gaz-plita-shivaki-dolce-01-ex-grey-700x700.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">DOLCE 01-EX</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4012" available="true">
+        <url>http://www.example.com/product/4012</url>
+        <price>20185</price>
+        <model>DOLCE 21-EX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://tulpar.kg/image/cache/catalog/byttehnika-photo/plity/gaz-plita-shivaki-dolce-21-ex-black-new-700x700.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">DOLCE 21-EX</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4013" available="true">
+        <url>http://www.example.com/product/4013</url>
+        <price>20185</price>
+        <model>DOLCE 21-EX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://systema.kg/483786-large_default/artel-2-2-dolce-21-ex-konvekciya-seryj-plita.jpg</picture>
+        <picture>https://systema.kg/483787-large_default/artel-2-2-dolce-21-ex-konvekciya-seryj-plita.jpg</picture>
+        <param name="Модель">DOLCE 21-EX</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+      <offer id="4014" available="true">
+        <url>http://www.example.com/product/4014</url>
+        <price>20185</price>
+        <model>DOLCE 21-EX</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>aedccfea-e16a-403d-9655-1b726063074b</categoryId>
+        <picture>https://tulpar.kg/image/cache/catalog/byttehnika-photo/plity/gaz-plita-shivaki-dolce-21-ex-white-700x700.jpg</picture>
+        <picture>nan</picture>
+        <param name="Модель">DOLCE 21-EX</param>
+        <param name="Количество конфорок">4</param>
+        <param name="Материал поверхности (нержавеющая сталь, эмаль и т.д.)">эмаль</param>
+        <param name="Тип управления (механическое/электронное)">механическое</param>
+        <param name="Наличие духовки (да/нет)">да</param>
+        <param name="Объем духовки (л)">60</param>
+        <param name="Дополнительные функции (газ-контроль, электророзжиг и т.д.)">газ-контроль, электророзжиг</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
