@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="388a24bf-123a-4c78-b927-c94466c4f8ec">USB накопители (Флешки)</category>
+    </categories>
+    <offers>
+      <offer id="10001" available="true">
+        <url>http://www.example.com/product/10001</url>
+        <price>1000</price>
+        <model>USB FLASH ADATA 128 GB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>388a24bf-123a-4c78-b927-c94466c4f8ec</categoryId>
+        <picture>https://www.delta.kg/images/detailed/103/18934.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">128 GB</param>
+        <param name="Скорость чтения">100 MB/s</param>
+        <param name="Скорость записи">20 MB/s</param>
+        <param name="Тип подключения">USB 3.0</param>
+        <param name="Производитель">ADATA</param>
+      </offer>
+      <offer id="10002" available="true">
+        <url>http://www.example.com/product/10002</url>
+        <price>350</price>
+        <model>USB FLASH ADATA 16GB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>388a24bf-123a-4c78-b927-c94466c4f8ec</categoryId>
+        <picture>https://kalem.kg/wp-content/uploads/2021/04/16-FLESHKA.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">16 GB</param>
+        <param name="Скорость чтения">50 MB/s</param>
+        <param name="Скорость записи">10 MB/s</param>
+        <param name="Тип подключения">USB 2.0</param>
+        <param name="Производитель">ADATA</param>
+      </offer>
+      <offer id="10003" available="true">
+        <url>http://www.example.com/product/10003</url>
+        <price>500</price>
+        <model>USB FLASH ADATA 32 GB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>388a24bf-123a-4c78-b927-c94466c4f8ec</categoryId>
+        <picture>https://systema.kg/513511-medium_default/usb-flash-adata-32gb-ur340-usb-32-black.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">32 GB</param>
+        <param name="Скорость чтения">50 MB/s</param>
+        <param name="Скорость записи">10 MB/s</param>
+        <param name="Тип подключения">USB 2.0</param>
+        <param name="Производитель">ADATA</param>
+      </offer>
+      <offer id="10004" available="true">
+        <url>http://www.example.com/product/10004</url>
+        <price>700</price>
+        <model>USB FLASH ADATA 64 GB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>388a24bf-123a-4c78-b927-c94466c4f8ec</categoryId>
+        <picture>https://systema.kg/141566-medium_default/usb-flash-adata-64gb-uv128-usb-30-black-blue-black-yellow.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">64 GB</param>
+        <param name="Скорость чтения">100 MB/s</param>
+        <param name="Скорость записи">20 MB/s</param>
+        <param name="Тип подключения">USB 3.0</param>
+        <param name="Производитель">ADATA</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
