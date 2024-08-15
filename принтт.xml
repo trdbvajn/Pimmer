@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="f68ab658-85c1-4a6f-86f7-abb140127598">Принтеры</category>
+    </categories>
+    <offers>
+      <offer id="70001" available="true">
+        <url>http://www.example.com/product/70001</url>
+        <price>18500</price>
+        <model>Epson Ecotank l3250</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://systema.kg/432757-large_default/mfu-epson-l3250-fabrika-pechati-wi-fi.jpg</picture>
+        <picture>https://systema.kg/432758-large_default/mfu-epson-l3250-fabrika-pechati-wi-fi.jpg</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Струйная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">5760x1440</param>
+        <param name="Скорость печати (стр./мин.)">10 (моно), 5 (цветная)</param>
+        <param name="Подключение">USB, Wi-Fi</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Epson</param>
+      </offer>
+      <offer id="70002" available="true">
+        <url>http://www.example.com/product/70002</url>
+        <price>18500</price>
+        <model>Epson Ecotank l3251</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://www.kivano.kg/images/product/117453/full/1676548279_50841500.png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Струйная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">5760x1440</param>
+        <param name="Скорость печати (стр./мин.)">10 (моно), 5 (цветная)</param>
+        <param name="Подключение">USB, Wi-Fi</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Epson</param>
+      </offer>
+      <offer id="70003" available="true">
+        <url>http://www.example.com/product/70003</url>
+        <price>17000</price>
+        <model>pantum m6500w</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://drivers.pantum.ru/userfiles/images/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/21png(1).png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x1200</param>
+        <param name="Скорость печати (стр./мин.)">22 (моно)</param>
+        <param name="Подключение">USB, Wi-Fi</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Pantum</param>
+      </offer>
+      <offer id="70004" available="true">
+        <url>http://www.example.com/product/70004</url>
+        <price>16000</price>
+        <model>Pantum m6507</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://drivers.pantum.ru/userfiles/images/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/%E4%B8%BB%E5%9B%BE/2013/6507%E7%81%B0%E8%89%B2/7.png</picture>
+        <picture>https://drivers.pantum.ru/userfiles/images/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/%E4%B8%BB%E5%9B%BE/2013/6507%E7%81%B0%E8%89%B2/9.png</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x1200</param>
+        <param name="Скорость печати (стр./мин.)">22 (моно)</param>
+        <param name="Подключение">USB</param>
+        <param name="Наличие Wi-Fi">Нет</param>
+        <param name="Производитель">Pantum</param>
+      </offer>
+      <offer id="70005" available="true">
+        <url>http://www.example.com/product/70005</url>
+        <price>17000</price>
+        <model>pantum m6507w</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://drivers.pantum.ru/userfiles/images/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/%E4%B8%BB%E5%9B%BE/2013/6507%E7%81%B0%E8%89%B2/8.png</picture>
+        <picture>https://drivers.pantum.ru/userfiles/images/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87/%E4%B8%BB%E5%9B%BE/2013/6507%E7%81%B0%E8%89%B2/11.png</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x1200</param>
+        <param name="Скорость печати (стр./мин.)">22 (моно)</param>
+        <param name="Подключение">USB, Wi-Fi</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Pantum</param>
+      </offer>
+      <offer id="70006" available="true">
+        <url>http://www.example.com/product/70006</url>
+        <price>20500</price>
+        <model>pantum m6550nw</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://drivers.pantum.ru/userfiles/images/product/1(2)_1644224886584.png</picture>
+        <picture>https://drivers.pantum.ru/userfiles/images/product/3(2)_1644224886634.png</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x1200</param>
+        <param name="Скорость печати (стр./мин.)">22 (моно)</param>
+        <param name="Подключение">USB, Wi-Fi</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Pantum</param>
+      </offer>
+      <offer id="70007" available="true">
+        <url>http://www.example.com/product/70007</url>
+        <price>21500</price>
+        <model>Pantum m6700DW</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/e39/800_800_1d0e97ea46f4438969ab06dd5b311ca67/e39a9178eaa53668a816db33c90a19e2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x1200</param>
+        <param name="Скорость печати (стр./мин.)">30 (моно)</param>
+        <param name="Подключение">USB, Wi-Fi, Ethernet</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Pantum</param>
+      </offer>
+      <offer id="70008" available="true">
+        <url>http://www.example.com/product/70008</url>
+        <price>11000</price>
+        <model>Pantum p2500w</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://systema.kg/194522-large_default/pantum-p2500w-black-1200kh1200-dpi-ch-b-22-str-min-usb-wifi.jpg</picture>
+        <picture>https://systema.kg/194523-large_default/pantum-p2500w-black-1200kh1200-dpi-ch-b-22-str-min-usb-wifi.jpg</picture>
+        <param name="Тип устройства">Принтер</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x1200</param>
+        <param name="Скорость печати (стр./мин.)">22 (моно)</param>
+        <param name="Подключение">USB, Wi-Fi</param>
+        <param name="Наличие Wi-Fi">Да</param>
+        <param name="Производитель">Pantum</param>
+      </offer>
+      <offer id="70009" available="true">
+        <url>http://www.example.com/product/70009</url>
+        <price>26000</price>
+        <model>МФУ принтер 3в1 Canon mf3010</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://systema.kg/350977-large_default/canon-imageclass-mf3010-printer-copier-scanera418ppm1200x600dpiscaner-1200x600dpi-usb-cartr325.jpg</picture>
+        <picture>https://systema.kg/350978-large_default/canon-imageclass-mf3010-printer-copier-scanera418ppm1200x600dpiscaner-1200x600dpi-usb-cartr325.jpg</picture>
+        <param name="Тип устройства">МФУ (Принтер, Сканер, Копир)</param>
+        <param name="Тип печати">Лазерная</param>
+        <param name="Максимальный формат">A4</param>
+        <param name="Разрешение печати (dpi)">1200x600</param>
+        <param name="Скорость печати (стр./мин.)">19 (моно)</param>
+        <param name="Подключение">USB</param>
+        <param name="Наличие Wi-Fi">Нет</param>
+        <param name="Производитель">Canon</param>
+      </offer>
+      <offer id="70010" available="true">
+        <url>http://www.example.com/product/70010</url>
+        <price>4400</price>
+        <model>Принтер для баркода  Xprinter XP-365B 3inch direct thermal barcode&amp;Receipt printer USB,Black,127mm/s,EU plug</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f68ab658-85c1-4a6f-86f7-abb140127598</categoryId>
+        <picture>https://systema.kg/429234-large_default/xprinter-xp-365b-3inch-direct-thermal-barcodereceipt-printer-usbblack127mm-seu-plug.jpg</picture>
+        <picture>https://systema.kg/429235-large_default/xprinter-xp-365b-3inch-direct-thermal-barcodereceipt-printer-usbblack127mm-seu-plug.jpg</picture>
+        <param name="Тип устройства">Принтер для этикеток</param>
+        <param name="Тип печати">Термопечать</param>
+        <param name="Максимальный формат">3 дюйма</param>
+        <param name="Разрешение печати (dpi)">203 dpi</param>
+        <param name="Скорость печати (стр./мин.)">127 мм/сек</param>
+        <param name="Подключение">USB</param>
+        <param name="Наличие Wi-Fi">Нет</param>
+        <param name="Производитель">Xprinter</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
