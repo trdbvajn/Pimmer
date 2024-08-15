@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="b722d262-8979-48a8-b311-7138b5793852">Ноутбуки</category>
+    </categories>
+    <offers>
+      <offer id="60001" available="true">
+        <url>http://www.example.com/product/60001</url>
+        <price>50000</price>
+        <model>Acer Aspire 3 I3 1215u mx550  8/512gb 15.6FHD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b722d262-8979-48a8-b311-7138b5793852</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/855/800_800_1d0e97ea46f4438969ab06dd5b311ca67/85545113992f1f47e4486d433229923f.jpg</picture>
+        <picture>nan</picture>
+        <param name="Процессор">Intel Core i3-1215U</param>
+        <param name="Оперативная память">8 GB</param>
+        <param name="Объём накопителя">512 GB SSD</param>
+        <param name="Диагональ экрана">15.6"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">IPS</param>
+        <param name="Частота обновления экрана">60 Гц</param>
+        <param name="Графика">NVIDIA MX550</param>
+        <param name="Производитель">Acer</param>
+      </offer>
+      <offer id="60002" available="true">
+        <url>http://www.example.com/product/60002</url>
+        <price>47000</price>
+        <model>Acer Aspire 3 ryzen 7 5700u  8/512gb FHD ips</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b722d262-8979-48a8-b311-7138b5793852</categoryId>
+        <picture>https://systema.kg/506354-large_default/acer-aspire-3-a315-ryzen-r7-5700u-18-43ghz8gbssd-512gb-156fhd-ipssilver.jpg</picture>
+        <picture>https://systema.kg/506355-large_default/acer-aspire-3-a315-ryzen-r7-5700u-18-43ghz8gbssd-512gb-156fhd-ipssilver.jpg</picture>
+        <param name="Процессор">AMD Ryzen 7 5700U</param>
+        <param name="Оперативная память">8 GB</param>
+        <param name="Объём накопителя">512 GB SSD</param>
+        <param name="Диагональ экрана">15.6"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">IPS</param>
+        <param name="Частота обновления экрана">60 Гц</param>
+        <param name="Графика">Интегрированная</param>
+        <param name="Производитель">Acer</param>
+      </offer>
+      <offer id="60003" available="true">
+        <url>http://www.example.com/product/60003</url>
+        <price>37000</price>
+        <model>Acer Extensa 15 core i3 1215U 8/256 DDR4</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b722d262-8979-48a8-b311-7138b5793852</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/fe0/800_800_1d0e97ea46f4438969ab06dd5b311ca67/fe0b417f6f3a3415247f62eaf44f12b0.jpg</picture>
+        <picture>nan</picture>
+        <param name="Процессор">Intel Core i3-1215U</param>
+        <param name="Оперативная память">8 GB</param>
+        <param name="Объём накопителя">256 GB SSD</param>
+        <param name="Диагональ экрана">15.6"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">TN</param>
+        <param name="Частота обновления экрана">60 Гц</param>
+        <param name="Графика">Интегрированная</param>
+        <param name="Производитель">Acer</param>
+      </offer>
+      <offer id="60004" available="true">
+        <url>http://www.example.com/product/60004</url>
+        <price>48000</price>
+        <model>Dell Vostro i5 1215u 8/512gb FHD ips 120hz</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b722d262-8979-48a8-b311-7138b5793852</categoryId>
+        <picture>https://systema.kg/490308-large_default/dell-vostro-3520-intel-core-i3-1215u-6-yader-8-potokov-up-to-44ghz-156-led-full-hd-ips-1920-x-1080-120hz-16gb-512gb-ssd-pcie-nvm.jpg</picture>
+        <picture>https://systema.kg/490309-large_default/dell-vostro-3520-intel-core-i3-1215u-6-yader-8-potokov-up-to-44ghz-156-led-full-hd-ips-1920-x-1080-120hz-16gb-512gb-ssd-pcie-nvm.jpg</picture>
+        <param name="Процессор">Intel Core i5-1215U</param>
+        <param name="Оперативная память">8 GB</param>
+        <param name="Объём накопителя">512 GB SSD</param>
+        <param name="Диагональ экрана">15.6"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">IPS</param>
+        <param name="Частота обновления экрана">120 Гц</param>
+        <param name="Графика">Интегрированная</param>
+        <param name="Производитель">Dell</param>
+      </offer>
+      <offer id="60005" available="true">
+        <url>http://www.example.com/product/60005</url>
+        <price>25000</price>
+        <model>Lenovo V15 IGL n4020 4/240gb 15.6 HD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b722d262-8979-48a8-b311-7138b5793852</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/947/700_700_1d0e97ea46f4438969ab06dd5b311ca67/9476d3597f46aa6f6b130f1df1669eb6.jpg</picture>
+        <picture>nan</picture>
+        <param name="Процессор">Intel Celeron N4020</param>
+        <param name="Оперативная память">4 GB</param>
+        <param name="Объём накопителя">240 GB SSD</param>
+        <param name="Диагональ экрана">15.6"</param>
+        <param name="Разрешение экрана">1366x768</param>
+        <param name="Тип матрицы">TN</param>
+        <param name="Частота обновления экрана">60 Гц</param>
+        <param name="Графика">Интегрированная</param>
+        <param name="Производитель">Lenovo</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
