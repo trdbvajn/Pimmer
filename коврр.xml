@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="0f37c7ba-d75f-46ee-87c6-c6e0e218c06e">Коврики для мыши</category>
+    </categories>
+    <offers>
+      <offer id="4001" available="true">
+        <url>http://www.example.com/product/4001</url>
+        <price>230</price>
+        <model>Коврик A4tech</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0f37c7ba-d75f-46ee-87c6-c6e0e218c06e</categoryId>
+        <picture>https://login.kg/image/cache/webp/catalog/new/Aksessuary/Mouse/A4tech/Kovrik/X7-200MP/2-1200x800.webp</picture>
+        <picture>nan</picture>
+        <param name="Размеры (ШxДxТ)">250x210x3 мм</param>
+        <param name="Материал поверхности">Ткань</param>
+        <param name="Основание">Резина</param>
+        <param name="Поддержка запястья">Нет</param>
+        <param name="Цвет">Черный</param>
+        <param name="Производитель">A4tech</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
