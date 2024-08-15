@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="69d1fc23-a12a-4a3e-8740-a50ea93a2da5">Провода</category>
+    </categories>
+    <offers>
+      <offer id="80001" available="true">
+        <url>http://www.example.com/product/80001</url>
+        <price>200</price>
+        <model>DTECH Кабель USB 2.0 VGA 1.5m</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://www.delta.kg/images/detailed/104/23705.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">USB 2.0 to VGA</param>
+        <param name="Длина (м)">2024-05-01 00:00:00</param>
+        <param name="Разъемы">USB 2.0, VGA</param>
+        <param name="Тип экранирования">Нет</param>
+        <param name="Производитель">DTECH</param>
+      </offer>
+      <offer id="80002" available="true">
+        <url>http://www.example.com/product/80002</url>
+        <price>950</price>
+        <model>Кабель UGREEN DP 102 Display Port  5 м, Черный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://www.delta.kg/images/detailed/105/32522.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">DisplayPort</param>
+        <param name="Длина (м)">5</param>
+        <param name="Разъемы">DisplayPort</param>
+        <param name="Тип экранирования">Да</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+      <offer id="80003" available="true">
+        <url>http://www.example.com/product/80003</url>
+        <price>340</price>
+        <model>Кабель UGREEN HDMI 2 метра HD101 V1.4 черно-желтый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://systema.kg/454343-large_default/kabel-ugreen-hd101-hdmi-v14-2m-chyorno-zhyoltyj-10129.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">HDMI</param>
+        <param name="Длина (м)">2</param>
+        <param name="Разъемы">HDMI</param>
+        <param name="Тип экранирования">Да</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+      <offer id="80004" available="true">
+        <url>http://www.example.com/product/80004</url>
+        <price>600</price>
+        <model>Кабель UGREEN VGA-VGA 3м черный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://www.delta.kg/images/detailed/106/31561.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">VGA</param>
+        <param name="Длина (м)">3</param>
+        <param name="Разъемы">VGA</param>
+        <param name="Тип экранирования">Нет</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+      <offer id="80005" available="true">
+        <url>http://www.example.com/product/80005</url>
+        <price>400</price>
+        <model>Патчкорт UTP 10м, Желтый не экранированный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://img.abn.ru/img/goods/w1000h1000/204717.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">UTP (Cat5e)</param>
+        <param name="Длина (м)">10</param>
+        <param name="Разъемы">RJ-45</param>
+        <param name="Тип экранирования">Нет</param>
+        <param name="Производитель">Не указано</param>
+      </offer>
+      <offer id="80006" available="true">
+        <url>http://www.example.com/product/80006</url>
+        <price>600</price>
+        <model>Патчкорт UTP 15м, голубой неэкранированный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://systema.kg/495242-large_default/patchkord-utp-kat-6u-15m-neekranirovannyj-goluboj-ugreen-nw102-11207.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">UTP (Cat5e)</param>
+        <param name="Длина (м)">15</param>
+        <param name="Разъемы">RJ-45</param>
+        <param name="Тип экранирования">Нет</param>
+        <param name="Производитель">Не указано</param>
+      </offer>
+      <offer id="80007" available="true">
+        <url>http://www.example.com/product/80007</url>
+        <price>150</price>
+        <model>Патчкорт UTP 3м, голубой не экранированный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://systema.kg/495261-large_default/setevoj-kabel-ugreen-nw102-cat-6-u-utp-lan-3m-goluboj-11203.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">UTP (Cat5e)</param>
+        <param name="Длина (м)">3</param>
+        <param name="Разъемы">RJ-45</param>
+        <param name="Тип экранирования">Нет</param>
+        <param name="Производитель">Не указано</param>
+      </offer>
+      <offer id="80008" available="true">
+        <url>http://www.example.com/product/80008</url>
+        <price>200</price>
+        <model>Патчкорт UTP 5м, Желтый не экранированный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>69d1fc23-a12a-4a3e-8740-a50ea93a2da5</categoryId>
+        <picture>https://kolmen.ru/image/cache/catalog/i/dl/be/07678ef621917652716cd22023b16f68-1000x1000.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип кабеля">UTP (Cat5e)</param>
+        <param name="Длина (м)">5</param>
+        <param name="Разъемы">RJ-45</param>
+        <param name="Тип экранирования">Нет</param>
+        <param name="Производитель">Не указано</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
