@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="09641ab2-1d64-4e6f-abea-a36c4095d5b9&#10;">Клавиатуры</category>
+    </categories>
+    <offers>
+      <offer id="20001" available="true">
+        <url>http://www.example.com/product/20001</url>
+        <price>1000</price>
+        <model>A4TECH KM-720 FN-KEY MULTIMEDIA KEYBOARD USB BLACK US+RUSSIAN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://wizard.kg/wp-content/uploads/2022/11/A4TECH-KM-720.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">A4TECH</param>
+      </offer>
+      <offer id="20002" available="true">
+        <url>http://www.example.com/product/20002</url>
+        <price>1750</price>
+        <model>Bloody B135N игровая клавиатура</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/602/900_525_1d0e97ea46f4438969ab06dd5b311ca67/602d4b6f40127ca558cb383501794d85.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">Bloody</param>
+      </offer>
+      <offer id="20003" available="true">
+        <url>http://www.example.com/product/20003</url>
+        <price>830</price>
+        <model>DELUX K-180U keyboard</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://www.kivano.kg/images/product/94906/full/1625056861_51063600.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">DELUX</param>
+      </offer>
+      <offer id="20004" available="true">
+        <url>http://www.example.com/product/20004</url>
+        <price>715</price>
+        <model>DELUX K6888U keyboard</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://systema.kg/524801-large_default/delux-k6888u-wired-keyboard-black-usb-ruskg.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">DELUX</param>
+      </offer>
+      <offer id="20005" available="true">
+        <url>http://www.example.com/product/20005</url>
+        <price>4100</price>
+        <model>Клавиатура беспроводная UGREEN FUN MU001 USB (оптическая DPI max: 4000 84 клавиш англ раскладка) 1800mAh</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://ae04.alicdn.com/kf/Se2765cd2ddef4c25ac8207147d3e5e0dZ.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Беспроводная (USB)</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+      <offer id="20006" available="true">
+        <url>http://www.example.com/product/20006</url>
+        <price>4000</price>
+        <model>Клавиатура игровая проводная механическая Redragon  Phantom K629-RGB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://www.delta.kg/images/detailed/107/32719.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Механическая</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="20007" available="true">
+        <url>http://www.example.com/product/20007</url>
+        <price>5000</price>
+        <model>Клавиатура игровая проводная механическая Redragon  Trundle K668-RGB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://www.delta.kg/images/detailed/107/32720.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Механическая</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="20008" available="true">
+        <url>http://www.example.com/product/20008</url>
+        <price>2000</price>
+        <model>Набор SVEN Клава+Мышь+Коврик Черный GS9200</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://www.sven.fi/upload/iblock_photos/keyboard/gs-9200/011-photo-zoom.png</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">SVEN</param>
+      </offer>
+      <offer id="20009" available="true">
+        <url>http://www.example.com/product/20009</url>
+        <price>1700</price>
+        <model>Набор SVEN Клава+Мышь Черный GS9100</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>09641ab2-1d64-4e6f-abea-a36c4095d5b9
+</categoryId>
+        <picture>https://www.delta.kg/images/detailed/105/33018.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиатуры">Мембранная</param>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">SVEN</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
