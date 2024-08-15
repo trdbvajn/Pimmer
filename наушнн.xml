@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="855a8b0e-7155-4ce9-afda-ffe896d22318">Наушники</category>
+    </categories>
+    <offers>
+      <offer id="50001" available="true">
+        <url>http://www.example.com/product/50001</url>
+        <price>1300</price>
+        <model>Наушники A4TECH HS-30i стерео</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://www.kivano.kg/images/product/76546/full/1580795653_35818400.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные (3.5 мм)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип звука">Стерео</param>
+        <param name="Производитель">A4TECH</param>
+      </offer>
+      <offer id="50002" available="true">
+        <url>http://www.example.com/product/50002</url>
+        <price>3000</price>
+        <model>Наушники игровые Redragon Diomedes  H386 (С микрофоном, накладные проводные)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://ae04.alicdn.com/kf/Sf74ba3f30a744bacbb9dc9254c696575j.jpg_640x640.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные (USB)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип звука">2024-01-07 00:00:00</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="50003" available="true">
+        <url>http://www.example.com/product/50003</url>
+        <price>3300</price>
+        <model>Наушники игровые Redragon IREH848</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://www.delta.kg/images/detailed/107/32735.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные (3.5 мм)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип звука">Стерео</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="50004" available="true">
+        <url>http://www.example.com/product/50004</url>
+        <price>3500</price>
+        <model>Наушники игровые Redragon Luna</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://www.delta.kg/images/detailed/107/32734.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/107/32734_1.jpg</picture>
+        <param name="Тип подключения">Проводные (USB)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип звука">2024-01-07 00:00:00</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="50005" available="true">
+        <url>http://www.example.com/product/50005</url>
+        <price>2700</price>
+        <model>Наушники игровые Redragon Pandora H350 (С микрофоном  накладные проводные)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://systema.kg/520600-large_default/naushniki-igrovye-redragon-pandora-h350-s-mikrofonom-nakladnye-provodnye-mini-jack-35-stereo-usb-20rgb-podsvetka-chernyj.jpg</picture>
+        <picture>https://systema.kg/520601-large_default/naushniki-igrovye-redragon-pandora-h350-s-mikrofonom-nakladnye-provodnye-mini-jack-35-stereo-usb-20rgb-podsvetka-chernyj.jpg</picture>
+        <param name="Тип подключения">Проводные (USB)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип звука">2024-01-07 00:00:00</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="50006" available="true">
+        <url>http://www.example.com/product/50006</url>
+        <price>2500</price>
+        <model>Наушники с микрофоном A4TECH BLOODY G220 Neon Gaming</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://systema.kg/446512-large_default/naushniki-s-mikrofonom-a4tech-bloody-g220-neon-gaming-35mm-usb-black.jpg</picture>
+        <picture>https://systema.kg/446514-large_default/naushniki-s-mikrofonom-a4tech-bloody-g220-neon-gaming-35mm-usb-black.jpg</picture>
+        <param name="Тип подключения">Проводные (USB)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип звука">2024-01-07 00:00:00</param>
+        <param name="Производитель">A4TECH</param>
+      </offer>
+      <offer id="50007" available="true">
+        <url>http://www.example.com/product/50007</url>
+        <price>2300</price>
+        <model>Наушники с микрофоном A4TECH BLOODY G230P RGB Gaming</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://systema.kg/404450-large_default/naushniki-s-mikrofonom-a4tech-bloody-g230p-rgb-gaming-35mm-black.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные (USB)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип звука">2024-01-07 00:00:00</param>
+        <param name="Производитель">A4TECH</param>
+      </offer>
+      <offer id="50008" available="true">
+        <url>http://www.example.com/product/50008</url>
+        <price>2150</price>
+        <model>Наушники с микрофоном A4TECH BLOODY G260 RGB Gaming</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>855a8b0e-7155-4ce9-afda-ffe896d22318</categoryId>
+        <picture>https://prime-pc.md/files/products/1fg651adsf56g1dras6t5g4drfa56tgy4fd65sa165y4fd56ga1sr6t54eay.800x600wn.jpg?3d723129a2fc5222787433d2147a7695</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные (USB)</param>
+        <param name="Форм-фактор">Накладные</param>
+        <param name="Наличие микрофона">Да</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип звука">2024-01-07 00:00:00</param>
+        <param name="Производитель">A4TECH</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
