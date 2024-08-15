@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="7cf08e91-256d-4dd5-9f6b-530a151466d4">Мониторы</category>
+    </categories>
+    <offers>
+      <offer id="30001" available="true">
+        <url>http://www.example.com/product/30001</url>
+        <price>6500</price>
+        <model>Монитор LCD 22 "DAHUA" DHL-LM22-A200F 1920X1080</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>7cf08e91-256d-4dd5-9f6b-530a151466d4</categoryId>
+        <picture>https://systema.kg/496185-large_default/monitor-lcd-22-dahua-dhi-lm22-a200f-19201080-va-5ms-100hz-200cd-m2-3000-1-178-178-vga1-hdmi1vesa-100x100-hdmi-kabel-black.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана">22"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">TN</param>
+        <param name="Время отклика (мс)">5</param>
+        <param name="Частота обновления (Гц)">60</param>
+        <param name="Интерфейсы">VGA, HDMI</param>
+        <param name="Наличие динамиков">Нет</param>
+      </offer>
+      <offer id="30002" available="true">
+        <url>http://www.example.com/product/30002</url>
+        <price>9900</price>
+        <model>Монитор LCD 23.8 DAHUA 1920x1080 IPS 4ms 75Hz  VGA HDMI  Speaker Черный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>7cf08e91-256d-4dd5-9f6b-530a151466d4</categoryId>
+        <picture>https://systema.kg/451435-large_default/monitor-lcd-24-dahua-dhi-lm24-b201s-1920x1080-ips-4ms-75hz-250cd-m2-1000-1-178-178-vga-hdmi-speaker-1w-kabel-hdmi-18m-plastic-bl.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана">23.8"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">IPS</param>
+        <param name="Время отклика (мс)">4</param>
+        <param name="Частота обновления (Гц)">75</param>
+        <param name="Интерфейсы">VGA, HDMI</param>
+        <param name="Наличие динамиков">Да</param>
+      </offer>
+      <offer id="30003" available="true">
+        <url>http://www.example.com/product/30003</url>
+        <price>18200</price>
+        <model>Монитор игровой 24 "PHILIPS" 1920x1080, IPS  1 ms 165ghz  HDMI</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>7cf08e91-256d-4dd5-9f6b-530a151466d4</categoryId>
+        <picture>https://systema.kg/435391-large_default/monitor-philips-24-24m1n3200va-19201080-165ghz.jpg</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана">24"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">IPS</param>
+        <param name="Время отклика (мс)">1</param>
+        <param name="Частота обновления (Гц)">165</param>
+        <param name="Интерфейсы">HDMI, DisplayPort</param>
+        <param name="Наличие динамиков">Нет</param>
+      </offer>
+      <offer id="30004" available="true">
+        <url>http://www.example.com/product/30004</url>
+        <price>19000</price>
+        <model>Монитор игровой 27 "PHILIPS" 1920x1080, IPS  1 ms 165ghz  HDMI</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>7cf08e91-256d-4dd5-9f6b-530a151466d4</categoryId>
+        <picture>https://gh.kg/wp-content/uploads/2024/06/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2024-07-04_123934168.png</picture>
+        <picture>nan</picture>
+        <param name="Диагональ экрана">27"</param>
+        <param name="Разрешение экрана">1920x1080</param>
+        <param name="Тип матрицы">IPS</param>
+        <param name="Время отклика (мс)">1</param>
+        <param name="Частота обновления (Гц)">165</param>
+        <param name="Интерфейсы">HDMI, DisplayPort</param>
+        <param name="Наличие динамиков">Нет</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
