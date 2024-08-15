@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="4032bff7-4f34-456c-826b-7c21c05f86a1">Геймпады</category>
+    </categories>
+    <offers>
+      <offer id="2001" available="true">
+        <url>http://www.example.com/product/2001</url>
+        <price>2500</price>
+        <model>Геймпад беспроводной SVEN GC-5070</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4032bff7-4f34-456c-826b-7c21c05f86a1</categoryId>
+        <picture>https://i.siteapi.org/EOsZKQaTGaLDBzwf5pg2yDPkwIw=/fit-in/1024x768/center/top/s.siteapi.org/31a773fa5d89a2b.ru/img/sibzqj7oxbkosw0cw0804s88ocoo4w</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводная (2.4 GHz)</param>
+        <param name="Совместимость">PC, Android, PS3</param>
+        <param name="Количество кнопок">12</param>
+        <param name="Вибрация">Да</param>
+        <param name="Время работы от батареи">До 10 часов</param>
+        <param name="Емкость батареи">600 mAh</param>
+        <param name="Производитель">SVEN</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
