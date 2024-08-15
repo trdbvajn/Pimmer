@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="d43c38a2-5494-4248-b43e-ff169debf4b7">Power bank и зарядные устройства</category>
+    </categories>
+    <offers>
+      <offer id="90001" available="true">
+        <url>http://www.example.com/product/90001</url>
+        <price>2200</price>
+        <model>Power bank UGREEN PB200 (10000mAH ) PD20 22W 5</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d43c38a2-5494-4248-b43e-ff169debf4b7</categoryId>
+        <picture>https://systema.kg/495192-large_default/power-bank-ugreen-pb200-10000mah-pd20w225w-input-type-cx1-output-type-cx1-usbx1-80700.jpg</picture>
+        <picture>nan</picture>
+        <param name="Емкость батареи (mAh)">10000</param>
+        <param name="Мощность (Вт)">22W</param>
+        <param name="Тип подключения">USB-C, USB-A</param>
+        <param name="Количество портов">2</param>
+        <param name="Цвет">Черный</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+      <offer id="90002" available="true">
+        <url>http://www.example.com/product/90002</url>
+        <price>1700</price>
+        <model>Зарядное устройство UGREEN CD170 Type C 36W  Белый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d43c38a2-5494-4248-b43e-ff169debf4b7</categoryId>
+        <picture>https://www.delta.kg/images/detailed/103/32537.jpg</picture>
+        <picture>nan</picture>
+        <param name="Емкость батареи (mAh)">Не применимо</param>
+        <param name="Мощность (Вт)">36W</param>
+        <param name="Тип подключения">USB-C</param>
+        <param name="Количество портов">1</param>
+        <param name="Цвет">Белый</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
