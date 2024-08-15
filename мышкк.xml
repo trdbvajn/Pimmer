@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="58bc12b4-6a28-4a37-885c-35e1e858bf9a">Мышки</category>
+    </categories>
+    <offers>
+      <offer id="40001" available="true">
+        <url>http://www.example.com/product/40001</url>
+        <price>1460</price>
+        <model>A4TECH BLOODY ES5 ESPORTS RGB MOUSE STONE BLACK 3200 CPI USB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://systema.kg/479255-large_default/a4tech-bloody-es5-esports-rgb-mouse-stone-black-3200cpi-usb.jpg</picture>
+        <picture>https://systema.kg/479256-large_default/a4tech-bloody-es5-esports-rgb-mouse-stone-black-3200cpi-usb.jpg</picture>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="DPI (разрешение)">3200 CPI</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">A4TECH</param>
+      </offer>
+      <offer id="40002" available="true">
+        <url>http://www.example.com/product/40002</url>
+        <price>570</price>
+        <model>Genius Micro Traveler 330LS 1600DPI laser USB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://www.kivano.kg/images/product/10924/10924_full.jpg</picture>
+        <picture>https://www.kivano.kg/images/product/10924/15671379673807_full.jpeg</picture>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="DPI (разрешение)">1600 DPI</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Тип сенсора">Лазерный</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">Genius</param>
+      </offer>
+      <offer id="40003" available="true">
+        <url>http://www.example.com/product/40003</url>
+        <price>210</price>
+        <model>Mouse Winstar WS-MS-930 USB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://enter.kg/images/stories/virtuemart/product/29843_1_4394.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="DPI (разрешение)">1200 DPI</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">Winstar</param>
+      </offer>
+      <offer id="40004" available="true">
+        <url>http://www.example.com/product/40004</url>
+        <price>850</price>
+        <model>Беспроводная Мышь UGREEN MU001 USB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://systema.kg/454327-large_default/mysh-besprovodnaya-ugreen-mu001-usb-otpticheskaya-dpi-max4000-4-knopki-zelyonyj-90374.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводная (USB)</param>
+        <param name="DPI (разрешение)">1600 DPI</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">UGREEN</param>
+      </offer>
+      <offer id="40005" available="true">
+        <url>http://www.example.com/product/40005</url>
+        <price>300</price>
+        <model>Кабель Type - C Type - C 1M</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2017/07/2479344385_w640_h640_2479344385.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Не применимо</param>
+        <param name="DPI (разрешение)">Не применимо</param>
+        <param name="Количество кнопок">Не применимо</param>
+        <param name="Тип сенсора">Не применимо</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">Не применимо</param>
+      </offer>
+      <offer id="40006" available="true">
+        <url>http://www.example.com/product/40006</url>
+        <price>550</price>
+        <model>Мышь беспроводная SVEN RX-425W USB, max dpi 1600 5 кнопок белая</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://www.sven.fi/upload/iblock_photos/mouse/rx-425w/011-rx425wblack-zoom.jpg</picture>
+        <picture>https://www.sven.fi/upload/iblock_photos/mouse/rx-425w/052-rx425wblack-zoom.jpg</picture>
+        <param name="Тип подключения">Беспроводная (USB)</param>
+        <param name="DPI (разрешение)">1600 DPI</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">SVEN</param>
+      </offer>
+      <offer id="40007" available="true">
+        <url>http://www.example.com/product/40007</url>
+        <price>550</price>
+        <model>Мышь беспроводная SVEN RX-425W USB, max dpi 1600 5 кнопок серый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://www.delta.kg/images/detailed/106/25180.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/106/25180_1.jpg</picture>
+        <param name="Тип подключения">Беспроводная (USB)</param>
+        <param name="DPI (разрешение)">1600 DPI</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Производитель">SVEN</param>
+      </offer>
+      <offer id="40008" available="true">
+        <url>http://www.example.com/product/40008</url>
+        <price>3500</price>
+        <model>Мышь беспроводная игровая Redragon Woki  M994 Wired+2 4G+BT  DPI max 26000 6 кнопок белая</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://systema.kg/520571-large_default/mysh-besprovodnaya-igrovaya-redragon-woki-m994-wired24gbt-dpi-max-26000-6-knopok-belaya.jpg</picture>
+        <picture>https://systema.kg/520573-large_default/mysh-besprovodnaya-igrovaya-redragon-woki-m994-wired24gbt-dpi-max-26000-6-knopok-belaya.jpg</picture>
+        <param name="Тип подключения">Проводная/Беспроводная</param>
+        <param name="DPI (разрешение)">26000 DPI</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="40009" available="true">
+        <url>http://www.example.com/product/40009</url>
+        <price>3000</price>
+        <model>Мышь проводная Игровая Redragon Cobra DPI MAX: 12000, кнопок 9</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://wizard.kg/wp-content/uploads/2024/05/Redragon-Cobra-FPS-M711-FPS.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="DPI (разрешение)">12000 DPI</param>
+        <param name="Количество кнопок">9</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+      <offer id="40010" available="true">
+        <url>http://www.example.com/product/40010</url>
+        <price>2000</price>
+        <model>Мышь проводная игровая Redragon Shtorm M808 DPI: max 10000, 7 кнопок</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
+        <picture>https://systema.kg/520585-large_default/mysh-provodnaya-igrovaya-redragon-storm-m808-dpi-max-10000-7-knopok-rgb-podsvetka-chernaya.jpg</picture>
+        <picture>https://systema.kg/520586-large_default/mysh-provodnaya-igrovaya-redragon-storm-m808-dpi-max-10000-7-knopok-rgb-podsvetka-chernaya.jpg</picture>
+        <param name="Тип подключения">Проводная (USB)</param>
+        <param name="DPI (разрешение)">10000 DPI</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Тип сенсора">Оптический</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Производитель">Redragon</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
