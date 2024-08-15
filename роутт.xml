@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="68ae26db-5f89-46f5-9def-ccb54eed37db">Роутеры</category>
+    </categories>
+    <offers>
+      <offer id="5001" available="true">
+        <url>http://www.example.com/product/5001</url>
+        <price>2500</price>
+        <model>Роутер TP-LINK TL -WR840N(RU) N300 300MB/s 2.4GHz, 4X 100MB/s 2 ANTENNAS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>68ae26db-5f89-46f5-9def-ccb54eed37db</categoryId>
+        <picture>https://static.tp-link.com/res/images/products/large/TL-WR842ND(RU)-01.jpg</picture>
+        <picture>https://static.tp-link.com/res/images/products/large/TL-WR842ND(RU)-04.jpg</picture>
+        <param name="Стандарт Wi-Fi">802.11n</param>
+        <param name="Скорость Wi-Fi 2.4 GHz">300 Мбит/с</param>
+        <param name="Скорость Wi-Fi 5 GHz">Нет</param>
+        <param name="Порты Ethernet">4x100 Мбит/с</param>
+        <param name="Количество антенн">2</param>
+        <param name="Частотный диапазон">2.4 GHz</param>
+        <param name="Производитель">TP-Link</param>
+      </offer>
+      <offer id="5002" available="true">
+        <url>http://www.example.com/product/5002</url>
+        <price>2900</price>
+        <model>Роутер Wifi TP-LINK Archer c54 ac1200 Dual Band, 867 Mb/s 5gh+300Mb/s 2.4 GH/z 4x100Mb/s</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>68ae26db-5f89-46f5-9def-ccb54eed37db</categoryId>
+        <picture>https://static.tp-link.com/Archer-C54UN1001large_1597740832321s.jpg</picture>
+        <picture>https://static.tp-link.com/Archer-C54UN1003large_15977408330604.jpg</picture>
+        <param name="Стандарт Wi-Fi">802.11ac</param>
+        <param name="Скорость Wi-Fi 2.4 GHz">300 Мбит/с</param>
+        <param name="Скорость Wi-Fi 5 GHz">867 Мбит/с</param>
+        <param name="Порты Ethernet">4x100 Мбит/с</param>
+        <param name="Количество антенн">4</param>
+        <param name="Частотный диапазон">2.4 GHz / 5 GHz</param>
+        <param name="Производитель">TP-Link</param>
+      </offer>
+      <offer id="5003" available="true">
+        <url>http://www.example.com/product/5003</url>
+        <price>4600</price>
+        <model>Роутер Wifi TP-LINK Archer c80 ac1900 Dual Band, 1300 Mb/s 5gh+600Mb/s 2.4 GH/z 4x100Mb/s</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>68ae26db-5f89-46f5-9def-ccb54eed37db</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/66c/1000_1000_1d0e97ea46f4438969ab06dd5b311ca67/66c3e8ef50fed46a2b003bec04fb42ae.jpg</picture>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/8d0/1000_1000_1d0e97ea46f4438969ab06dd5b311ca67/8d07860a8a8ee3bd10ce7b42810d873c.jpg</picture>
+        <param name="Стандарт Wi-Fi">802.11ac</param>
+        <param name="Скорость Wi-Fi 2.4 GHz">600 Мбит/с</param>
+        <param name="Скорость Wi-Fi 5 GHz">1300 Мбит/с</param>
+        <param name="Порты Ethernet">4x100 Мбит/с</param>
+        <param name="Количество антенн">4</param>
+        <param name="Частотный диапазон">2.4 GHz / 5 GHz</param>
+        <param name="Производитель">TP-Link</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
