@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="52b45fc3-8b0f-4d69-bb3d-274d20c918d4">Адаптеры</category>
+    </categories>
+    <offers>
+      <offer id="1001" available="true">
+        <url>http://www.example.com/product/1001</url>
+        <price>750</price>
+        <model>wifi адаптер TP-Link TL-WN725N</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>52b45fc3-8b0f-4d69-bb3d-274d20c918d4</categoryId>
+        <picture>https://static.tp-link.com/TL-WN725NEU3001large_1552563617287n.jpg</picture>
+        <picture>https://static.tp-link.com/TL-WN725NEU3003large_1552563617855d.jpg</picture>
+        <param name="Тип подключения">USB 2.0</param>
+        <param name="Стандарт связи">802.11b/g/n</param>
+        <param name="Частотный диапазон">2.4 GHz</param>
+        <param name="Скорость передачи данных">До 150 Мбит/с</param>
+        <param name="Совместимость">Windows, Mac</param>
+        <param name="Производитель">TP-Link</param>
+      </offer>
+      <offer id="1002" available="true">
+        <url>http://www.example.com/product/1002</url>
+        <price>750</price>
+        <model>Адаптер Bluetooth USB TP-LINK UB5A</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>52b45fc3-8b0f-4d69-bb3d-274d20c918d4</categoryId>
+        <picture>https://www.myphone.kg/cache/files/19610.webp_w800_h800_resize.webp?t=1716637803</picture>
+        <picture>https://www.myphone.kg/cache/files/19611.webp_w800_h800_resize.webp?t=1716637803</picture>
+        <param name="Тип подключения">USB 2.0</param>
+        <param name="Стандарт связи">Bluetooth 5.0</param>
+        <param name="Частотный диапазон">Не применимо</param>
+        <param name="Скорость передачи данных">До 3 Мбит/с</param>
+        <param name="Совместимость">Windows</param>
+        <param name="Производитель">TP-Link</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
