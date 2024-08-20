@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="d19ffb5f-e166-4e07-9a7f-c537a63ba5d2">Детские товары</category>
+    </categories>
+    <offers>
+      <offer id="20001" available="true">
+        <url>http://www.example.com/product/20001</url>
+        <price>4890</price>
+        <model>Детский самокат-кикборд Xiaomi Rice Rabbit Scooter голубой</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d19ffb5f-e166-4e07-9a7f-c537a63ba5d2</categoryId>
+        <picture>https://softech.kg/image/cache/9f533d982d533503dd5475c32962049a.jpg</picture>
+        <picture>https://softech.kg/image/cache/670f7e0d0bc7a236c946f9a8470f4479.jpg</picture>
+        <param name="Тип товара">Детский самокат-кикборд</param>
+        <param name="Материал">Пластик, металл</param>
+        <param name="Максимальная нагрузка">До 50 кг</param>
+        <param name="Возрастная группа">3-6 лет</param>
+      </offer>
+      <offer id="20002" available="true">
+        <url>http://www.example.com/product/20002</url>
+        <price>4890</price>
+        <model>Детский самокат-кикборд Xiaomi Rice Rabbit Scooter розовый</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d19ffb5f-e166-4e07-9a7f-c537a63ba5d2</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-h/wc1000/6116860949.jpg</picture>
+        <picture>https://ir.ozone.ru/s3/multimedia-i/wc1000/6116860950.jpg</picture>
+        <param name="Тип товара">Детский самокат-кикборд</param>
+        <param name="Материал">Пластик, металл</param>
+        <param name="Максимальная нагрузка">До 50 кг</param>
+        <param name="Возрастная группа">3-6 лет</param>
+      </offer>
+      <offer id="20003" available="true">
+        <url>http://www.example.com/product/20003</url>
+        <price>3590</price>
+        <model>Набор для детского творчества Xiaomi BravoKids 21 Day Creativity Series Box</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d19ffb5f-e166-4e07-9a7f-c537a63ba5d2</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9906/aff650ef-5a13-443e-9405-bfa3cd802259-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип товара">Набор для детского творчества</param>
+        <param name="Материал">Различные материалы</param>
+        <param name="Максимальная нагрузка">Не применимо</param>
+        <param name="Возрастная группа">3+ лет</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
