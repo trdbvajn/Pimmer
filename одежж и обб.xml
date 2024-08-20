@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="a5876418-cad1-40df-8645-3342d19bec04">Одежда и обувь</category>
+    </categories>
+    <offers>
+      <offer id="60001" available="true">
+        <url>http://www.example.com/product/60001</url>
+        <price>1590</price>
+        <model>Компьютерные очки Xiaomi Mijia Anti-Blue Light Glasses</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a5876418-cad1-40df-8645-3342d19bec04</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/04/8672-auto_width_1000.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/04/498d4deb1259814ddc37b7587aa901cd-auto_width_1000.jpg</picture>
+        <param name="Тип устройства">Компьютерные очки</param>
+        <param name="Основные характеристики">Функция: защита от синего света, Материал оправы: металл</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
