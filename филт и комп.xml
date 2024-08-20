@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="71693554-1d46-49a4-b72b-27f1a351df8c">Фильтра и комплектующие</category>
+    </categories>
+    <offers>
+      <offer id="90001" available="true">
+        <url>http://www.example.com/product/90001</url>
+        <price>3190</price>
+        <model>Воздушный фильтр для очистителя воздуха Mi Air Purifier 4 lite</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/06/1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Mi Air Purifier 4 Lite</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных</param>
+      </offer>
+      <offer id="90002" available="true">
+        <url>http://www.example.com/product/90002</url>
+        <price>3690</price>
+        <model>Воздушный фильтр для очистителя воздуха Mi Air Purifier 4</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://softech.kg/image/cache/42dd92dc45d319734ebeb4dcaf17c78a.jpg</picture>
+        <picture>https://softech.kg/image/cache/684049a66a1bc0e5df9c54151ee6096c.jpg</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Mi Air Purifier 4</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных</param>
+      </offer>
+      <offer id="90003" available="true">
+        <url>http://www.example.com/product/90003</url>
+        <price>3290</price>
+        <model>Антибактериальный фильтр для очистителя воздуха Xiaomi Mi Air Purifier</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/01/11.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/01/33.jpg</picture>
+        <param name="Тип фильтра">Антибактериальный</param>
+        <param name="Совместимость">Mi Air Purifier</param>
+        <param name="Основные характеристики">Фильтрация: Бактерии, Вирусы, Пыльца, Перхоть животных</param>
+      </offer>
+      <offer id="90004" available="true">
+        <url>http://www.example.com/product/90004</url>
+        <price>3890</price>
+        <model>Фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Lite Global</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://login.kg/image/cache/webp/catalog/new/Smart%20Home/Ochistitel%20vozduha/Filtr/M17-FLP-GL/1-1200x800.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Xiaomi Smart Air Purifier 4 Lite</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных, Плесень</param>
+      </offer>
+      <offer id="90005" available="true">
+        <url>http://www.example.com/product/90005</url>
+        <price>5390</price>
+        <model>Фильтр для очистителя воздуха Mi Air Purifier 4 pro</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/06/1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Mi Air Purifier 4 Pro</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных, Плесень, Запахи</param>
+      </offer>
+      <offer id="90006" available="true">
+        <url>http://www.example.com/product/90006</url>
+        <price>6290</price>
+        <model>Фильтр для очистителя воздуха Xiaomi Smart Air Purifier Pro H</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://softech.kg/image/cache/b6d643cfe524279ac559095993f7e1fc.jpg</picture>
+        <picture>https://softech.kg/image/cache/0d1c64049ecb0b73161615b107fc826d.jpg</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Xiaomi Smart Air Purifier Pro H</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных, Запахи</param>
+      </offer>
+      <offer id="90007" available="true">
+        <url>http://www.example.com/product/90007</url>
+        <price>6990</price>
+        <model>Фильтр для очистителя воздуха Xiaomi Air Purifier Elite</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/06/1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Xiaomi Air Purifier Elite</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных, Бактерии</param>
+      </offer>
+      <offer id="90008" available="true">
+        <url>http://www.example.com/product/90008</url>
+        <price>4190</price>
+        <model>Фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Filter Global</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>71693554-1d46-49a4-b72b-27f1a351df8c</categoryId>
+        <picture>https://sobachka.kg/wp-content/uploads/2022/07/1-60.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип фильтра">HEPA</param>
+        <param name="Совместимость">Xiaomi Smart Air Purifier 4 Global</param>
+        <param name="Основные характеристики">Фильтрация: PM2.5, Пыльца, Перхоть животных, Плесень, Запахи</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
