@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="c502c565-3b41-4ec2-abb1-2d081fcbc099">Зарядные устройства</category>
+    </categories>
+    <offers>
+      <offer id="30001" available="true">
+        <url>http://www.example.com/product/30001</url>
+        <price>1990</price>
+        <model>Внешний аккумулятор Xiaomi Power Bank 3 20000mAh (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>c502c565-3b41-4ec2-abb1-2d081fcbc099</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8530/e5f8854a-dbe7-4f34-8fad-0263bb264372-530x530.jpg</picture>
+        <picture>https://softech.kg/image/cache/7b90df358ee06ceeb329f15d30947c17.jpg</picture>
+        <param name="Емкость батареи (mAh)">20000</param>
+        <param name="Мощность (Вт)">18W</param>
+        <param name="Количество выходов">2 (USB-A, USB-C)</param>
+        <param name="Тип подключения">USB-C, Micro-USB</param>
+      </offer>
+      <offer id="30002" available="true">
+        <url>http://www.example.com/product/30002</url>
+        <price>2390</price>
+        <model>Внешний аккумулятор Xiaomi Power Bank 20000 mAh 22,5W (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>c502c565-3b41-4ec2-abb1-2d081fcbc099</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9593/7d3e2fdc-f9e9-4e9e-abd7-82fddb4541e6-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Емкость батареи (mAh)">20000</param>
+        <param name="Мощность (Вт)">22.5W</param>
+        <param name="Количество выходов">3 (2x USB-A, USB-C)</param>
+        <param name="Тип подключения">USB-C, Micro-USB</param>
+      </offer>
+      <offer id="30003" available="true">
+        <url>http://www.example.com/product/30003</url>
+        <price>3390</price>
+        <model>Внешний аккумулятор Xiaomi Mi Power Bank 3 (30000 mAh, белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>c502c565-3b41-4ec2-abb1-2d081fcbc099</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/10/xiaomi_mi_power_bank_3_30000_mah_ava_3-800x800_wmark.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/10/xiaomi_mi_power_bank_3_30000_mah_ava_2-800x800-1.jpg</picture>
+        <param name="Емкость батареи (mAh)">30000</param>
+        <param name="Мощность (Вт)">18W</param>
+        <param name="Количество выходов">3 (2x USB-A, USB-C)</param>
+        <param name="Тип подключения">USB-C, Micro-USB</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
