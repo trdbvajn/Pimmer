@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="28b86043-bb7d-4942-a5f2-ff64a685c72a">Смартчасы</category>
+    </categories>
+    <offers>
+      <offer id="1001" available="true">
+        <url>http://www.example.com/product/1001</url>
+        <price>3190</price>
+        <model>Фитнес - браслет Xiaomi Smart Band 8 (Global, чёрный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>28b86043-bb7d-4942-a5f2-ff64a685c72a</categoryId>
+        <picture>https://mistore.kg/wp-content/uploads/2023/10/Bez-nazvaniya-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Дисплей">AMOLED</param>
+        <param name="Размер дисплея">1.62"</param>
+        <param name="Время работы">До 14 дней</param>
+        <param name="Функции">Мониторинг пульса, отслеживание сна, уведомления</param>
+      </offer>
+      <offer id="1002" available="true">
+        <url>http://www.example.com/product/1002</url>
+        <price>3190</price>
+        <model>Фитнес - браслет Xiaomi Smart Band 8 (Global, золотистый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>28b86043-bb7d-4942-a5f2-ff64a685c72a</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8077/3f86a322-f2b7-49c7-ab49-0676e7b3f96b-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Дисплей">AMOLED</param>
+        <param name="Размер дисплея">1.62"</param>
+        <param name="Время работы">До 14 дней</param>
+        <param name="Функции">Мониторинг пульса, отслеживание сна, уведомления</param>
+      </offer>
+      <offer id="1003" available="true">
+        <url>http://www.example.com/product/1003</url>
+        <price>4990</price>
+        <model>Фитнес - браслет Xiaomi Smart Band 8 Pro (чёрный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>28b86043-bb7d-4942-a5f2-ff64a685c72a</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2024/02/1692020977283-600x600-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Дисплей">AMOLED, Always-on Display</param>
+        <param name="Размер дисплея">1.74"</param>
+        <param name="Время работы">До 12 дней</param>
+        <param name="Функции">GPS, мониторинг пульса, отслеживание сна, уведомления</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
