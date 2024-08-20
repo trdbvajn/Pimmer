@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3b26ca68-8d09-463e-8398-e9d30f38cc83">ТВ приставки</category>
+    </categories>
+    <offers>
+      <offer id="2001" available="true">
+        <url>http://www.example.com/product/2001</url>
+        <price>3490</price>
+        <model>Приставка Xiaomi Mi TV Stick (Global)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>3b26ca68-8d09-463e-8398-e9d30f38cc83</categoryId>
+        <picture>https://mistore.kg/wp-content/uploads/2023/02/xiaomi-tv-stick-4k-d553c153.jpg</picture>
+        <picture>nan</picture>
+        <param name="Поддержка разрешения">До 1080p (Full HD)</param>
+        <param name="Операционная система">Android TV</param>
+        <param name="Процессор">Quad-core Cortex-A53</param>
+        <param name="Память">1 GB</param>
+        <param name="Хранение">8 GB</param>
+        <param name="Интерфейсы">HDMI, Micro-USB</param>
+        <param name="Особенности">Google Assistant, Chromecast</param>
+      </offer>
+      <offer id="2002" available="true">
+        <url>http://www.example.com/product/2002</url>
+        <price>3890</price>
+        <model>Приставка Xiaomi Mi TV Stick 4K (Global)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>3b26ca68-8d09-463e-8398-e9d30f38cc83</categoryId>
+        <picture>https://mistore.kg/wp-content/uploads/2023/02/xiaomi-tv-stick-4k-d553c153.jpg</picture>
+        <picture>nan</picture>
+        <param name="Поддержка разрешения">До 4K (Ultra HD)</param>
+        <param name="Операционная система">Android TV</param>
+        <param name="Процессор">Quad-core Cortex-A35</param>
+        <param name="Память">2 GB</param>
+        <param name="Хранение">8 GB</param>
+        <param name="Интерфейсы">HDMI, Micro-USB</param>
+        <param name="Особенности">Google Assistant, Chromecast</param>
+      </offer>
+      <offer id="2003" available="true">
+        <url>http://www.example.com/product/2003</url>
+        <price>4490</price>
+        <model>Приставка Mi TV BOX S 2nd Gen (Global)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>3b26ca68-8d09-463e-8398-e9d30f38cc83</categoryId>
+        <picture>https://softech.kg/image/cache/0eb46ad669956d1b93fd81313241f2f8.jpg</picture>
+        <picture>nan</picture>
+        <param name="Поддержка разрешения">До 4K (Ultra HD)</param>
+        <param name="Операционная система">Android TV</param>
+        <param name="Процессор">Quad-core Cortex-A55</param>
+        <param name="Память">2 GB</param>
+        <param name="Хранение">8 GB</param>
+        <param name="Интерфейсы">HDMI, USB 2.0, Bluetooth, Wi-Fi</param>
+        <param name="Особенности">Google Assistant, Chromecast, Dolby Vision, HDR10+</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
