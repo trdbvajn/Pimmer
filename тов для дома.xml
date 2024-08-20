@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="a635d760-cc42-4cd8-b4d1-c830ff8debc7&#10;">Товары для дома</category>
+    </categories>
+    <offers>
+      <offer id="80001" available="true">
+        <url>http://www.example.com/product/80001</url>
+        <price>150</price>
+        <model>Насадки на швабры Deerma TB500/TB800</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9576/7028a7b8-2e93-4692-867e-92349c709e14-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Насадки для швабры</param>
+        <param name="Основные характеристики">Совместимость: Deerma TB500/TB800, Количество: 1 шт.</param>
+        <param name="Производитель">Deerma</param>
+      </offer>
+      <offer id="80002" available="true">
+        <url>http://www.example.com/product/80002</url>
+        <price>70</price>
+        <model>Бамбуковые салфетки 3х слойные Xiaomi Yujia (100 шт.)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9509/a6ce4fb9-e1e7-4516-b5e1-bb9183d0a562-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Салфетки</param>
+        <param name="Основные характеристики">Материал: бамбук, Количество: 100 шт., Слои: 3</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80003" available="true">
+        <url>http://www.example.com/product/80003</url>
+        <price>100</price>
+        <model>Бамбуковые салфетки 3х слойные Xiaomi Yujia (130 шт.)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://static.insales-cdn.com/images/products/1/4788/716174004/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%82%D1%80%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B9%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D0%BC%D0%B1%D1%83%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B0%D0%BB%D1%84%D0%B5%D0%BA%D1%82%D0%BA%D0%B8_Miarou_100%D1%88%D1%82.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Салфетки</param>
+        <param name="Основные характеристики">Материал: бамбук, Количество: 130 шт., Слои: 3</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80004" available="true">
+        <url>http://www.example.com/product/80004</url>
+        <price>690</price>
+        <model>Мусорный мешок Daily Elements Garbage Bag (3 рулона)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://st.depositphotos.com/16122460/58312/i/450/depositphotos_583127176-stock-photo-trash-bags-full-garbage-yellow.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Мусорные мешки</param>
+        <param name="Основные характеристики">Количество: 3 рулона, Материал: пластик</param>
+        <param name="Производитель">Daily Elements</param>
+      </offer>
+      <offer id="80005" available="true">
+        <url>http://www.example.com/product/80005</url>
+        <price>1290</price>
+        <model>Ароматизатор воздуха Xiaomi HL Aroma Diffuser (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/09/hl_aroma_diffuser_1-800x800_wmark.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/09/ava_hl_aroma_diffuser_3-800x800-1.jpg</picture>
+        <param name="Тип устройства">Ароматизатор воздуха</param>
+        <param name="Основные характеристики">Тип: ультразвуковой, Емкость: 120 мл, Режимы: 2</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80006" available="true">
+        <url>http://www.example.com/product/80006</url>
+        <price>1390</price>
+        <model>Удлинитель Xiaomi Mijia Power Strip 5 розеток 5 кнопок (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2019/02/mi-powerstrip-xmcxb03qm-white-1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2019/02/mi-powerstrip-xmcxb03qm-white-2.jpg</picture>
+        <param name="Тип устройства">Удлинитель</param>
+        <param name="Основные характеристики">Розеток: 5, Кнопки: 5, Длина шнура: 1.8 м</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80007" available="true">
+        <url>http://www.example.com/product/80007</url>
+        <price>2890</price>
+        <model>Ароматизатор воздуха Whale Wake Pickup Flame Fireplace Aroma Diffuser (чёрный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8813/456fe9e4-18a9-4145-a31a-5922f0fd6a59-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Ароматизатор воздуха</param>
+        <param name="Основные характеристики">Эффект: имитация огня, Емкость: 200 мл, Время работы: до 6 часов</param>
+        <param name="Производитель">Whale Wake</param>
+      </offer>
+      <offer id="80008" available="true">
+        <url>http://www.example.com/product/80008</url>
+        <price>4790</price>
+        <model>Отпариватель Xiaomi Mijia Handheld Steam Ironing Machine</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/01/ruchnoi_otparivatel_mijia_handheld_ironing_machine_ava2-800x800-1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/01/otparivatel_mijia_ironing_2-800x800-1.jpg</picture>
+        <param name="Тип устройства">Отпариватель</param>
+        <param name="Основные характеристики">Мощность: 1200 Вт, Время нагрева: 35 секунд, Емкость бака: 150 мл</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80009" available="true">
+        <url>http://www.example.com/product/80009</url>
+        <price>5990</price>
+        <model>Очиститель воздуха Xiaomi Mijia Desktop Air Purifier</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/09/f6683702_1ffb_11eb_9986_fa163efe.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/09/f6683702_1ffb_11eb_9986_fa1634fe.jpg</picture>
+        <param name="Тип устройства">Очиститель воздуха</param>
+        <param name="Основные характеристики">Рекомендованная площадь: до 20 м², Уровень шума: 34 дБ, Фильтры: HEPA</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80010" available="true">
+        <url>http://www.example.com/product/80010</url>
+        <price>22790</price>
+        <model>Очиститель воздуха Xiaomi Mijia Smart Leafless Purification Fan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/10758/3fc93cdd-8587-41f0-9452-211e6d2228f8-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Очиститель воздуха</param>
+        <param name="Основные характеристики">Функции: очистка и охлаждение, Управление: через приложение, Фильтры: HEPA</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80011" available="true">
+        <url>http://www.example.com/product/80011</url>
+        <price>18990</price>
+        <model>Робот-пылесос Xiaomi Mijia Robot Vacuum-Mop 2 CN</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/02/44.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/02/32.jpg</picture>
+        <param name="Тип устройства">Робот-пылесос</param>
+        <param name="Основные характеристики">Мощность всасывания: 2700 Па, Время работы: до 110 мин, Функции: сухая и влажная уборка</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80012" available="true">
+        <url>http://www.example.com/product/80012</url>
+        <price>2990</price>
+        <model>Сушилка для обуви Xiaomi Deerma DEM-HX10 Shoe Dryer (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2019/06/deerma-dem-hx20-white-1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2019/06/deerma-dem-hx20-white-2.jpg</picture>
+        <param name="Тип устройства">Сушилка для обуви</param>
+        <param name="Основные характеристики">Мощность: 250 Вт, Режимы: 3, Длина шнура: 1.5 м</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80013" available="true">
+        <url>http://www.example.com/product/80013</url>
+        <price>2990</price>
+        <model>Набор для кухни Xiaomi Mijia Kitchen Tool Set</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/01/Mijia-kitchen-tool-set-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Набор кухонных инструментов</param>
+        <param name="Основные характеристики">Комплектация: лопатка, шумовка, венчик и т.д., Материал: нержавеющая сталь</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80014" available="true">
+        <url>http://www.example.com/product/80014</url>
+        <price>6790</price>
+        <model>Умный ароматизатор воздуха Xiaomi Mijia Smart Fragrance Machine</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/05/351be267_62e5_4d7a_a425_d18860c8708a3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Умный ароматизатор воздуха</param>
+        <param name="Основные характеристики">Функции: управление через приложение, Емкость: 450 мл</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80015" available="true">
+        <url>http://www.example.com/product/80015</url>
+        <price>54890</price>
+        <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Max</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/09/Bez-imeni-2-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Очиститель воздуха</param>
+        <param name="Основные характеристики">Рекомендованная площадь: до 60 м², Фильтры: HEPA, Уровень шума: 30-64 дБ</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80016" available="true">
+        <url>http://www.example.com/product/80016</url>
+        <price>35990</price>
+        <model>Очиститель воздуха Xiaomi Air Purifier 4 Pro H</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://softech.kg/image/cache/c8e2c1b30ba791b21f402d9d4b5ab72b.jpg</picture>
+        <picture>https://softech.kg/image/cache/06a7fcdc163f5b897f4d9ed974ec8b96.jpg</picture>
+        <param name="Тип устройства">Очиститель воздуха</param>
+        <param name="Основные характеристики">Рекомендованная площадь: до 40 м², Фильтры: HEPA, Уровень шума: 32-64 дБ</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="80017" available="true">
+        <url>http://www.example.com/product/80017</url>
+        <price>14990</price>
+        <model>Графеновый обогреватель Xiaomi Mijia Graphene Baseboard Electric Heater</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a635d760-cc42-4cd8-b4d1-c830ff8debc7
+</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/10/Bez-imeni-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Обогреватель</param>
+        <param name="Основные характеристики">Мощность: 2200 Вт, Функции: управление через приложение, защита от перегрева</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
