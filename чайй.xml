@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="176d8950-bc2e-43de-883e-a1615b467acb">Чайники</category>
+    </categories>
+    <offers>
+      <offer id="3001" available="true">
+        <url>http://www.example.com/product/3001</url>
+        <price>2190</price>
+        <model>Электрочайник Xiaomi Mijia Electric Kettle 2</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/01/c01-3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объем">1.7 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Поддержка термостата">Нет</param>
+        <param name="Управление через приложение">Нет</param>
+        <param name="Особенности">Быстрый нагрев, защита от перегрева</param>
+      </offer>
+      <offer id="3002" available="true">
+        <url>http://www.example.com/product/3002</url>
+        <price>2590</price>
+        <model>Чайник Xiaomi Mijia Electric Kettle 1S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/10/bef340c2_a4a3_11ea_8105_2cfda1e15e3a_bef340c3_a4a3_11ea_8105_2cfda1e15e3a.resize1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/10/bef340c2_a4a3_11ea_8105_2cfda1e15e3a_bef340c4_a4a3_11ea_8105_2cfda1e15e3a.resize1.jpg</picture>
+        <param name="Объем">1.7 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Поддержка термостата">Нет</param>
+        <param name="Управление через приложение">Нет</param>
+        <param name="Особенности">Быстрый нагрев, защита от перегрева</param>
+      </offer>
+      <offer id="3003" available="true">
+        <url>http://www.example.com/product/3003</url>
+        <price>2990</price>
+        <model>Электрочайник Xiaomi Mijia Electric Kettle S1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://softech.kg/image/cache/175bea6c7597b30c75f8f7c1a9c1a026.jpg</picture>
+        <picture>https://softech.kg/image/cache/1b38e6387ac67092471b0b98a4d19a3c.jpg</picture>
+        <param name="Объем">1.7 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Поддержка термостата">Нет</param>
+        <param name="Управление через приложение">Нет</param>
+        <param name="Особенности">Быстрый нагрев, защита от перегрева</param>
+      </offer>
+      <offer id="3004" available="true">
+        <url>http://www.example.com/product/3004</url>
+        <price>3490</price>
+        <model>Электрочайник Xiaomi Mijia Thermostatic Electric Kettle 2</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/01/Xiaomi-Mijia-Thermostatic-Kettle-2-Pro-22.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/01/Xiaomi-Mijia-Thermostatic-Kettle-2-Pro-22.jpg</picture>
+        <param name="Объем">1.5 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Поддержка термостата">Да</param>
+        <param name="Управление через приложение">Нет</param>
+        <param name="Особенности">Термостат, поддержка температуры</param>
+      </offer>
+      <offer id="3005" available="true">
+        <url>http://www.example.com/product/3005</url>
+        <price>3490</price>
+        <model>Электрочайник Xiaomi Mijia Thermostatic Electric Kettle P1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9527/fa7e1ddb-778b-4f25-92f4-adbdd4addefd-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Объем">1.5 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Поддержка термостата">Да</param>
+        <param name="Управление через приложение">Нет</param>
+        <param name="Особенности">Термостат, поддержка температуры</param>
+      </offer>
+      <offer id="3006" available="true">
+        <url>http://www.example.com/product/3006</url>
+        <price>3690</price>
+        <model>Умный чайник Xiaomi Mi Smart Kettle Pro (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/03/umnyj_chaynik_mi_smart_kettle_pro_mjhwsh02ym_3-800x800-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объем">1.5 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Поддержка термостата">Да</param>
+        <param name="Управление через приложение">Да</param>
+        <param name="Особенности">Термостат, управление через приложение</param>
+      </offer>
+      <offer id="3007" available="true">
+        <url>http://www.example.com/product/3007</url>
+        <price>3690</price>
+        <model>Заварочный чайник Xiaomi Mijia Smart Multifunctional Health Kettle S1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://softech.kg/image/cache/29c6653d6936dbfa98be932baf37833e.jpg</picture>
+        <picture>https://softech.kg/image/cache/23bd0a4d0a59f119aee298f916ad1869.jpg</picture>
+        <param name="Объем">1.5 л</param>
+        <param name="Мощность">1000 Вт</param>
+        <param name="Материал корпуса">Стекло</param>
+        <param name="Поддержка термостата">Да</param>
+        <param name="Управление через приложение">Да</param>
+        <param name="Особенности">Термостат, управление через приложение, заварка чая</param>
+      </offer>
+      <offer id="3008" available="true">
+        <url>http://www.example.com/product/3008</url>
+        <price>4890</price>
+        <model>Умный чайник Xiaomi Mi Smart Kettle Pro (Global, белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>176d8950-bc2e-43de-883e-a1615b467acb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/03/umnyj_chaynik_mi_smart_kettle_pro_mjhwsh02ym_3-800x800-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объем">1.5 л</param>
+        <param name="Мощность">1800 Вт</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Поддержка термостата">Да</param>
+        <param name="Управление через приложение">Да</param>
+        <param name="Особенности">Термостат, управление через приложение</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
