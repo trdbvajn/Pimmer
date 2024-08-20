@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="6cf0fae6-55e4-44a0-b935-4b283b7377cb">Красота и здоровье</category>
+    </categories>
+    <offers>
+      <offer id="50001" available="true">
+        <url>http://www.example.com/product/50001</url>
+        <price>990</price>
+        <model>Триммер для волос Enchen Boost Hair Trimmer (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/09/1-14-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Триммер для волос</param>
+        <param name="Основные характеристики">Лезвие: керамическое, Настройки длины: 0.7-21 мм, Время работы: до 90 мин</param>
+        <param name="Производитель">Enchen</param>
+      </offer>
+      <offer id="50002" available="true">
+        <url>http://www.example.com/product/50002</url>
+        <price>990</price>
+        <model>Триммер для волос Enchen Boost Hair Trimmer (черный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/09/daddbbd2_3db5_11ea_80fb_2cfda1e15e3a_daddbbd4_3db5_11ea_80fb_2cfda1e15e3a.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Триммер для волос</param>
+        <param name="Основные характеристики">Лезвие: керамическое, Настройки длины: 0.7-21 мм, Время работы: до 90 мин</param>
+        <param name="Производитель">Enchen</param>
+      </offer>
+      <offer id="50003" available="true">
+        <url>http://www.example.com/product/50003</url>
+        <price>3590</price>
+        <model>Массажер для головы Xiaomi MINI Head Massage Device</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://softech.kg/image/cache/2395b9847bf3b66c466d1a41cc9251eb.jpg</picture>
+        <picture>https://softech.kg/image/cache/0fbeed5724dc4f2bd420656473f600f0.jpg</picture>
+        <param name="Тип устройства">Массажер для головы</param>
+        <param name="Основные характеристики">Функции: вибрационный массаж, Время работы: до 90 мин, Зарядка: USB-C</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="50004" available="true">
+        <url>http://www.example.com/product/50004</url>
+        <price>1490</price>
+        <model>Машинка для стрижки Xiaomi MITU Baby Hair Trimmer</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2019/04/ricerabbit-baby-hairtrimmer-white-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Машинка для стрижки</param>
+        <param name="Основные характеристики">Лезвие: керамическое, Габариты: компактная, Уровень шума: низкий</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="50005" available="true">
+        <url>http://www.example.com/product/50005</url>
+        <price>790</price>
+        <model>Триммер для носа Xiaomi Mini Nose Hair Trimmer HN3 (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8327/bdd369ea-947e-49e2-b966-d0ae7f462020-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Триммер для носа</param>
+        <param name="Основные характеристики">Лезвие: нержавеющая сталь, Водозащита: IPX5, Зарядка: USB</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="50006" available="true">
+        <url>http://www.example.com/product/50006</url>
+        <price>690</price>
+        <model>Триммер для носа ShowSee Nose Hair Trimmer</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/09/ava_nose_trimmer_showsee_4-800x800-1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/09/ava_nose_trimmer_showsee_2-800x800-1.jpg</picture>
+        <param name="Тип устройства">Триммер для носа</param>
+        <param name="Основные характеристики">Лезвие: нержавеющая сталь, Водозащита: IPX5, Зарядка: USB</param>
+        <param name="Производитель">ShowSee</param>
+      </offer>
+      <offer id="50007" available="true">
+        <url>http://www.example.com/product/50007</url>
+        <price>2490</price>
+        <model>Фен Xiaomi Mijia Negative Ion Hair Dryer H300 (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/10/xiaomi_mi_mijia_negative_io_hair_dryer_ava_1-800x800_wmark.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/10/xiaomi_mi_mijia_negative_io_hair_dryer_ava_2-800x800-1.jpg</picture>
+        <param name="Тип устройства">Фен</param>
+        <param name="Основные характеристики">Мощность: 1800 Вт, Функция: отрицательные ионы, Температурные режимы: 2</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="50008" available="true">
+        <url>http://www.example.com/product/50008</url>
+        <price>1690</price>
+        <model>Фен для волос Xiaomi Mijia H101 (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/03/Bez-imeni-3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Фен</param>
+        <param name="Основные характеристики">Мощность: 1600 Вт, Температурные режимы: 2</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="50009" available="true">
+        <url>http://www.example.com/product/50009</url>
+        <price>1690</price>
+        <model>Фен для волос Xiaomi Mijia H101 (розовый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/03/Bez-imeni-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Фен</param>
+        <param name="Основные характеристики">Мощность: 1600 Вт, Температурные режимы: 2</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="50010" available="true">
+        <url>http://www.example.com/product/50010</url>
+        <price>3090</price>
+        <model>Электробритва Xiaomi Mijia Electric Shaver S301 EU (чёрный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6cf0fae6-55e4-44a0-b935-4b283b7377cb</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/10674/533af7b2-099a-4328-864f-21f96bea6f0d-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Электробритва</param>
+        <param name="Основные характеристики">Лезвие: нержавеющая сталь, Водозащита: IPX7, Время работы: до 60 мин</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
