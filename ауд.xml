@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1e40f23a-a634-4efa-a8ac-2e433fb84038&#10;">Аудио</category>
+    </categories>
+    <offers>
+      <offer id="10001" available="true">
+        <url>http://www.example.com/product/10001</url>
+        <price>9190</price>
+        <model>Портативная колонка Xiaomi Sound Move Bluetooth Speaker</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1e40f23a-a634-4efa-a8ac-2e433fb84038
+</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8477/d3922e21-88a8-434b-bac6-7738288101a3-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Портативная колонка</param>
+        <param name="Мощность (Вт)">20W</param>
+        <param name="Время работы от батареи">До 15 часов</param>
+        <param name="Версия Bluetooth">Bluetooth 5.0</param>
+        <param name="Водозащита">IP67</param>
+      </offer>
+      <offer id="10002" available="true">
+        <url>http://www.example.com/product/10002</url>
+        <price>3390</price>
+        <model>Портативная Bluetooth-колонка Mi 16W (синий)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1e40f23a-a634-4efa-a8ac-2e433fb84038
+</categoryId>
+        <picture>https://softech.kg/image/cache/8a394da8c862d4302a72af4d6ffe11b8.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Портативная колонка</param>
+        <param name="Мощность (Вт)">16W</param>
+        <param name="Время работы от батареи">До 13 часов</param>
+        <param name="Версия Bluetooth">Bluetooth 5.0</param>
+        <param name="Водозащита">IPX7</param>
+      </offer>
+      <offer id="10003" available="true">
+        <url>http://www.example.com/product/10003</url>
+        <price>1790</price>
+        <model>Беспроводные наушники Xiaomi Redmi Buds 4 Lite (чёрный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1e40f23a-a634-4efa-a8ac-2e433fb84038
+</categoryId>
+        <picture>https://mistore.kg/wp-content/uploads/2023/06/51SjEQ8wj4L.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Беспроводные наушники</param>
+        <param name="Мощность (Вт)">Не указано</param>
+        <param name="Время работы от батареи">До 5 часов (наушники)</param>
+        <param name="Версия Bluetooth">Bluetooth 5.2</param>
+        <param name="Водозащита">Нет</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
