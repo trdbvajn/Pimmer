@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="81f50e46-7051-41d0-8843-0dca57a6b63f">Автоэлектроника</category>
+    </categories>
+    <offers>
+      <offer id="4001" available="true">
+        <url>http://www.example.com/product/4001</url>
+        <price>3590</price>
+        <model>Видеорегистратор 70mai Smart Dash Cam 1S (1080p, черный)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9057/3d1a33a9-1feb-41fb-a833-77134112ae32-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (Full HD)</param>
+        <param name="Угол обзора">130°</param>
+        <param name="Экран">Нет</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Нет</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Циклическая запись, управление голосом</param>
+        <param name="Производитель">70mai</param>
+      </offer>
+      <offer id="4002" available="true">
+        <url>http://www.example.com/product/4002</url>
+        <price>4590</price>
+        <model>Видеорегистратор 70mai Dash Cam M300</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2024/01/7ca6d35a_466b_11ee_abc7_000c29d9.jpg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1296p (Super HD)</param>
+        <param name="Угол обзора">140°</param>
+        <param name="Экран">Нет</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Нет</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Циклическая запись, G-сенсор</param>
+        <param name="Производитель">70mai</param>
+      </offer>
+      <offer id="4003" available="true">
+        <url>http://www.example.com/product/4003</url>
+        <price>5590</price>
+        <model>Видеорегистратор Xiaomi 70mai Dash Cam A200</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://softech.kg/image/cache/6e5261d91a71f8960fbbc0766122737f.jpg</picture>
+        <picture>https://softech.kg/image/cache/a37a565e86d9de58ccc06042a6701325.jpg</picture>
+        <param name="Разрешение видео">1080p (Full HD)</param>
+        <param name="Угол обзора">130°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Поддержка ADAS, циклическая запись</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="4004" available="true">
+        <url>http://www.example.com/product/4004</url>
+        <price>6290</price>
+        <model>Видеорегистратор Xiaomi Smart DashCam 2K</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/02/14-2.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/02/12-4.jpg</picture>
+        <param name="Разрешение видео">1440p (2K)</param>
+        <param name="Угол обзора">140°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Нет</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Циклическая запись, управление голосом</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="4005" available="true">
+        <url>http://www.example.com/product/4005</url>
+        <price>6490</price>
+        <model>Видеорегистратор 70mai Dash Cam Pro Plus A500S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/05/70mai_dash_cam_pro_plus_a500s_ava1-700x700_wmark.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/05/70mai_dash_cam_4k_a800_ava_16-800x800-1.jpg</picture>
+        <param name="Разрешение видео">1944p (2.5K)</param>
+        <param name="Угол обзора">140°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Поддержка ADAS, GPS, циклическая запись</param>
+        <param name="Производитель">70mai</param>
+      </offer>
+      <offer id="4006" available="true">
+        <url>http://www.example.com/product/4006</url>
+        <price>7190</price>
+        <model>Видеорегистратор Xiaomi 70mai Dash Cam A200S + камера заднего вида</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://xiaomi-on.ru/upload/iblock/8ea/2pxez4uwsuu7kdvq40g2nqarkbqq8nog/videoregistrator_xiaomi_70mai_dash_cam_a200_kamera_zadnego_vida_rc12_1.jpg</picture>
+        <picture>https://xiaomi-on.ru/upload/iblock/406/d5kch39koself48jr899jm7b8ng7e5vo/videoregistrator_xiaomi_70mai_dash_cam_a200_kamera_zadnego_vida_rc12_2.jpg</picture>
+        <param name="Разрешение видео">1080p (Full HD)</param>
+        <param name="Угол обзора">130°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Камера заднего вида, поддержка ADAS</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="4007" available="true">
+        <url>http://www.example.com/product/4007</url>
+        <price>7790</price>
+        <model>Видеорегистратор 70mai Dash Cam Pro Plus A500S c камерой заднего вида (A500S+RC06)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8753/cbc44846-eec1-4e8f-8891-55602ca8e4b0-530x530.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1944p (2.5K)</param>
+        <param name="Угол обзора">140°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Камера заднего вида, поддержка ADAS, GPS</param>
+        <param name="Производитель">70mai</param>
+      </offer>
+      <offer id="4008" available="true">
+        <url>http://www.example.com/product/4008</url>
+        <price>9290</price>
+        <model>Видеорегистратор 70Mai Dash Cam A800S</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/09/70mai_dash_cam_4k_a800_ava_15-800x800_wmark.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2021/09/70mai_dash_cam_4k_a800_ava_14-800x800-1.jpg</picture>
+        <param name="Разрешение видео">2160p (4K)</param>
+        <param name="Угол обзора">140°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Поддержка ADAS, GPS, циклическая запись</param>
+        <param name="Производитель">70mai</param>
+      </offer>
+      <offer id="4009" available="true">
+        <url>http://www.example.com/product/4009</url>
+        <price>10490</price>
+        <model>Видеорегистратор 70mai Dash Cam M500 128G</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2024/01/2122961_1_1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2024/01/M500128.jpg</picture>
+        <param name="Разрешение видео">2160p (4K)</param>
+        <param name="Угол обзора">170°</param>
+        <param name="Экран">Нет</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Встроенная память 128GB, поддержка ADAS</param>
+        <param name="Производитель">70mai</param>
+      </offer>
+      <offer id="4010" available="true">
+        <url>http://www.example.com/product/4010</url>
+        <price>11590</price>
+        <model>Видеорегистратор Xiaomi 70mai Dash Cam 4K A800S + камера заднего вида 70mai Rear Cam RC06</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>81f50e46-7051-41d0-8843-0dca57a6b63f</categoryId>
+        <picture>https://sobachka.kg/wp-content/uploads/2023/11/70mai_dash_cam_4k_a800_ava_15-800x800_wmark.jpg</picture>
+        <picture>https://sobachka.kg/wp-content/uploads/2023/11/70mai_dash_cam_4k_a800_ava_3-800x800-1.jpg</picture>
+        <param name="Разрешение видео">2160p (4K)</param>
+        <param name="Угол обзора">140°</param>
+        <param name="Экран">Да</param>
+        <param name="Ночная съемка">Да</param>
+        <param name="Поддержка GPS">Да</param>
+        <param name="Wi-Fi">Да</param>
+        <param name="Дополнительные функции">Камера заднего вида, поддержка ADAS, GPS</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
