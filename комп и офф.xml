@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="448f0415-189b-454e-8961-743e23cdc802">Компьютер и офис</category>
+    </categories>
+    <offers>
+      <offer id="40001" available="true">
+        <url>http://www.example.com/product/40001</url>
+        <price>8490</price>
+        <model>Монитор Xiaomi Redmi Desktop Monitor 1A 23.8</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://afm.kg/d/monitor_xiaomi_redmi_desktop_monitor_1a_238_rmmnt238nf_4.jpg</picture>
+        <picture>https://afm.kg/d/monitor_xiaomi_redmi_desktop_monitor_1a_238_rmmnt238nf_2.jpg</picture>
+        <param name="Тип устройства">Монитор</param>
+        <param name="Основные характеристики">Экран: 23.8" IPS, Разрешение: 1920x1080, Частота обновления: 60Hz, Интерфейсы: HDMI, VGA</param>
+      </offer>
+      <offer id="40002" available="true">
+        <url>http://www.example.com/product/40002</url>
+        <price>490</price>
+        <model>Степлер Xiaomi Kaco</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/02/kaco-k1405-white-1.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2020/02/kaco-k1405-white-3.jpg</picture>
+        <param name="Тип устройства">Степлер</param>
+        <param name="Основные характеристики">Назначение: для бумаги, Материал: пластик, Емкость скрепок: до 50 листов, Механизм: ручной</param>
+      </offer>
+      <offer id="40003" available="true">
+        <url>http://www.example.com/product/40003</url>
+        <price>490</price>
+        <model>Диспенсер скотча Xiaomi Kaco</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/10020/319dc105-b094-4075-9e2b-bdbc181726aa-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Диспенсер скотча</param>
+        <param name="Основные характеристики">Поддерживаемая ширина ленты: до 1 дюйма, Материал: пластик, Тип: настольный</param>
+      </offer>
+      <offer id="40004" available="true">
+        <url>http://www.example.com/product/40004</url>
+        <price>2290</price>
+        <model>Игровая мышь Xiaomi Gaming Mouse lite</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://mistore.kg/wp-content/uploads/2023/12/mose-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Игровая мышь</param>
+        <param name="Основные характеристики">Тип сенсора: оптический, Макс. DPI: 6200, Количество кнопок: 6, Подсветка: RGB, Тип подключения: USB</param>
+      </offer>
+      <offer id="40005" available="true">
+        <url>http://www.example.com/product/40005</url>
+        <price>3690</price>
+        <model>Роутер Xiaomi Router AX1500</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2024/04/Bez-imeni-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Роутер</param>
+        <param name="Основные характеристики">Стандарт Wi-Fi: 802.11ax (Wi-Fi 6), Частоты: 2.4 GHz, 5 GHz, Макс. скорость: до 1500 Мбит/с</param>
+      </offer>
+      <offer id="40006" available="true">
+        <url>http://www.example.com/product/40006</url>
+        <price>14990</price>
+        <model>Монитор Xiaomi Redmi Display 2K 60Hz 27"</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/05/pms_1628482974.95069746.jpg</picture>
+        <picture>https://mi-shop.kg/wp-content/uploads/2022/05/pms_1628482971.86151146.jpg</picture>
+        <param name="Тип устройства">Монитор</param>
+        <param name="Основные характеристики">Экран: 27" IPS, Разрешение: 2560x1440 (2K), Частота обновления: 60Hz, Интерфейсы: HDMI, VGA</param>
+      </offer>
+      <offer id="40007" available="true">
+        <url>http://www.example.com/product/40007</url>
+        <price>1690</price>
+        <model>Беспроводная мышь Xiaomi Wireless Mouse 3 (чёрная)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://fishka.kg/image/cache/catalog/Products/Acsessuary/Myshki/%20Wireless%20Mouse%203/01-1000x1000.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Беспроводная мышь</param>
+        <param name="Основные характеристики">Тип сенсора: оптический, Макс. DPI: 1600, Подключение: беспроводное</param>
+      </offer>
+      <offer id="40008" available="true">
+        <url>http://www.example.com/product/40008</url>
+        <price>1690</price>
+        <model>Беспроводная мышь Xiaomi Wireless Mouse 3 (белая)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://fishka.kg/image/cache/catalog/Products/Acsessuary/Myshki/%20Wireless%20Mouse%203/04-1000x1000.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Беспроводная мышь</param>
+        <param name="Основные характеристики">Тип сенсора: оптический, Макс. DPI: 1600, Подключение: беспроводное</param>
+      </offer>
+      <offer id="40009" available="true">
+        <url>http://www.example.com/product/40009</url>
+        <price>1790</price>
+        <model>Беспроводная мышь Xiaomi Wireless Mouse 3 (розовая)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://fishka.kg/image/cache/catalog/Products/Acsessuary/Myshki/%20Wireless%20Mouse%203/02-1000x1000.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Беспроводная мышь</param>
+        <param name="Основные характеристики">Тип сенсора: оптический, Макс. DPI: 1600, Подключение: беспроводное</param>
+      </offer>
+      <offer id="40010" available="true">
+        <url>http://www.example.com/product/40010</url>
+        <price>50</price>
+        <model>Гелевая ручка Xiaomi Ju Neng Gel Pen 0.5mm (Red 1pcs)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/10324/a596e657-a04e-4eec-a36a-fff4d457d73a-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Гелевая ручка</param>
+        <param name="Основные характеристики">Диаметр пишущего узла: 0.5 мм, Цвет чернил: красный</param>
+      </offer>
+      <offer id="40011" available="true">
+        <url>http://www.example.com/product/40011</url>
+        <price>50</price>
+        <model>Гелевая ручка Xiaomi Ju Neng Gel Pen 0.5mm (Black 1pcs)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/8913/a60d2ee7-eafb-47bc-9e24-bdd08f119678-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Гелевая ручка</param>
+        <param name="Основные характеристики">Диаметр пишущего узла: 0.5 мм, Цвет чернил: черный</param>
+      </offer>
+      <offer id="40012" available="true">
+        <url>http://www.example.com/product/40012</url>
+        <price>50</price>
+        <model>Гелевая ручка Xiaomi Gel Pen 0.5mm (1pcs)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>448f0415-189b-454e-8961-743e23cdc802</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9669/8025b8fb-1f84-423a-bc83-8c88171c29b1-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Гелевая ручка</param>
+        <param name="Основные характеристики">Диаметр пишущего узла: 0.5 мм, Цвет чернил: черный</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
