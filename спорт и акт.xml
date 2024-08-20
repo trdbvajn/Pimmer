@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="08ddd2bb-08a7-4b18-8ede-e57ed92442c1">Спорт и активный образ жизни</category>
+    </categories>
+    <offers>
+      <offer id="70001" available="true">
+        <url>http://www.example.com/product/70001</url>
+        <price>3490</price>
+        <model>Портативная электронагревательная кружка Mijia Portable Electric Heating Cup 2 (белый)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>08ddd2bb-08a7-4b18-8ede-e57ed92442c1</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9945/42049851-3227-4f0f-9551-21b16f508860-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Электронагревательная кружка</param>
+        <param name="Основные характеристики">Объем: 350 мл, Мощность: 300 Вт, Функция: поддержание температуры, нагрев</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="70002" available="true">
+        <url>http://www.example.com/product/70002</url>
+        <price>1790</price>
+        <model>Мультифункциональный налобный фонарь Nextool (комплект)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>08ddd2bb-08a7-4b18-8ede-e57ed92442c1</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9572/918d12f5-8e74-4eb1-b53e-e7dc43653bad-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Налобный фонарь</param>
+        <param name="Основные характеристики">Световой поток: 300 лм, Режимы: 4, Дальность освещения: до 50 м, Зарядка: USB</param>
+        <param name="Производитель">Nextool</param>
+      </offer>
+      <offer id="70003" available="true">
+        <url>http://www.example.com/product/70003</url>
+        <price>2190</price>
+        <model>Мультифункциональный фонарик Nextool Multifunctional Induction Flashlight</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>08ddd2bb-08a7-4b18-8ede-e57ed92442c1</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9479/fa3c8cb4-e780-47f4-a28d-e11bf5669917-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Фонарик</param>
+        <param name="Основные характеристики">Световой поток: 200 лм, Функции: индукция, магнитное крепление, Зарядка: USB</param>
+        <param name="Производитель">Nextool</param>
+      </offer>
+      <offer id="70004" available="true">
+        <url>http://www.example.com/product/70004</url>
+        <price>2190</price>
+        <model>Кофейная термокружка Xiaomi Custom Coffee Cup</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>08ddd2bb-08a7-4b18-8ede-e57ed92442c1</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/10027/6822facb-e37c-4356-b929-2be423686e48-530x530.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Термокружка</param>
+        <param name="Основные характеристики">Объем: 400 мл, Материал: нержавеющая сталь, Функция: поддержание температуры</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="70005" available="true">
+        <url>http://www.example.com/product/70005</url>
+        <price>1990</price>
+        <model>Термокружка с подогревом Xiaomi Mijia Portable Electric Heat Cup</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>08ddd2bb-08a7-4b18-8ede-e57ed92442c1</categoryId>
+        <picture>https://mi-shop.kg/wp-content/uploads/2023/12/Xiaomi-Mijia-Portable-Electric-C.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Термокружка с подогревом</param>
+        <param name="Основные характеристики">Объем: 350 мл, Мощность: 300 Вт, Функция: поддержание температуры, нагрев</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+      <offer id="70006" available="true">
+        <url>http://www.example.com/product/70006</url>
+        <price>1990</price>
+        <model>Умная скакалка Xiaomi Smart Skipping Rope</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>08ddd2bb-08a7-4b18-8ede-e57ed92442c1</categoryId>
+        <picture>https://xiaomi.kg/image/cache/catalog/amgroup_moysklad/9146/ae41476a-63af-4a22-81ef-1b6e6d2bc18b-530x530.png</picture>
+        <picture>nan</picture>
+        <param name="Тип устройства">Умная скакалка</param>
+        <param name="Основные характеристики">Функции: счетчик прыжков, синхронизация с приложением, Зарядка: USB</param>
+        <param name="Производитель">Xiaomi</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
