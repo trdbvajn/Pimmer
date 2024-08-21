@@ -1,0 +1,1055 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="acb7c9e8-581d-4735-8b72-68b6cc94972d">Клавиатуры</category>
+    </categories>
+    <offers>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>6583.5</price>
+        <model>Keychron C1 C1H2 mechanical blue</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_88_539_0_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Blue)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>9912.869999999999</price>
+        <model>Keychron K10 Wireless mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/keychron-k10--full-size-wired-wireless-mechanical-keyboard-white-rgb-backlight-gateron-red-switches-mac-windows-layout.jpg?v=1631097814&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7267.5</price>
+        <model>Keychron K12 K12F5 wireless mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-K12-60percent-compact-hot-swappable-wireless-mechanical-keyboard-Mac-Windows-White-RGB-backlight-Gateron-mechanical-switch-blue.jpg?v=1618315419&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7834.365</price>
+        <model>Keychron K4 K4G2 Wireless mechanical blue</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-K4-version2-hot-swappable-wireless-mechanical-keyboard-96percent-layout-for-Mac-Windows-iOS-Gateron-switch-blue-with-type-C-RGB-white-backlight_9083c18d-0ddb-4a86-acb1-f078db043fb7.jpg?v=1644399874&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Blue)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">100</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7674.4800000000005</price>
+        <model>Keychron K6 W3 wireless mechanical brown</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-K4-version2-hot-swappable-wireless-mechanical-keyboard-96percent-layout-for-Mac-Windows-iOS-Gateron-switch-brown-with-type-C-RGB-white-backlight-aluminum-frame_115fdc79-34d0-4a32-aa57-a9c98edd0a25.jpg?v=1644399874&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Brown)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная</param>
+        <param name="Количество клавиш">68</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>8793.675</price>
+        <model>Keychron K7 K7H3 wireless mechanical brown</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-K7-65-percent-ultra-slim-compact-wireless-mechanical-keyboard-for-Mac-Windows-Hot-swappable-low-profile-Gateron-Mechanical-brown-switches-for-Mac-Windows-with-white-backlit.jpg?v=1638418343&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Brown)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная</param>
+        <param name="Количество клавиш">65</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>8314.02</price>
+        <model>Keychron V1 V1C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-V1-Custom-Mechanical-Keyboard-frosted-black-K-Pro-red.jpg?v=1657878904&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10232.640000000001</price>
+        <model>Keychron V10 V10C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://assets.elive.co.nz/images/products/keychron-v10c1-75-red-switch-mechanical-keyboard-frosted-black-1.jpg?width=800</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>8314.02</price>
+        <model>Keychron V2 V2C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-V2-Custom-Mechanical-Keyboard-frosted-black-QMK-VIA-65-percent-layout-hot-swappable-Keychron-K-Pro-switch-red-V2-A1_4f7ae170-97a4-4233-ae78-10bae52a5390.jpg?v=1662362053&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>8314.02</price>
+        <model>Keychron V3 V3C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://assets.elive.co.nz/images/products/keychron-v3c1-80-red-switch-wired-mechanical-keyboard-black-1.jpg?width=800</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>9113.445</price>
+        <model>Keychron V5 V5C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-V5-QMK-VIA-custom-mechanical-keyboard-knob-96-percent-layout-for-Mac-Windows-Linux-frame-frosted-black-V5-C1_36f87eac-2091-49a1-b002-4278e41bca0e.jpg?v=1666255458&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>9113.445</price>
+        <model>Keychron V6 V6C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-V6-QMK-VIA-custom-mechanical-keyboard-full-size-layout-for-Mac-Windows-Linux-frame-frosted-black-V6-A1_acb6a67c-174b-447a-bf9e-ff82c82273ac.jpg?v=1668137243&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>8160.975</price>
+        <model>Keychron V8 V8C1 mechanical red</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.keychron.com/cdn/shop/products/Keychron-V8-Custom-Mechanical-Keyboard-knob-frosted-black-QMK-VIA-alice-65-layout-hot-swappable-V8-C1_479bb8e7-8bf0-471b-a1c3-bcbbacad2eff.jpg?v=1670573594&amp;width=900</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Keychron</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>9405.0</price>
+        <model>Huntsman Mini (analog Switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61Az2uOUbqL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Analog)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (60%)</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>9405.0</price>
+        <model>Huntsman Mini (Purple Switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/hunts-2-optimized.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Purple)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (60%)</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>9405.0</price>
+        <model>Huntsman Mini (Red Switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/hunts-211-optimized.jpeg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/hunts-2-optimized.jpeg</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (60%)</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>5531.85</price>
+        <model>RAZER ANANSI MMO KEYBOARD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/public/HS3GbTb6kK5Tb5rJbtj5wD/RZR_Anansi_2-2-light.png</picture>
+        <picture>https://static.razer.ru/public/ZJCL4exehfXajroPQ3DPqk/RZR_Anansi_MainView.png</picture>
+        <param name="Тип клавиш">Механические (Blue)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">100+ макросов</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7267.5</price>
+        <model>RAZER BLACKWIDOW Essential- Green</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61vrNDUitdL._AC_SL1024_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>13979.25</price>
+        <model>RAZER BLACKWIDOW V3 Mechanical Gaming (желтые свичи)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/762/762e74fb7cf648dab72f8fa4147950ed.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Yellow)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>13979.25</price>
+        <model>RAZER BLACKWIDOW V3 Mechanical Gaming (зеленые свичи)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/6da/6da61b5fdef695652449604e9884d5c0.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>17955.0</price>
+        <model>Razer BlackWidow V3 Mini HyperSpeed (Green Switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/793/793f7ad07ffb0229edaf576c99e1af22.jpg</picture>
+        <picture>https://megastore.kg/upload/iblock/ceb/ceb0e7160e36ddc9e748c099f3387940.jpg</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (65%)</param>
+        <param name="Количество клавиш">68</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>18382.5</price>
+        <model>Razer BlackWidow V3 Mini HyperSpeed (Yellow Switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/38f/38f46c5e1bb04eee833da2f03abdff1a.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Yellow)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (65%)</param>
+        <param name="Количество клавиш">68</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>19015.2</price>
+        <model>Razer BlackWidow V3 Mini HyperSpeed (Yellow Switch) Phantom</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/237614/blackwidow-v3-mini-hyperspeed-phantom-1500x1000-4.jpg</picture>
+        <picture>https://static.razer.ru/237617/blackwidow-v3-mini-hyperspeed-phantom-1500x1000-1.jpg</picture>
+        <param name="Тип клавиш">Механические (Yellow)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (65%)</param>
+        <param name="Количество клавиш">68</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10944.0</price>
+        <model>RAZER BLACKWIDOW V3 TENKEYLESS Mechanical Gaming (желтые свичи)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/258071-large_default/razer-blackwidow-v3-tenkeyless-mechanical-gaming-zheltye-svichi.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Yellow)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10961.099999999999</price>
+        <model>RAZER BLACKWIDOW V3 TENKEYLESS Mechanical Gaming (зеленые свичи)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/27e/27e90ec2afe9e5c5290333be8ce0d007.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>19066.5</price>
+        <model>RAZER BLACKWIDOW V4 75%</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/public/w5wZxAY2u3AXJ2HfCApqnK/bw-v4-75-white-1500x1000-1.jpg</picture>
+        <picture>https://static.razer.ru/public/SVUithXa2vZVSfFoLKE768/bw-v4-75-white-1500x1000-4.jpg</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (75%)</param>
+        <param name="Количество клавиш">84</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>19066.5</price>
+        <model>RAZER BLACKWIDOW V4 75% White</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5159019/2a0000018a46bb7a7fa7ff861ff1b8f9fbeb/optimize</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1704691/2a0000018a46bb7a80d8b47323414ae0b9d1/optimize</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (75%)</param>
+        <param name="Количество клавиш">84</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>15817.5</price>
+        <model>RAZER BLACKWIDOW V4 Green Switch</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://assets3.razerzone.com/UstX1B90X8IzpWnwTOvcUTsR-CA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh94%2Fhaa%2F9618906382366%2F230718-blackwidow-v4-1500x1000-6.jpg</picture>
+        <picture>https://assets3.razerzone.com/kzql6wVbq_2lG8bynOEgFBNm3TU=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh1d%2Fha1%2F9618906611742%2F230718-blackwidow-v4-1500x1000-5.jpg</picture>
+        <param name="Тип клавиш">Механические (Green)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>15817.5</price>
+        <model>RAZER BLACKWIDOW V4 Yellow Switch</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://assets3.razerzone.com/TQLdIrvAQ-JGmHN3_y6D3FWdJ-k=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2c%2Fha7%2F9618906480670%2F230718-blackwidow-v4-1500x1000-1.jpg</picture>
+        <picture>https://assets3.razerzone.com/jt-kDHlHqLS51EU0wBqGzuoEmCA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhed%2Fha7%2F9618906415134%2F230718-blackwidow-v4-1500x1000-3.jpg</picture>
+        <param name="Тип клавиш">Механические (Yellow)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>5044.5</price>
+        <model>Razer Cynosa Lite</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/225500/Cynosa-Lite-1v.png</picture>
+        <picture>https://static.razer.ru/225502/Cynosa-Lite-3.png</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>6942.6</price>
+        <model>Razer Cynosa V2</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/0/0/146e7090d4e26c4aaa528d706a7b7d64/8ed56b1c20df8f16f064e5859366a4c37417a0ea8046ebb5a90d5990bb72a308.jpg.webp</picture>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/dcd9de3186a2b719665088c6f53b16bd/4c2af7ed6cd9344776082e641f07637325914a327845d5b41263d3551a14b021.jpg.webp</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>16587.0</price>
+        <model>RAZER DEATHSTALKER V2 (red switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.kivano.kg/images/product/114036/full/1669176371_01423300.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Оптические (Red)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>18767.25</price>
+        <model>RAZER DEATHSTALKER V2 Pro TKL (red switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.kivano.kg/images/product/121371/full/1684747279_35078300.png</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Оптические (Red)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10354.905</price>
+        <model>RAZER HuntsMan Mini Mercury Purple Switch</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.kivano.kg/images/product/88573/full/1612428539_49417300.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Purple)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (60%)</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10354.905</price>
+        <model>RAZER HuntsMan Mini Mercury Red Switch</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/3e6/3e6e847a68ffc48bb120c8241fb8dffc.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (60%)</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>20691.0</price>
+        <model>RAZER HuntsMan v2 Analog</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/233157/razer-huntsman-v2-analog-gallery-01.jpg</picture>
+        <picture>https://static.razer.ru/233158/razer-huntsman-v2-analog-gallery-02.jpg</picture>
+        <param name="Тип клавиш">Механические (Analog)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>14483.7</price>
+        <model>RAZER HUNTSMAN V2 Tenkeyless (Purple Switch)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523248-large_default/razer-huntsman-v2-tenkeyless-purple-switch.jpg</picture>
+        <picture>https://systema.kg/523245-large_default/razer-huntsman-v2-tenkeyless-purple-switch.jpg</picture>
+        <param name="Тип клавиш">Механические (Purple)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>23512.5</price>
+        <model>RAZER HuntsMan V3 Pro</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/public/RDnb7xqJLQ7pKVPLZwMNqE/huntsman-v3-pro-1500x1000-6.jpg</picture>
+        <picture>https://static.razer.ru/public/pvWbRpjpu3DyZmT3XTXQeH/huntsman-v3-pro-1500x1000-3.jpg</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>2479.5</price>
+        <model>RAZER KEYBOARD Rest - Mini</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://assets3.razerzone.com/sl8Yc-7k0AGSiO-nvg1CPhhbGjk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fha8%2Fh1a%2F9189306105886%2FErgonomic-Wrist-Rest-Mini-1500x1000-04.jpg</picture>
+        <picture>https://assets3.razerzone.com/-tlQZAu43QNDd9NoiL5I1V_JkbA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf3%2Fh98%2F9189386125342%2FErgonomic-Wrist-Rest-Tenkeyless-1500x1000-07.jpg.jpg</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Подставка</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>2736.0</price>
+        <model>RAZER KEYBOARD Rest - Standard</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/257387-large_default/razer-keyboard-rest-standard.jpg</picture>
+        <picture>https://systema.kg/257388-large_default/razer-keyboard-rest-standard.jpg</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Подставка</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>2479.5</price>
+        <model>RAZER KEYBOARD Rest - TKL</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://files.ox-sys.com/cache/800x_/image/3b/1f/30/3b1f307cc2ab0b125ba1d7f3c6d77df303ac930e4b85849bbed6a9d064a3e927.jpg</picture>
+        <picture>https://files.ox-sys.com/cache/800x_/image/d8/bd/9c/d8bd9c220528926f19e8e68c924d225a444d90f214cc9aa7dfe2b300ffd56192.jpg</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Подставка</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>3522.6000000000004</price>
+        <model>RAZER KEYBOARD Wrist Rest Pro (Cooling Gel)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.gamingislife.sg/cdn/shop/files/71OG49ZB_zL._AC_SL1500.jpg?v=1716713303&amp;width=1125</picture>
+        <picture>https://www.gamingislife.sg/cdn/shop/files/71p5WvQvqdL._AC_SL1500_1f2052e8-a574-42b2-9d90-9ebea9e0df07.jpg?v=1716713303&amp;width=1125</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Подставка</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>3522.6000000000004</price>
+        <model>RAZER MARAUDER SCII GAMING KEYBOARD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523325-large_default/razer-marauder-scii-gaming-keyboard.jpg</picture>
+        <picture>https://systema.kg/523327-large_default/razer-marauder-scii-gaming-keyboard.jpg</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>2754.81</price>
+        <model>Razer Mechanical Switches Pack -Green Clicky Switch</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61jtSxe9MWL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Комплект свитчей</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>2754.81</price>
+        <model>Razer Mechanical Switches Pack -Yellow Linear Switch</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61jtSxe9MWL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Комплект свитчей</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10465.2</price>
+        <model>Razer Ornata V2</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/229203/razer-ornata-v2-gallery-photo-07.jpg</picture>
+        <picture>https://static.razer.ru/229201/razer-ornata-v2-gallery-photo-05.jpg</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7310.25</price>
+        <model>Razer Ornata v3</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-s/wc1000/6510394600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7267.5</price>
+        <model>Razer Ornata v3 TKL</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/wm/0/0/2ab8efb806fb0a6c8e08f1f1062eb10c/6b6c9d8db048387e36f02c395cfc12e992feb7e5a3f5dfaec381b779de3b0c14.jpg.webp</picture>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/wm/0/0/4d29e1c4416222be35928b37905ea0d6/f5fabb7c02ee601a2acc941fc428ed519091e1a7f6db8ac7ac35a3502b97c9ee.jpg.webp</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>5557.5</price>
+        <model>Razer Ornata v3X</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/public/CiAtgwinvyQYApMXCPW9Cc/ornata-v3-x-1500x1000-3.jpg</picture>
+        <picture>https://static.razer.ru/public/CNEwKofxKphNRKTEQyZsg5/ornata-v3-x-1500x1000-6.jpg</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>3924.45</price>
+        <model>RAZER PBT Keycap + Coiled Cable Upgrade Set (Quartz Pink)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71rzrgprokL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Комплект аксессуаров</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>3420.0</price>
+        <model>RAZER PBT Keycap Upgrade Set (QUARTZ PINK)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/533/533db436c2da8d4eaa7aee83b803ec44.jpg</picture>
+        <picture>https://megastore.kg/upload/iblock/f77/f777ff8be56a9c80e035b26094a5c512.jpg</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Комплект аксессуаров</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>15903.0</price>
+        <model>Razer Pro Type ULTRA wireless (White)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://static.razer.ru/239843/pro-type-ultra-1500x1000-1.jpg</picture>
+        <picture>https://static.razer.ru/239845/pro-type-ultra-1500x1000-3.jpg</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Беспроводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>7504.335</price>
+        <model>SteelSeries APEX 3 GAMING KEYBOARD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/de/47/de47a713-8b0d-4a30-9640-a5a14c64556b/buyimg_apex3_006-fix.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/6e/1f/6e1ffb13-ca94-44ce-843a-1f424bd97d84/buyimg_apex3_001.jpg__1920x1080_q100_crop-fit_optimize_subsampling-2.jpg</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>6044.85</price>
+        <model>SteelSeries APEX 3 TKL GAMING KEYBOARD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/bf1/1200_1200_1d0e97ea46f4438969ab06dd5b311ca67/bf1629b06e36f17e553a990d2c0dd9da.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>10354.905</price>
+        <model>SteelSeries Apex 5 RUS Gaming Keyboard Hybrid Mechanical Switches</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523296-large_default/steelseries-apex-5-rus-gaming-keyboard-hybrid-mechanical-switches.jpg</picture>
+        <picture>https://systema.kg/523300-large_default/steelseries-apex-5-rus-gaming-keyboard-hybrid-mechanical-switches.jpg</picture>
+        <param name="Тип клавиш">Гибридные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>14535.0</price>
+        <model>SteelSeries Apex 7 (Blue Switch) RUS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523240-large_default/steelseries-apex-7-blue-switch-rus.jpg</picture>
+        <picture>https://systema.kg/523243-large_default/steelseries-apex-7-blue-switch-rus.jpg</picture>
+        <param name="Тип клавиш">Механические (Blue)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>16054.335000000001</price>
+        <model>SteelSeries Apex 7 (Brown Switch) RUS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523275-large_default/steelseries-apex-7-tkl-rus-brown-switch-mechanical-gaming-keyboard.jpg</picture>
+        <picture>https://systema.kg/523277-large_default/steelseries-apex-7-tkl-rus-brown-switch-mechanical-gaming-keyboard.jpg</picture>
+        <param name="Тип клавиш">Механические (Brown)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>14107.5</price>
+        <model>SteelSeries Apex 7 (Red Switch) RUS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523256-large_default/steelseries-apex-7-red-switch-rus.jpg</picture>
+        <picture>https://systema.kg/523255-large_default/steelseries-apex-7-red-switch-rus.jpg</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>13081.5</price>
+        <model>SteelSeries Apex 7 TKL RUS (Blue Clicky) Mechanical Gaming Keyboard</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523273-large_default/steelseries-apex-7-tkl-rus-blue-clicky-mechanical-gaming-keyboard.jpg</picture>
+        <picture>https://systema.kg/523271-large_default/steelseries-apex-7-tkl-rus-blue-clicky-mechanical-gaming-keyboard.jpg</picture>
+        <param name="Тип клавиш">Механические (Blue)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>13081.5</price>
+        <model>SteelSeries Apex 7 TKL RUS (Brown Switch) Mechanical Gaming Keyboard</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71zvPc04JLL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип клавиш">Механические (Brown)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>13081.5</price>
+        <model>SteelSeries Apex 7 TKL RUS (Red Switch) Mechanical Gaming Keyboard</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/e9e/e9e37c905ccfb21b7d294f4f37b5b239.jpg</picture>
+        <picture>https://megastore.kg/upload/iblock/527/527d97a8ff5f6b28ff11a0027e9ede17.jpg</picture>
+        <param name="Тип клавиш">Механические (Red)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>13081.5</price>
+        <model>SteelSeries Apex 9 mini (Optipoint linear optical) RUS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523261-large_default/steelseries-apex-9-mini-optipoint-linear-optical-rus.jpg</picture>
+        <picture>https://systema.kg/523263-large_default/steelseries-apex-9-mini-optipoint-linear-optical-rus.jpg</picture>
+        <param name="Тип клавиш">Оптические (Linear)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (60%)</param>
+        <param name="Количество клавиш">61</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>14535.0</price>
+        <model>SteelSeries Apex 9 TKL (Optipoint linear optical) RUS</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://systema.kg/523249-large_default/steelseries-apex-9-tkl-optipoint-linear-optical-rus.jpg</picture>
+        <picture>https://systema.kg/523250-large_default/steelseries-apex-9-tkl-optipoint-linear-optical-rus.jpg</picture>
+        <param name="Тип клавиш">Оптические (Linear)</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Компактная (TKL)</param>
+        <param name="Количество клавиш">87</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>5130.0</price>
+        <model>SteelSeries APEX100 GAMING KEYBOARD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/ca/ad/caaddef8-73d8-47ff-91b4-1e28755e683e/purchase-gallery-image-apex100-top.png__1850x800_crop-scale_optimize_subsampling-2.webp</picture>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/06/00/06001923-20bb-41fe-a246-ac06c9f3775e/purchase-gallery-image-apex100-hero.png__1850x800_crop-scale_optimize_subsampling-2.webp</picture>
+        <param name="Тип клавиш">Мембранные</param>
+        <param name="Подключение">Проводная</param>
+        <param name="Наличие подсветки">Да</param>
+        <param name="Тип клавиатуры">Полноразмерная</param>
+        <param name="Количество клавиш">104</param>
+        <param name="Поддержка макросов">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="nan" available="true">
+        <url>http://www.example.com/product/nan</url>
+        <price>3334.5</price>
+        <model>SteelSeries Prism CAPS black</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>acb7c9e8-581d-4735-8b72-68b6cc94972d</categoryId>
+        <picture>https://upg.uz/storage/files/products/83/original/vGqTrJeO78ZtQNPLlboBJ6e971jrTseYBtJ74I4q.jpg</picture>
+        <picture>https://upg.uz/storage/files/products/83/original/Uclp1WZ8Lj5OeaI16QIfocdQ7WvBjG6qrZyOkrlG.jpg</picture>
+        <param name="Тип клавиш">-</param>
+        <param name="Подключение">-</param>
+        <param name="Наличие подсветки">Нет</param>
+        <param name="Тип клавиатуры">Комплект аксессуаров</param>
+        <param name="Количество клавиш">-</param>
+        <param name="Поддержка макросов">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
