@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984">Жёсткий диск</category>
+    </categories>
+    <offers>
+      <offer id="10001" available="true">
+        <url>http://www.example.com/product/10001</url>
+        <price>4994.91</price>
+        <model>A-DATA HD330 EXTERNAL HDD 1TB USB3.1</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/103/26051.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/103/26051_1.jpg</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.1</param>
+        <param name="Производитель">A-DATA</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">A-DATA</param>
+      </offer>
+      <offer id="10002" available="true">
+        <url>http://www.example.com/product/10002</url>
+        <price>5509.62</price>
+        <model>A-DATA HD710P EXTERNAL HDD 1TB USB3.0</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/103/24147.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">A-DATA</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">A-DATA</param>
+      </offer>
+      <offer id="10003" available="true">
+        <url>http://www.example.com/product/10003</url>
+        <price>4275.0</price>
+        <model>Dahua External HDD E10 1Tb</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/105/30565.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Dahua</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Dahua</param>
+      </offer>
+      <offer id="10004" available="true">
+        <url>http://www.example.com/product/10004</url>
+        <price>5835.375</price>
+        <model>Hiksemi Portable SSD T300s 1tb</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://systema.kg/500931-large_default/portable-ssd-hikvision-hs-essd-t300s-1tb-usb-31.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.1</param>
+        <param name="Производитель">Hiksemi</param>
+        <param name="Тип устройства">Портативный SSD</param>
+        <param name="Скорость вращения">-</param>
+        <param name="Кэш-память">-</param>
+        <param name="Бренд">Hiksemi</param>
+      </offer>
+      <offer id="10005" available="true">
+        <url>http://www.example.com/product/10005</url>
+        <price>5224.905</price>
+        <model>Hikvision t30 EXTERNAL HDD 1TB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/105/29811.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/105/29811_1.jpg</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Hikvision</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Hikvision</param>
+      </offer>
+      <offer id="10006" available="true">
+        <url>http://www.example.com/product/10006</url>
+        <price>7271.775</price>
+        <model>Lenovo PS6 Portable SSD 1Tb</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://p4-ofp.static.pub//fes/cms/2023/09/12/kkk362fd1by2sggnssasuooagojvsw820545.png</picture>
+        <picture>https://p1-ofp.static.pub//fes/cms/2023/09/12/24mb4szv0v11zgx5ikugthv6et720y162912.png</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.1</param>
+        <param name="Производитель">Lenovo</param>
+        <param name="Тип устройства">Портативный SSD</param>
+        <param name="Скорость вращения">-</param>
+        <param name="Кэш-память">-</param>
+        <param name="Бренд">Lenovo</param>
+      </offer>
+      <offer id="10007" available="true">
+        <url>http://www.example.com/product/10007</url>
+        <price>4994.91</price>
+        <model>SEAGATE Expansion 1TB 2.5'' External</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-k/wc1000/6845443076.jpg</picture>
+        <picture>https://ir.ozone.ru/s3/multimedia-m/wc1000/6845443078.jpg</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10008" available="true">
+        <url>http://www.example.com/product/10008</url>
+        <price>4994.91</price>
+        <model>TOSHIBA CANVIO BASICS 1TB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/711/1200_1200_1d0e97ea46f4438969ab06dd5b311ca67/711adf9ae438bead4b84f52d214edfe3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">1TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Toshiba</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Toshiba</param>
+      </offer>
+      <offer id="10009" available="true">
+        <url>http://www.example.com/product/10009</url>
+        <price>6669.0</price>
+        <model>A-Data HD330 2TB Ext.HDD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/103/27359.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/103/27359_1.jpg</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.1</param>
+        <param name="Производитель">A-DATA</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">A-DATA</param>
+      </offer>
+      <offer id="10010" available="true">
+        <url>http://www.example.com/product/10010</url>
+        <price>7124.715</price>
+        <model>A-Data HV620S 2TB Ext.HDD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/103/26061.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/103/26061_1.jpg</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.1</param>
+        <param name="Производитель">A-DATA</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">A-DATA</param>
+      </offer>
+      <offer id="10011" available="true">
+        <url>http://www.example.com/product/10011</url>
+        <price>6840.0</price>
+        <model>Hikvision T30 2TB Ext.HDD</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.delta.kg/images/detailed/105/29812.jpg</picture>
+        <picture>https://www.delta.kg/images/detailed/105/29812_1.jpg</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Hikvision</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Hikvision</param>
+      </offer>
+      <offer id="10012" available="true">
+        <url>http://www.example.com/product/10012</url>
+        <price>11713.5</price>
+        <model>Lenovo PS8 Portable SSD 2Tb</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://p1-ofp.static.pub/ShareResource/560x450/SSNP/GXB1M24161/GXB1M24161-560x450-01.png</picture>
+        <picture>https://p3-ofp.static.pub/ShareResource/560x450/SSNP/GXB1M24161/GXB1M24161-560x450-02.png</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.1</param>
+        <param name="Производитель">Lenovo</param>
+        <param name="Тип устройства">Портативный SSD</param>
+        <param name="Скорость вращения">-</param>
+        <param name="Кэш-память">-</param>
+        <param name="Бренд">Lenovo</param>
+      </offer>
+      <offer id="10013" available="true">
+        <url>http://www.example.com/product/10013</url>
+        <price>6482.61</price>
+        <model>Seagate 2Tb firecuda External Hdd Beskar Ingot</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/beskar-ingot-drive/_shared/images/seagate-beskar-ingot-drive-se-ehdd-right-blue.png</picture>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/beskar-ingot-drive/_shared/images/seagate-beskar-ingot-drive-se-ehdd-top.png</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10014" available="true">
+        <url>http://www.example.com/product/10014</url>
+        <price>6482.61</price>
+        <model>Seagate 2Tb firecuda External Hdd Boba Fett</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/boba-fett/_shared/images/boba-fett-2tb-drive-hero-left.png</picture>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/boba-fett/_shared/images/boba-fett-2tb-drive-left.png</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10015" available="true">
+        <url>http://www.example.com/product/10015</url>
+        <price>6482.61</price>
+        <model>Seagate 2Tb firecuda External Hdd Grogu</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/grogu/_shared/images/grogu-se-fc-drive-hero-left-600x600.jpg</picture>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/grogu/_shared/images/grogu-se-fc-drive-left-600x600.jpg</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10016" available="true">
+        <url>http://www.example.com/product/10016</url>
+        <price>6482.61</price>
+        <model>Seagate 2Tb firecuda External Hdd Mandalorian</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/the-mandalorian/_shared/images/mandalorian-drive-2tb-hero-left.png</picture>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/the-mandalorian/_shared/images/mandalorian-drive-2tb-left.png</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10017" available="true">
+        <url>http://www.example.com/product/10017</url>
+        <price>6482.61</price>
+        <model>Seagate 2Tb firecuda External Hdd Spider-Man</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/spiderman/_shared/images/spiderman-row3-product-deatail-image-1.png</picture>
+        <picture>https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/gaming-drive/special-editions/spiderman/_shared/images/spiderman-row3-product-deatail-image-4.png</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10018" available="true">
+        <url>http://www.example.com/product/10018</url>
+        <price>6412.5</price>
+        <model>SEAGATE Expansion 2TB 2.5'' External</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/532fa8c3af28bf2229a758a70df128ac/ed37daa5d313c19ab58425c602ce8059118479791e8b9ecbbcd50a7947e9073c.jpg.webp</picture>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/a66dc646391a973bc42a8dc9cd84c005/6ef52046662ffd4856015bdac1df0075f5bcfd5dbafdf4cf1d41f910323a8864.jpg.webp</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10019" available="true">
+        <url>http://www.example.com/product/10019</url>
+        <price>6952.005</price>
+        <model>SEAGATE One Touch with Password 2TB 2.5'' External</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/396470483.jpg</picture>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/396470488.jpg</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10020" available="true">
+        <url>http://www.example.com/product/10020</url>
+        <price>8118.225</price>
+        <model>TOSHIBA CANVIO Advance 2TB USB2.0&amp;3.0 RED</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/deb58e0a39aac8456b7c3709decad1d3/e99daa67f40e07b2ccada9afb215f6d0bbfc32c80582e6d469691e2ddcaccca4.jpg.webp</picture>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/wm/0/0/e026a88ee780c827a4d702b87fcde82d/f6232baaa67f63adb2348ec88a32eb014b806350d1989ca9c3e6e2c1228dcc9b.jpg.webp</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Toshiba</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Toshiba</param>
+      </offer>
+      <offer id="10021" available="true">
+        <url>http://www.example.com/product/10021</url>
+        <price>6482.61</price>
+        <model>WD ELEMENTS HDD 2TB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-w/wc1000/6204151748.jpg</picture>
+        <picture>https://ir.ozone.ru/s3/multimedia-x/wc1000/6204151929.jpg</picture>
+        <param name="Объём памяти">2TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">WD</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">WD</param>
+      </offer>
+      <offer id="10022" available="true">
+        <url>http://www.example.com/product/10022</url>
+        <price>11286.0</price>
+        <model>External HDD Toshiba Canvio Ready 4TB</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://storage.toshiba.com/images/consumer-hdd-canvio/canvio_ready_packaging.png</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">4TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Toshiba</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Toshiba</param>
+      </offer>
+      <offer id="10023" available="true">
+        <url>http://www.example.com/product/10023</url>
+        <price>10053.09</price>
+        <model>SEAGATE Expansion 4TB 2.5'' External</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://m.media-amazon.com/images/I/81vDrXQQKzL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">4TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10024" available="true">
+        <url>http://www.example.com/product/10024</url>
+        <price>10616.535</price>
+        <model>SEAGATE Onetouch with Password 4TB 2.5'' External</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71zh+Xw58ML._SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">4TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+      <offer id="10025" available="true">
+        <url>http://www.example.com/product/10025</url>
+        <price>10616.535</price>
+        <model>SEAGATE Onetouch with Password 4TB blue</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f4546a5a-ebd3-4c6d-b60d-5ceb08ed3984</categoryId>
+        <picture>https://m.media-amazon.com/images/I/81vdTtEEhwL._SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Объём памяти">4TB</param>
+        <param name="Интерфейс">USB 3.0</param>
+        <param name="Производитель">Seagate</param>
+        <param name="Тип устройства">Внешний HDD</param>
+        <param name="Скорость вращения">5400 об/мин</param>
+        <param name="Кэш-память">8MB</param>
+        <param name="Бренд">Seagate</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
