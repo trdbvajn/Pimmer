@@ -10,8 +10,8 @@
       <category id="acb7c9e8-581d-4735-8b72-68b6cc94972d">Клавиатуры</category>
     </categories>
     <offers>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20001" available="true">
+        <url>http://www.example.com/product/20001</url>
         <price>6583.5</price>
         <model>Keychron C1 C1H2 mechanical blue</model>
         <currencyId>KGS</currencyId>
@@ -26,8 +26,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20002" available="true">
+        <url>http://www.example.com/product/20002</url>
         <price>9912.869999999999</price>
         <model>Keychron K10 Wireless mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -42,8 +42,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20003" available="true">
+        <url>http://www.example.com/product/20003</url>
         <price>7267.5</price>
         <model>Keychron K12 K12F5 wireless mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -58,8 +58,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20004" available="true">
+        <url>http://www.example.com/product/20004</url>
         <price>7834.365</price>
         <model>Keychron K4 K4G2 Wireless mechanical blue</model>
         <currencyId>KGS</currencyId>
@@ -74,8 +74,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20005" available="true">
+        <url>http://www.example.com/product/20005</url>
         <price>7674.4800000000005</price>
         <model>Keychron K6 W3 wireless mechanical brown</model>
         <currencyId>KGS</currencyId>
@@ -90,8 +90,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20006" available="true">
+        <url>http://www.example.com/product/20006</url>
         <price>8793.675</price>
         <model>Keychron K7 K7H3 wireless mechanical brown</model>
         <currencyId>KGS</currencyId>
@@ -106,8 +106,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20007" available="true">
+        <url>http://www.example.com/product/20007</url>
         <price>8314.02</price>
         <model>Keychron V1 V1C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -122,8 +122,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20008" available="true">
+        <url>http://www.example.com/product/20008</url>
         <price>10232.640000000001</price>
         <model>Keychron V10 V10C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -138,8 +138,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20009" available="true">
+        <url>http://www.example.com/product/20009</url>
         <price>8314.02</price>
         <model>Keychron V2 V2C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -154,8 +154,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20010" available="true">
+        <url>http://www.example.com/product/20010</url>
         <price>8314.02</price>
         <model>Keychron V3 V3C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -170,8 +170,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20011" available="true">
+        <url>http://www.example.com/product/20011</url>
         <price>9113.445</price>
         <model>Keychron V5 V5C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -186,8 +186,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20012" available="true">
+        <url>http://www.example.com/product/20012</url>
         <price>9113.445</price>
         <model>Keychron V6 V6C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -202,8 +202,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20013" available="true">
+        <url>http://www.example.com/product/20013</url>
         <price>8160.975</price>
         <model>Keychron V8 V8C1 mechanical red</model>
         <currencyId>KGS</currencyId>
@@ -218,8 +218,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Keychron</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20014" available="true">
+        <url>http://www.example.com/product/20014</url>
         <price>9405.0</price>
         <model>Huntsman Mini (analog Switch)</model>
         <currencyId>KGS</currencyId>
@@ -234,8 +234,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20015" available="true">
+        <url>http://www.example.com/product/20015</url>
         <price>9405.0</price>
         <model>Huntsman Mini (Purple Switch)</model>
         <currencyId>KGS</currencyId>
@@ -250,8 +250,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20016" available="true">
+        <url>http://www.example.com/product/20016</url>
         <price>9405.0</price>
         <model>Huntsman Mini (Red Switch)</model>
         <currencyId>KGS</currencyId>
@@ -266,8 +266,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20017" available="true">
+        <url>http://www.example.com/product/20017</url>
         <price>5531.85</price>
         <model>RAZER ANANSI MMO KEYBOARD</model>
         <currencyId>KGS</currencyId>
@@ -282,8 +282,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20018" available="true">
+        <url>http://www.example.com/product/20018</url>
         <price>7267.5</price>
         <model>RAZER BLACKWIDOW Essential- Green</model>
         <currencyId>KGS</currencyId>
@@ -298,8 +298,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20019" available="true">
+        <url>http://www.example.com/product/20019</url>
         <price>13979.25</price>
         <model>RAZER BLACKWIDOW V3 Mechanical Gaming (желтые свичи)</model>
         <currencyId>KGS</currencyId>
@@ -314,8 +314,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20020" available="true">
+        <url>http://www.example.com/product/20020</url>
         <price>13979.25</price>
         <model>RAZER BLACKWIDOW V3 Mechanical Gaming (зеленые свичи)</model>
         <currencyId>KGS</currencyId>
@@ -330,8 +330,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20021" available="true">
+        <url>http://www.example.com/product/20021</url>
         <price>17955.0</price>
         <model>Razer BlackWidow V3 Mini HyperSpeed (Green Switch)</model>
         <currencyId>KGS</currencyId>
@@ -346,8 +346,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20022" available="true">
+        <url>http://www.example.com/product/20022</url>
         <price>18382.5</price>
         <model>Razer BlackWidow V3 Mini HyperSpeed (Yellow Switch)</model>
         <currencyId>KGS</currencyId>
@@ -362,8 +362,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20023" available="true">
+        <url>http://www.example.com/product/20023</url>
         <price>19015.2</price>
         <model>Razer BlackWidow V3 Mini HyperSpeed (Yellow Switch) Phantom</model>
         <currencyId>KGS</currencyId>
@@ -378,8 +378,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20024" available="true">
+        <url>http://www.example.com/product/20024</url>
         <price>10944.0</price>
         <model>RAZER BLACKWIDOW V3 TENKEYLESS Mechanical Gaming (желтые свичи)</model>
         <currencyId>KGS</currencyId>
@@ -394,8 +394,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20025" available="true">
+        <url>http://www.example.com/product/20025</url>
         <price>10961.099999999999</price>
         <model>RAZER BLACKWIDOW V3 TENKEYLESS Mechanical Gaming (зеленые свичи)</model>
         <currencyId>KGS</currencyId>
@@ -410,8 +410,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20026" available="true">
+        <url>http://www.example.com/product/20026</url>
         <price>19066.5</price>
         <model>RAZER BLACKWIDOW V4 75%</model>
         <currencyId>KGS</currencyId>
@@ -426,8 +426,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20027" available="true">
+        <url>http://www.example.com/product/20027</url>
         <price>19066.5</price>
         <model>RAZER BLACKWIDOW V4 75% White</model>
         <currencyId>KGS</currencyId>
@@ -442,8 +442,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20028" available="true">
+        <url>http://www.example.com/product/20028</url>
         <price>15817.5</price>
         <model>RAZER BLACKWIDOW V4 Green Switch</model>
         <currencyId>KGS</currencyId>
@@ -458,8 +458,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20029" available="true">
+        <url>http://www.example.com/product/20029</url>
         <price>15817.5</price>
         <model>RAZER BLACKWIDOW V4 Yellow Switch</model>
         <currencyId>KGS</currencyId>
@@ -474,8 +474,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20030" available="true">
+        <url>http://www.example.com/product/20030</url>
         <price>5044.5</price>
         <model>Razer Cynosa Lite</model>
         <currencyId>KGS</currencyId>
@@ -490,8 +490,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20031" available="true">
+        <url>http://www.example.com/product/20031</url>
         <price>6942.6</price>
         <model>Razer Cynosa V2</model>
         <currencyId>KGS</currencyId>
@@ -506,8 +506,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20032" available="true">
+        <url>http://www.example.com/product/20032</url>
         <price>16587.0</price>
         <model>RAZER DEATHSTALKER V2 (red switch)</model>
         <currencyId>KGS</currencyId>
@@ -522,8 +522,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20033" available="true">
+        <url>http://www.example.com/product/20033</url>
         <price>18767.25</price>
         <model>RAZER DEATHSTALKER V2 Pro TKL (red switch)</model>
         <currencyId>KGS</currencyId>
@@ -538,8 +538,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20034" available="true">
+        <url>http://www.example.com/product/20034</url>
         <price>10354.905</price>
         <model>RAZER HuntsMan Mini Mercury Purple Switch</model>
         <currencyId>KGS</currencyId>
@@ -554,8 +554,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20035" available="true">
+        <url>http://www.example.com/product/20035</url>
         <price>10354.905</price>
         <model>RAZER HuntsMan Mini Mercury Red Switch</model>
         <currencyId>KGS</currencyId>
@@ -570,8 +570,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20036" available="true">
+        <url>http://www.example.com/product/20036</url>
         <price>20691.0</price>
         <model>RAZER HuntsMan v2 Analog</model>
         <currencyId>KGS</currencyId>
@@ -586,8 +586,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20037" available="true">
+        <url>http://www.example.com/product/20037</url>
         <price>14483.7</price>
         <model>RAZER HUNTSMAN V2 Tenkeyless (Purple Switch)</model>
         <currencyId>KGS</currencyId>
@@ -602,8 +602,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20038" available="true">
+        <url>http://www.example.com/product/20038</url>
         <price>23512.5</price>
         <model>RAZER HuntsMan V3 Pro</model>
         <currencyId>KGS</currencyId>
@@ -618,8 +618,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20039" available="true">
+        <url>http://www.example.com/product/20039</url>
         <price>2479.5</price>
         <model>RAZER KEYBOARD Rest - Mini</model>
         <currencyId>KGS</currencyId>
@@ -634,8 +634,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20040" available="true">
+        <url>http://www.example.com/product/20040</url>
         <price>2736.0</price>
         <model>RAZER KEYBOARD Rest - Standard</model>
         <currencyId>KGS</currencyId>
@@ -650,8 +650,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20041" available="true">
+        <url>http://www.example.com/product/20041</url>
         <price>2479.5</price>
         <model>RAZER KEYBOARD Rest - TKL</model>
         <currencyId>KGS</currencyId>
@@ -666,8 +666,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20042" available="true">
+        <url>http://www.example.com/product/20042</url>
         <price>3522.6000000000004</price>
         <model>RAZER KEYBOARD Wrist Rest Pro (Cooling Gel)</model>
         <currencyId>KGS</currencyId>
@@ -682,8 +682,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20043" available="true">
+        <url>http://www.example.com/product/20043</url>
         <price>3522.6000000000004</price>
         <model>RAZER MARAUDER SCII GAMING KEYBOARD</model>
         <currencyId>KGS</currencyId>
@@ -698,8 +698,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20044" available="true">
+        <url>http://www.example.com/product/20044</url>
         <price>2754.81</price>
         <model>Razer Mechanical Switches Pack -Green Clicky Switch</model>
         <currencyId>KGS</currencyId>
@@ -714,8 +714,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20045" available="true">
+        <url>http://www.example.com/product/20045</url>
         <price>2754.81</price>
         <model>Razer Mechanical Switches Pack -Yellow Linear Switch</model>
         <currencyId>KGS</currencyId>
@@ -730,8 +730,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20046" available="true">
+        <url>http://www.example.com/product/20046</url>
         <price>10465.2</price>
         <model>Razer Ornata V2</model>
         <currencyId>KGS</currencyId>
@@ -746,8 +746,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20047" available="true">
+        <url>http://www.example.com/product/20047</url>
         <price>7310.25</price>
         <model>Razer Ornata v3</model>
         <currencyId>KGS</currencyId>
@@ -762,8 +762,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20048" available="true">
+        <url>http://www.example.com/product/20048</url>
         <price>7267.5</price>
         <model>Razer Ornata v3 TKL</model>
         <currencyId>KGS</currencyId>
@@ -778,8 +778,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20049" available="true">
+        <url>http://www.example.com/product/20049</url>
         <price>5557.5</price>
         <model>Razer Ornata v3X</model>
         <currencyId>KGS</currencyId>
@@ -794,8 +794,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20050" available="true">
+        <url>http://www.example.com/product/20050</url>
         <price>3924.45</price>
         <model>RAZER PBT Keycap + Coiled Cable Upgrade Set (Quartz Pink)</model>
         <currencyId>KGS</currencyId>
@@ -810,8 +810,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20051" available="true">
+        <url>http://www.example.com/product/20051</url>
         <price>3420.0</price>
         <model>RAZER PBT Keycap Upgrade Set (QUARTZ PINK)</model>
         <currencyId>KGS</currencyId>
@@ -826,8 +826,8 @@
         <param name="Поддержка макросов">Нет</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20052" available="true">
+        <url>http://www.example.com/product/20052</url>
         <price>15903.0</price>
         <model>Razer Pro Type ULTRA wireless (White)</model>
         <currencyId>KGS</currencyId>
@@ -842,8 +842,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">Razer</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20053" available="true">
+        <url>http://www.example.com/product/20053</url>
         <price>7504.335</price>
         <model>SteelSeries APEX 3 GAMING KEYBOARD</model>
         <currencyId>KGS</currencyId>
@@ -858,8 +858,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20054" available="true">
+        <url>http://www.example.com/product/20054</url>
         <price>6044.85</price>
         <model>SteelSeries APEX 3 TKL GAMING KEYBOARD</model>
         <currencyId>KGS</currencyId>
@@ -874,8 +874,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20055" available="true">
+        <url>http://www.example.com/product/20055</url>
         <price>10354.905</price>
         <model>SteelSeries Apex 5 RUS Gaming Keyboard Hybrid Mechanical Switches</model>
         <currencyId>KGS</currencyId>
@@ -890,8 +890,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20056" available="true">
+        <url>http://www.example.com/product/20056</url>
         <price>14535.0</price>
         <model>SteelSeries Apex 7 (Blue Switch) RUS</model>
         <currencyId>KGS</currencyId>
@@ -906,8 +906,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20057" available="true">
+        <url>http://www.example.com/product/20057</url>
         <price>16054.335000000001</price>
         <model>SteelSeries Apex 7 (Brown Switch) RUS</model>
         <currencyId>KGS</currencyId>
@@ -922,8 +922,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20058" available="true">
+        <url>http://www.example.com/product/20058</url>
         <price>14107.5</price>
         <model>SteelSeries Apex 7 (Red Switch) RUS</model>
         <currencyId>KGS</currencyId>
@@ -938,8 +938,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20059" available="true">
+        <url>http://www.example.com/product/20059</url>
         <price>13081.5</price>
         <model>SteelSeries Apex 7 TKL RUS (Blue Clicky) Mechanical Gaming Keyboard</model>
         <currencyId>KGS</currencyId>
@@ -954,8 +954,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20060" available="true">
+        <url>http://www.example.com/product/20060</url>
         <price>13081.5</price>
         <model>SteelSeries Apex 7 TKL RUS (Brown Switch) Mechanical Gaming Keyboard</model>
         <currencyId>KGS</currencyId>
@@ -970,8 +970,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20061" available="true">
+        <url>http://www.example.com/product/20061</url>
         <price>13081.5</price>
         <model>SteelSeries Apex 7 TKL RUS (Red Switch) Mechanical Gaming Keyboard</model>
         <currencyId>KGS</currencyId>
@@ -986,8 +986,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20062" available="true">
+        <url>http://www.example.com/product/20062</url>
         <price>13081.5</price>
         <model>SteelSeries Apex 9 mini (Optipoint linear optical) RUS</model>
         <currencyId>KGS</currencyId>
@@ -1002,8 +1002,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20063" available="true">
+        <url>http://www.example.com/product/20063</url>
         <price>14535.0</price>
         <model>SteelSeries Apex 9 TKL (Optipoint linear optical) RUS</model>
         <currencyId>KGS</currencyId>
@@ -1018,8 +1018,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20064" available="true">
+        <url>http://www.example.com/product/20064</url>
         <price>5130.0</price>
         <model>SteelSeries APEX100 GAMING KEYBOARD</model>
         <currencyId>KGS</currencyId>
@@ -1034,8 +1034,8 @@
         <param name="Поддержка макросов">Да</param>
         <param name="Бренд">SteelSeries</param>
       </offer>
-      <offer id="nan" available="true">
-        <url>http://www.example.com/product/nan</url>
+      <offer id="20065" available="true">
+        <url>http://www.example.com/product/20065</url>
         <price>3334.5</price>
         <model>SteelSeries Prism CAPS black</model>
         <currencyId>KGS</currencyId>
