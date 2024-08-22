@@ -7,158 +7,1752 @@
       <currency id="KGS" rate="1"/>
     </currencies>
     <categories>
-      <category id="58bc12b4-6a28-4a37-885c-35e1e858bf9a">Мышки</category>
+      <category id="6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d">Мышки</category>
     </categories>
     <offers>
-      <offer id="40001" available="true">
-        <url>http://www.example.com/product/40001</url>
-        <price>1460</price>
-        <model>A4TECH BLOODY ES5 ESPORTS RGB MOUSE STONE BLACK 3200 CPI USB</model>
+      <offer id="30001" available="true">
+        <url>http://www.example.com/product/30001</url>
+        <price>2821.5</price>
+        <model>Glorious Model D Mouse Glossy (Black) , шт</model>
         <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://systema.kg/479255-large_default/a4tech-bloody-es5-esports-rgb-mouse-stone-black-3200cpi-usb.jpg</picture>
-        <picture>https://systema.kg/479256-large_default/a4tech-bloody-es5-esports-rgb-mouse-stone-black-3200cpi-usb.jpg</picture>
-        <param name="Тип подключения">Проводная (USB)</param>
-        <param name="DPI (разрешение)">3200 CPI</param>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/6f0/6f0a8fa4fbbc2e5131def9835af69983.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
         <param name="Количество кнопок">6</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Да</param>
-        <param name="Производитель">A4TECH</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
       </offer>
-      <offer id="40002" available="true">
-        <url>http://www.example.com/product/40002</url>
-        <price>570</price>
-        <model>Genius Micro Traveler 330LS 1600DPI laser USB</model>
+      <offer id="30002" available="true">
+        <url>http://www.example.com/product/30002</url>
+        <price>2821.5</price>
+        <model>Glorious Model D Mouse Glossy (White), шт</model>
         <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://www.kivano.kg/images/product/10924/10924_full.jpg</picture>
-        <picture>https://www.kivano.kg/images/product/10924/15671379673807_full.jpeg</picture>
-        <param name="Тип подключения">Проводная (USB)</param>
-        <param name="DPI (разрешение)">1600 DPI</param>
-        <param name="Количество кнопок">3</param>
-        <param name="Тип сенсора">Лазерный</param>
-        <param name="Наличие подсветки">Нет</param>
-        <param name="Производитель">Genius</param>
-      </offer>
-      <offer id="40003" available="true">
-        <url>http://www.example.com/product/40003</url>
-        <price>210</price>
-        <model>Mouse Winstar WS-MS-930 USB</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://enter.kg/images/stories/virtuemart/product/29843_1_4394.jpg</picture>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/63a/63ab6052c4dca303c95d9af7c3715f64.jpg</picture>
         <picture>nan</picture>
-        <param name="Тип подключения">Проводная (USB)</param>
-        <param name="DPI (разрешение)">1200 DPI</param>
-        <param name="Количество кнопок">3</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Нет</param>
-        <param name="Производитель">Winstar</param>
-      </offer>
-      <offer id="40004" available="true">
-        <url>http://www.example.com/product/40004</url>
-        <price>850</price>
-        <model>Беспроводная Мышь UGREEN MU001 USB</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://systema.kg/454327-large_default/mysh-besprovodnaya-ugreen-mu001-usb-otpticheskaya-dpi-max4000-4-knopki-zelyonyj-90374.jpg</picture>
-        <picture>nan</picture>
-        <param name="Тип подключения">Беспроводная (USB)</param>
-        <param name="DPI (разрешение)">1600 DPI</param>
-        <param name="Количество кнопок">5</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Нет</param>
-        <param name="Производитель">UGREEN</param>
-      </offer>
-      <offer id="40005" available="true">
-        <url>http://www.example.com/product/40005</url>
-        <price>300</price>
-        <model>Кабель Type - C Type - C 1M</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://mi-shop.kg/wp-content/uploads/2017/07/2479344385_w640_h640_2479344385.jpg</picture>
-        <picture>nan</picture>
-        <param name="Тип подключения">Не применимо</param>
-        <param name="DPI (разрешение)">Не применимо</param>
-        <param name="Количество кнопок">Не применимо</param>
-        <param name="Тип сенсора">Не применимо</param>
-        <param name="Наличие подсветки">Нет</param>
-        <param name="Производитель">Не применимо</param>
-      </offer>
-      <offer id="40006" available="true">
-        <url>http://www.example.com/product/40006</url>
-        <price>550</price>
-        <model>Мышь беспроводная SVEN RX-425W USB, max dpi 1600 5 кнопок белая</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://www.sven.fi/upload/iblock_photos/mouse/rx-425w/011-rx425wblack-zoom.jpg</picture>
-        <picture>https://www.sven.fi/upload/iblock_photos/mouse/rx-425w/052-rx425wblack-zoom.jpg</picture>
-        <param name="Тип подключения">Беспроводная (USB)</param>
-        <param name="DPI (разрешение)">1600 DPI</param>
-        <param name="Количество кнопок">5</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Нет</param>
-        <param name="Производитель">SVEN</param>
-      </offer>
-      <offer id="40007" available="true">
-        <url>http://www.example.com/product/40007</url>
-        <price>550</price>
-        <model>Мышь беспроводная SVEN RX-425W USB, max dpi 1600 5 кнопок серый</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://www.delta.kg/images/detailed/106/25180.jpg</picture>
-        <picture>https://www.delta.kg/images/detailed/106/25180_1.jpg</picture>
-        <param name="Тип подключения">Беспроводная (USB)</param>
-        <param name="DPI (разрешение)">1600 DPI</param>
-        <param name="Количество кнопок">5</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Нет</param>
-        <param name="Производитель">SVEN</param>
-      </offer>
-      <offer id="40008" available="true">
-        <url>http://www.example.com/product/40008</url>
-        <price>3500</price>
-        <model>Мышь беспроводная игровая Redragon Woki  M994 Wired+2 4G+BT  DPI max 26000 6 кнопок белая</model>
-        <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://systema.kg/520571-large_default/mysh-besprovodnaya-igrovaya-redragon-woki-m994-wired24gbt-dpi-max-26000-6-knopok-belaya.jpg</picture>
-        <picture>https://systema.kg/520573-large_default/mysh-besprovodnaya-igrovaya-redragon-woki-m994-wired24gbt-dpi-max-26000-6-knopok-belaya.jpg</picture>
-        <param name="Тип подключения">Проводная/Беспроводная</param>
-        <param name="DPI (разрешение)">26000 DPI</param>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
         <param name="Количество кнопок">6</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Да</param>
-        <param name="Производитель">Redragon</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
       </offer>
-      <offer id="40009" available="true">
-        <url>http://www.example.com/product/40009</url>
-        <price>3000</price>
-        <model>Мышь проводная Игровая Redragon Cobra DPI MAX: 12000, кнопок 9</model>
+      <offer id="30003" available="true">
+        <url>http://www.example.com/product/30003</url>
+        <price>2821.5</price>
+        <model>Glorious Model D Mouse Matte (Black) , шт</model>
         <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://wizard.kg/wp-content/uploads/2024/05/Redragon-Cobra-FPS-M711-FPS.jpg</picture>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/05e/05e49fc38dce90edd4dda87f84a30654.jpg</picture>
         <picture>nan</picture>
-        <param name="Тип подключения">Проводная (USB)</param>
-        <param name="DPI (разрешение)">12000 DPI</param>
-        <param name="Количество кнопок">9</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Да</param>
-        <param name="Производитель">Redragon</param>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
       </offer>
-      <offer id="40010" available="true">
-        <url>http://www.example.com/product/40010</url>
-        <price>2000</price>
-        <model>Мышь проводная игровая Redragon Shtorm M808 DPI: max 10000, 7 кнопок</model>
+      <offer id="30004" available="true">
+        <url>http://www.example.com/product/30004</url>
+        <price>2821.5</price>
+        <model>Glorious Model D Mouse Matte (White) , шт</model>
         <currencyId>KGS</currencyId>
-        <categoryId>58bc12b4-6a28-4a37-885c-35e1e858bf9a</categoryId>
-        <picture>https://systema.kg/520585-large_default/mysh-provodnaya-igrovaya-redragon-storm-m808-dpi-max-10000-7-knopok-rgb-podsvetka-chernaya.jpg</picture>
-        <picture>https://systema.kg/520586-large_default/mysh-provodnaya-igrovaya-redragon-storm-m808-dpi-max-10000-7-knopok-rgb-podsvetka-chernaya.jpg</picture>
-        <param name="Тип подключения">Проводная (USB)</param>
-        <param name="DPI (разрешение)">10000 DPI</param>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/matte-whitee-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/matte-white-211-optimized.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30005" available="true">
+        <url>http://www.example.com/product/30005</url>
+        <price>3752.5950000000003</price>
+        <model>Glorious Model D Wireless  Matte Black , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://4frag.ru/image/cache/data/product/glorious-model-d-wireless-matte-black-1-1000x1000.jpg</picture>
+        <picture>https://4frag.ru/image/cache/data/Mishi/Glorious/Model%20D/glorious-model-d-wireless-matte-black-2-1000x1000.jpg</picture>
+        <param name="DPI">19,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30006" available="true">
+        <url>http://www.example.com/product/30006</url>
+        <price>3762.0</price>
+        <model>Glorious Model D Wireless - Matte Black , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/model-d-wireb-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/model-d-wireless-b.--optimized.jpg</picture>
+        <param name="DPI">19,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30007" available="true">
+        <url>http://www.example.com/product/30007</url>
+        <price>3752.5950000000003</price>
+        <model>Glorious Model D Wireless - Matte White, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/b09/b0917be213ca9c26d241802d622219f4.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">19,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30008" available="true">
+        <url>http://www.example.com/product/30008</url>
+        <price>2821.5</price>
+        <model>Glorious Model D- Mouse Glossy (Black) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/minus-glorious-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/minus-221-optimized.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30009" available="true">
+        <url>http://www.example.com/product/30009</url>
+        <price>2821.5</price>
+        <model>Glorious Model D- Mouse Glossy (White) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.kivano.kg/images/product/92519/162133306913189_full.jpg</picture>
+        <picture>https://www.kivano.kg/images/product/92519/162133306969767_full.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30010" available="true">
+        <url>http://www.example.com/product/30010</url>
+        <price>2821.5</price>
+        <model>Glorious Model D- Mouse Matte (Black), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71g9J+FUMLL._AC_SL1500_.jpg</picture>
+        <picture>https://m.media-amazon.com/images/I/71Ep-m9Q1qL._AC_SL1500_.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30011" available="true">
+        <url>http://www.example.com/product/30011</url>
+        <price>2821.5</price>
+        <model>Glorious Model D- Mouse Regular (White), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61Lh1QoGQWL._AC_SL1500_.jpg</picture>
+        <picture>https://m.media-amazon.com/images/I/71zotbKg2xL._AC_SL1500_.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30012" available="true">
+        <url>http://www.example.com/product/30012</url>
+        <price>2821.5</price>
+        <model>Glorious Model O Mouse Glossy (Black) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/3b5/3b5b4a9a7b66379c1a43941cd4492442.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30013" available="true">
+        <url>http://www.example.com/product/30013</url>
+        <price>2821.5</price>
+        <model>Glorious Model O Mouse Glossy (White) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/0f5/0f590f3cfe2d8e9e502d71cb2892a334.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30014" available="true">
+        <url>http://www.example.com/product/30014</url>
+        <price>4924.8</price>
+        <model>Glorious Model O Mouse Matte (Black), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/41e/41e59c7ef87349c4305f0edaa4b0a450.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30015" available="true">
+        <url>http://www.example.com/product/30015</url>
+        <price>4924.8</price>
+        <model>Glorious Model O Mouse Matte (White), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/50a/50a162d41fcc80bf9d829c3932349641.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30016" available="true">
+        <url>http://www.example.com/product/30016</url>
+        <price>3762.0</price>
+        <model>Glorious Model O Wireless - Matte White, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/model-O-2112-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/model-O-1-optimized.jpg</picture>
+        <param name="DPI">19,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30017" available="true">
+        <url>http://www.example.com/product/30017</url>
+        <price>2821.5</price>
+        <model>Glorious Model O- Mouse Glossy (Black) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71alqQcAPNL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30018" available="true">
+        <url>http://www.example.com/product/30018</url>
+        <price>2821.5</price>
+        <model>Glorious Model O- Mouse Glossy (White) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/0f5/0f590f3cfe2d8e9e502d71cb2892a334.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Глянцевое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30019" available="true">
+        <url>http://www.example.com/product/30019</url>
+        <price>2821.5</price>
+        <model>Glorious Model O- Mouse Matte (Black), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71gcdURM-IL._AC_SL1500_.jpg</picture>
+        <picture>https://m.media-amazon.com/images/I/61v2g87At+L._AC_SL1500_.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30020" available="true">
+        <url>http://www.example.com/product/30020</url>
+        <price>2821.5</price>
+        <model>Glorious Model O- Mouse Matte (White), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71gL7gGh3iL._AC_SL1500_.jpg</picture>
+        <picture>https://m.media-amazon.com/images/I/6139sq7P9aL._AC_SL1500_.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовое</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30021" available="true">
+        <url>http://www.example.com/product/30021</url>
+        <price>1152.54</price>
+        <model>Glorious Mouse Bungee (Black) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/934/9343a09ed8a56b431a3093bc0b13ff5e.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">-</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30022" available="true">
+        <url>http://www.example.com/product/30022</url>
+        <price>1152.54</price>
+        <model>Glorious Mouse Bungee (White) , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/1d0/1d00a8ce68e91955a5b00f980ef38385.jpg</picture>
+        <picture>https://megastore.kg/upload/iblock/b78/b785d31a9cca836a349948c2033c2e1a.jpg</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">-</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30023" available="true">
+        <url>http://www.example.com/product/30023</url>
+        <price>864.405</price>
+        <model>Glorious Mouse Wrist Rest GW-M, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71JGHpSLShL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">Материал: Пена</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Glorious</param>
+      </offer>
+      <offer id="30024" available="true">
+        <url>http://www.example.com/product/30024</url>
+        <price>1152.54</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/847d9c0ae93853db7bfc2628219e956d/80507537e716028136a437131cc3ae35ce798031b739444029ac4cdca447a4b8.jpg.webp</picture>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/875b46cd6e0f3fac910baa11d70aac00/7be48e18cdb6d9bff48ab8eb9be674dd8e50bea925f3aa8916655555bb6e1331.jpg.webp</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30025" available="true">
+        <url>http://www.example.com/product/30025</url>
+        <price>7421.4</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/logitechh-superlight-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/superlight-3-optimized.jpg</picture>
+        <param name="DPI">25,600 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30026" available="true">
+        <url>http://www.example.com/product/30026</url>
+        <price>1899.81</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/logitech-g102-1-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">8,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30027" available="true">
+        <url>http://www.example.com/product/30027</url>
+        <price>1899.81</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/g102-logitech-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">8,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30028" available="true">
+        <url>http://www.example.com/product/30028</url>
+        <price>1899.81</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/g102-logitech-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">8,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30029" available="true">
+        <url>http://www.example.com/product/30029</url>
+        <price>1899.81</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/2b4/2b4ba6228887978e15089ab2c6fbeebd.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">8,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30030" available="true">
+        <url>http://www.example.com/product/30030</url>
+        <price>3704.7149999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/G304-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/G304-6-optimized.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30031" available="true">
+        <url>http://www.example.com/product/30031</url>
+        <price>3704.7149999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-2/wc1000/6056571590.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30032" available="true">
+        <url>http://www.example.com/product/30032</url>
+        <price>3704.7149999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-z/wc1000/6814639835.jpg</picture>
+        <picture>https://ir.ozone.ru/s3/multimedia-3/wc1000/6814639839.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30033" available="true">
+        <url>http://www.example.com/product/30033</url>
+        <price>6070.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/Logitech-G502-Hero-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/Logitech-G502-Hero-3-optimized.jpg</picture>
+        <param name="DPI">25,600 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">11</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30034" available="true">
+        <url>http://www.example.com/product/30034</url>
+        <price>6070.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/504165-large_default/logitech-g502x-hero-mouse-belaya.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">25,600 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">11</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30035" available="true">
+        <url>http://www.example.com/product/30035</url>
+        <price>9405.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/504147-large_default/logitech-g502x-hero-wireless-mouse.jpg</picture>
+        <picture>https://systema.kg/504148-large_default/logitech-g502x-hero-wireless-mouse.jpg</picture>
+        <param name="DPI">25,600 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">11</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30036" available="true">
+        <url>http://www.example.com/product/30036</url>
+        <price>1282.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.kivano.kg/images/product/31232/31232_full.jpeg</picture>
+        <picture>https://www.kivano.kg/images/product/31232/149786857087652_full.jpg</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30037" available="true">
+        <url>http://www.example.com/product/30037</url>
+        <price>1282.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://content1.rozetka.com.ua/goods/images/big/270821079.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30038" available="true">
+        <url>http://www.example.com/product/30038</url>
+        <price>1440.6750000000002</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61kZivgnleL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30039" available="true">
+        <url>http://www.example.com/product/30039</url>
+        <price>1539.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://castore.uz/upload/iblock/afc/924ft7o511c9a8gvm9k9nt1nnxgqhzcm/mysh-logitech-m190-wireless-mouse-mid-grey.webp</picture>
+        <picture>https://castore.uz/upload/iblock/47f/4ijmwbok0nsllgyb1n53hv2s31u0ku01/mysh-logitech-m190-wireless-mouse-mid-grey-2.webp</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30040" available="true">
+        <url>http://www.example.com/product/30040</url>
+        <price>1453.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/9cc/1000_894_1d0e97ea46f4438969ab06dd5b311ca67/9cc06c0fdf410a93748432ef5d868786.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30041" available="true">
+        <url>http://www.example.com/product/30041</url>
+        <price>1633.0500000000002</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://softech.kg/image/cache/eab124ddbdaebe662c8e9487724baed7.jpg</picture>
+        <picture>https://softech.kg/image/cache/b5d53c885d989e3e5d116d58f125d271.jpg</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30042" available="true">
+        <url>http://www.example.com/product/30042</url>
+        <price>2305.08</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61sskFEsc0L._SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30043" available="true">
+        <url>http://www.example.com/product/30043</url>
+        <price>2400.8399999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/470750-large_default/logitech-m330-silent-wireless-mouse-blue.jpg</picture>
+        <picture>https://systema.kg/470751-large_default/logitech-m330-silent-wireless-mouse-blue.jpg</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30044" available="true">
+        <url>http://www.example.com/product/30044</url>
+        <price>2400.8399999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/470754-large_default/logitech-m330-silent-wireless-mouse-red.jpg</picture>
+        <picture>https://systema.kg/470756-large_default/logitech-m330-silent-wireless-mouse-red.jpg</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30045" available="true">
+        <url>http://www.example.com/product/30045</url>
+        <price>2209.32</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/Logi-m350-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/logi-m-350-2-optimized.jpg</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30046" available="true">
+        <url>http://www.example.com/product/30046</url>
+        <price>1444.9499999999998</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://resource.logitech.com/w_1800,h_1013,ar_16:9,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m650/product-gallery/m650-left-offwhite-top.png</picture>
+        <picture>https://resource.logitech.com/w_1800,ar_16:9,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m650/product-gallery/m650-left-offwhite-bty1.png</picture>
+        <param name="DPI">4000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">8 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30047" available="true">
+        <url>http://www.example.com/product/30047</url>
+        <price>487.35</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-5/wc1000/6477232745.jpg</picture>
+        <picture>https://ir.ozone.ru/s3/multimedia-3/wc1000/6477232743.jpg</picture>
+        <param name="DPI">1000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">3</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30048" available="true">
+        <url>http://www.example.com/product/30048</url>
+        <price>7045.200000000001</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/mx-master-2s-1-optimized.jpeg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/mx-master-2s-2-optimized.jpeg</picture>
+        <param name="DPI">4000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
         <param name="Количество кнопок">7</param>
-        <param name="Тип сенсора">Оптический</param>
-        <param name="Наличие подсветки">Да</param>
-        <param name="Производитель">Redragon</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">4 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30049" available="true">
+        <url>http://www.example.com/product/30049</url>
+        <price>8264.43</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/504157-large_default/logitech-mx-master-3s-pale-grey-910-006566.jpg</picture>
+        <picture>https://systema.kg/504158-large_default/logitech-mx-master-3s-pale-grey-910-006566.jpg</picture>
+        <param name="DPI">8000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Logitech</param>
+      </offer>
+      <offer id="30050" available="true">
+        <url>http://www.example.com/product/30050</url>
+        <price>3514.9049999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://assets.razerzone.com/eeimages/support/products/1234/1234_atheris.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">7,200 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30051" available="true">
+        <url>http://www.example.com/product/30051</url>
+        <price>3514.9049999999997</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/51-NJ9KijnL._AC_SL1170_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">7,200 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30052" available="true">
+        <url>http://www.example.com/product/30052</url>
+        <price>5335.2</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/bass-1-optimized.jpeg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/bass-211-optimized.jpeg</picture>
+        <param name="DPI">16,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30053" available="true">
+        <url>http://www.example.com/product/30053</url>
+        <price>3324.2400000000002</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/a2008ab8b876ca9736b15e0842377716/2f8a5a195442df6af938102864a8fe368c9370cd57b2aed9022d13f674873153.jpg.webp</picture>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/dbaebbcccffb8c6557cbd726f348fc9c/ba1c8c0be49f41b06140434bf80d65c1b1e06ed281b3178b5fc693da3759e552.jpg.webp</picture>
+        <param name="DPI">6,400 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30054" available="true">
+        <url>http://www.example.com/product/30054</url>
+        <price>10345.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/213208/razer-basilisk-ultimate-gallery-photo-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">20,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">11</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30055" available="true">
+        <url>http://www.example.com/product/30055</url>
+        <price>6942.6</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/bassil-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/bass-12-optimized.jpg</picture>
+        <param name="DPI">20,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">11</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30056" available="true">
+        <url>http://www.example.com/product/30056</url>
+        <price>13252.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-z/wc1000/6821909459.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">26,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">11</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30057" available="true">
+        <url>http://www.example.com/product/30057</url>
+        <price>4104.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/public/reizjbw8X3nrS5pSFYxjNF/razer-cobra-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">10,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30058" available="true">
+        <url>http://www.example.com/product/30058</url>
+        <price>12953.25</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/public/koT338gzX6T52rfEAvonM5/cobra-pro-1500x1000-5.jpg</picture>
+        <picture>https://static.razer.ru/public/vhiJpKZmrJxDWRDifovwia/cobra-pro-1500x1000-6.jpg</picture>
+        <param name="DPI">26,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30059" available="true">
+        <url>http://www.example.com/product/30059</url>
+        <price>1899.81</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/essential-4-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">6,400 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30060" available="true">
+        <url>http://www.example.com/product/30060</url>
+        <price>1899.81</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/dead-ess-white-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/dead-ess-white-2-optimized.jpg</picture>
+        <param name="DPI">6,400 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30061" available="true">
+        <url>http://www.example.com/product/30061</url>
+        <price>4322.88</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/hyperspeed-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/hyperspeed-2-optimized.jpg</picture>
+        <param name="DPI">14,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30062" available="true">
+        <url>http://www.example.com/product/30062</url>
+        <price>7053.75</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/11/deathadderv3-1-optimized.jpg</picture>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/11/deathadderV3-6-optimized.jpg</picture>
+        <param name="DPI">26,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30063" available="true">
+        <url>http://www.example.com/product/30063</url>
+        <price>12739.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/05/death-31231-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">30,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30064" available="true">
+        <url>http://www.example.com/product/30064</url>
+        <price>12739.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.kivano.kg/images/product/114035/166917596414613_full.png</picture>
+        <picture>https://www.kivano.kg/images/product/114035/166917596460810_full.png</picture>
+        <param name="DPI">30,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30065" available="true">
+        <url>http://www.example.com/product/30065</url>
+        <price>2394.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/232754/razer-mouse-bungee-v3-black-gallery-1.jpg</picture>
+        <picture>https://static.razer.ru/232755/razer-mouse-bungee-v3-black-gallery-2.jpg</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">-</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30066" available="true">
+        <url>http://www.example.com/product/30066</url>
+        <price>4121.1</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/232766/razer-mouse-bungee-v3-chroma-gallery-1.jpg</picture>
+        <picture>https://static.razer.ru/232767/razer-mouse-bungee-v3-chroma-gallery-2.jpg</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">-</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30067" available="true">
+        <url>http://www.example.com/product/30067</url>
+        <price>7942.950000000001</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/5c3/5c39f2069be2ad8dc2d51353a05330df.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">8,200 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">19</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30068" available="true">
+        <url>http://www.example.com/product/30068</url>
+        <price>11286.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/public/pwuGgEQ2xFCWe9Hpt9SxgJ/naga-v2-hyperspeed-1500x1000-4.jpg</picture>
+        <picture>https://static.razer.ru/public/9dpSzxEZNUAraHDaHwhZha/naga-v2-hyperspeed-1500x1000-5.jpg</picture>
+        <param name="DPI">20,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">19</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30069" available="true">
+        <url>http://www.example.com/product/30069</url>
+        <price>5224.905</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/257874-large_default/razer-naga-x-rz01-03590100-r3m1.jpg</picture>
+        <picture>https://systema.kg/257875-large_default/razer-naga-x-rz01-03590100-r3m1.jpg</picture>
+        <param name="DPI">16,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">16</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30070" available="true">
+        <url>http://www.example.com/product/30070</url>
+        <price>6942.6</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/257628-large_default/razer-orochi-v2-belaya-rz01-03730400-r3g1.jpg</picture>
+        <picture>https://systema.kg/257627-large_default/razer-orochi-v2-belaya-rz01-03730400-r3g1.jpg</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30071" available="true">
+        <url>http://www.example.com/product/30071</url>
+        <price>6942.6</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/257630-large_default/razer-orochi-v2-chernaya-rz01-03730100-r3g1.jpg</picture>
+        <picture>https://systema.kg/257631-large_default/razer-orochi-v2-chernaya-rz01-03730100-r3g1.jpg</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30072" available="true">
+        <url>http://www.example.com/product/30072</url>
+        <price>9918.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/230417/razer-pro-click-2020-gallery-05.jpg</picture>
+        <picture>https://static.razer.ru/230413/razer-pro-click-2020-gallery-01.jpg</picture>
+        <param name="DPI">16,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30073" available="true">
+        <url>http://www.example.com/product/30073</url>
+        <price>7823.25</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/238400/pro-click-mini-gallery-1500x1000-6.jpg</picture>
+        <picture>https://static.razer.ru/238396/pro-click-mini-gallery-1500x1000-3.jpg</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30074" available="true">
+        <url>http://www.example.com/product/30074</url>
+        <price>7310.25</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://static.razer.ru/public/R4Q7vA5bysG7a4qDLJKHpL/viper-v3-hyperspeed-black-1500x1000-4.jpg</picture>
+        <picture>https://static.razer.ru/public/tPtkr39adqLShSSJr9esDi/viper-v3-hyperspeed-black-1500x1000-6.jpg</picture>
+        <param name="DPI">30,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30075" available="true">
+        <url>http://www.example.com/product/30075</url>
+        <price>14107.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/05/Viperrv2pro-23131-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">30,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">Razer</param>
+      </offer>
+      <offer id="30076" available="true">
+        <url>http://www.example.com/product/30076</url>
+        <price>5034.24</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.ultra.kg/upload/resize_cache/iblock/706/600_600_1d0e97ea46f4438969ab06dd5b311ca67/706b5985f735c5226ba4e2757ee0972b.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30077" available="true">
+        <url>http://www.example.com/product/30077</url>
+        <price>6174.8099999999995</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-l/wc1000/6189385977.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">9</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30078" available="true">
+        <url>http://www.example.com/product/30078</url>
+        <price>6540.75</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/4f/ec/4fec8ad0-451b-4b73-87c5-e365e33a02e7/05_rival600_kv_top_hero.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30079" available="true">
+        <url>http://www.example.com/product/30079</url>
+        <price>7421.4</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/rival-650-1-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30080" available="true">
+        <url>http://www.example.com/product/30080</url>
+        <price>7045.200000000001</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.kivano.kg/images/product/137362/full/1717662310_54344800.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">16,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">7</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30081" available="true">
+        <url>http://www.example.com/product/30081</url>
+        <price>5215.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/132/132d98b36a079cc22dcea4baded6c358.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">12,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30082" available="true">
+        <url>http://www.example.com/product/30082</url>
+        <price>4885.47</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/aerox22-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30083" available="true">
+        <url>http://www.example.com/product/30083</url>
+        <price>4885.47</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://fragstore.kg/files/public/upload/products/thumbnail/1798267399806653.webp</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30084" available="true">
+        <url>http://www.example.com/product/30084</url>
+        <price>4885.47</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://www.clife.ru/upload/medialibrary/91f/steelseries_aerox_3_wireless_snow_15.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30085" available="true">
+        <url>http://www.example.com/product/30085</url>
+        <price>6858.8099999999995</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/aerox-ghost-1-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30086" available="true">
+        <url>http://www.example.com/product/30086</url>
+        <price>6840.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/aerox-ghost-1-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30087" available="true">
+        <url>http://www.example.com/product/30087</url>
+        <price>6858.8099999999995</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://ir.ozone.ru/s3/multimedia-u/wc1000/6864447990.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30088" available="true">
+        <url>http://www.example.com/product/30088</url>
+        <price>7504.335</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61YIZRoe5ML._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30089" available="true">
+        <url>http://www.example.com/product/30089</url>
+        <price>6669.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/71ddb349bbfb122186cb12fb46e1b4be/adf249d05f0ff02b0d4fd0e650693cca8b883f11e0627157dbbca3f5a52309be.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">9</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30090" available="true">
+        <url>http://www.example.com/product/30090</url>
+        <price>9864.99</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61Ibl7dJyUL._AC_SL1280_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">9</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30091" available="true">
+        <url>http://www.example.com/product/30091</url>
+        <price>10354.905</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/ea/91/ea91791a-abf9-4bdf-9bda-900bc6c5676f/aerox_5_wl_diablo_4_pdp_img_buy_02.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">9</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30092" available="true">
+        <url>http://www.example.com/product/30092</url>
+        <price>10354.905</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/aerox9-2-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">18</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30093" available="true">
+        <url>http://www.example.com/product/30093</url>
+        <price>2915.55</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/bungee-1-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">-</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30094" available="true">
+        <url>http://www.example.com/product/30094</url>
+        <price>4531.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/81X1VjKftbL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30095" available="true">
+        <url>http://www.example.com/product/30095</url>
+        <price>4939.335</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/523346-large_default/steelseries-prime-wireless-mini-gaming-mouse.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30096" available="true">
+        <url>http://www.example.com/product/30096</url>
+        <price>10260.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://systema.kg/523347-large_default/steelseries-prime-wireless-mini-gaming-mouse.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30097" available="true">
+        <url>http://www.example.com/product/30097</url>
+        <price>11371.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/51zUc+m562L._AC_SL1447_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30098" available="true">
+        <url>http://www.example.com/product/30098</url>
+        <price>8806.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st4/fit/500/500/fe6ebe8bddb41a4670ac60a533e3e5b9/08515f2b318849a74c95e7151c33ed942736fd05cdc142abdcb14051fa96f886.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30099" available="true">
+        <url>http://www.example.com/product/30099</url>
+        <price>3006.18</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/rival-3-5-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">8,500 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30100" available="true">
+        <url>http://www.example.com/product/30100</url>
+        <price>4702.5</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/rival3Wireless-1-optimized.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Беспроводное</param>
+        <param name="Количество кнопок">6</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Да</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30101" available="true">
+        <url>http://www.example.com/product/30101</url>
+        <price>4227.975</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://c.dns-shop.ru/thumb/st1/fit/500/500/116a58fdfd815eff9a79b0ebbf66a531/61c87ff076c269a2203775c8de0411cae52b48121886ab6608c606808df4b223.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="DPI">18,000 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">8</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">SteelSeries</param>
+      </offer>
+      <offer id="30102" available="true">
+        <url>http://www.example.com/product/30102</url>
+        <price>6156.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://image.benq.com/is/image/benqco/01-ec1-b-divina-pink-top?$ResponsivePreset$&amp;fmt=png-alpha</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30103" available="true">
+        <url>http://www.example.com/product/30103</url>
+        <price>6106.41</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://image.benq.com/is/image/benqco/01-S1C-top-01?$ResponsivePreset$&amp;fmt=png-alpha</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30104" available="true">
+        <url>http://www.example.com/product/30104</url>
+        <price>3420.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71XObIEoKnL._AC_SL1500_.jpg</picture>
+        <picture>nan</picture>
+        <param name="DPI">-</param>
+        <param name="Тип подключения">-</param>
+        <param name="Количество кнопок">-</param>
+        <param name="Покрытие">-</param>
+        <param name="Время отклика">-</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30105" available="true">
+        <url>http://www.example.com/product/30105</url>
+        <price>6156.0</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://megastore.kg/upload/iblock/d63/d63772c4a7fe18eaef552fec61a2d17f.png</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30106" available="true">
+        <url>http://www.example.com/product/30106</url>
+        <price>6106.41</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://image.benq.com/is/image/benqco/01-ec3-c-top?$ResponsivePreset$&amp;fmt=png-alpha</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30107" available="true">
+        <url>http://www.example.com/product/30107</url>
+        <price>6106.41</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://image.benq.com/is/image/benqco/03-FK1C-back-left-45?$ResponsivePreset$&amp;fmt=png-alpha</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30108" available="true">
+        <url>http://www.example.com/product/30108</url>
+        <price>6106.41</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://image.benq.com/is/image/benqco/03-FK1Cplus-back-leftl45?$ResponsivePreset$&amp;fmt=png-alpha</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
+      </offer>
+      <offer id="30109" available="true">
+        <url>http://www.example.com/product/30109</url>
+        <price>6106.41</price>
+        <model>nan</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>6fd3bfb3-96e5-49e1-8eb2-27ae1f91036d</categoryId>
+        <picture>https://image.benq.com/is/image/benqco/04-ZA11C-front-left-45?$ResponsivePreset$&amp;fmt=png-alpha</picture>
+        <picture>nan</picture>
+        <param name="DPI">3,200 DPI</param>
+        <param name="Тип подключения">Проводное</param>
+        <param name="Количество кнопок">5</param>
+        <param name="Покрытие">Матовый</param>
+        <param name="Время отклика">1 мс</param>
+        <param name="Поддержка RGB">Нет</param>
+        <param name="Бренд">Zowie by BenQ</param>
       </offer>
     </offers>
   </shop>
