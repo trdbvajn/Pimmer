@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="d2c33ada-cf15-4b15-a8b7-8657fab001b7">Шведские стенки</category>
+    </categories>
+    <offers>
+      <offer id="10001" available="true">
+        <url>http://www.example.com/product/10001</url>
+        <price>15700</price>
+        <model>Romana S10
+С брусьями</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2023/04/s10-black.jpeg</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2023/04/s10-pastel.jpeg</picture>
+        <param name="Габаритные размеры, мм">880 x 860</param>
+        <param name="Высота, мм">2220</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">410</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">27.8</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая</param>
+      </offer>
+      <offer id="10002" available="true">
+        <url>http://www.example.com/product/10002</url>
+        <price>9500</price>
+        <model>Romana «Чемпион»
+Можно добавить брусья</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2022/10/Screenshot-2023-11-30-at-10.01.49.png</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2022/10/DSK-1.0-01.21.7.06.410.05.12-14-%D0%B3%D0%B0%D0%B1%D0%B0%D1%80%D0%B8%D1%82-1.jpg</picture>
+        <param name="Габаритные размеры, мм">790 x 810</param>
+        <param name="Высота, мм">2200</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100 (Испытано 200)</param>
+        <param name="Расстояние между стойками, мм">410</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">1190 x 280 x 120 мм; 20 кг</param>
+        <param name="Комплектация">Лестница гимнастическая,канат, кольца гимнастические, веревочная лестница</param>
+      </offer>
+      <offer id="10003" available="true">
+        <url>http://www.example.com/product/10003</url>
+        <price>12300</price>
+        <model>Romana Next Pastel
+Можно установить в угол</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2021/04/next-pastel-min.jpg.webp</picture>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2021/04/next-pastel-info3-min.jpg.webp</picture>
+        <param name="Габаритные размеры, мм">850 x 860</param>
+        <param name="Высота, мм">2230</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">490</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">23.9</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая,канат, кольца гимнастические, трапеция</param>
+      </offer>
+      <offer id="10004" available="true">
+        <url>http://www.example.com/product/10004</url>
+        <price>12300</price>
+        <model>Romana Next Top
+Допустимая нагрузка 100кг</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/01/next-top-blue.jpg.webp</picture>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/01/next-top-white.jpg.webp</picture>
+        <param name="Габаритные размеры, мм">850 x 860</param>
+        <param name="Высота, мм">2230</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">490</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">23.9</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая,канат, кольца гимнастические, трапеция</param>
+      </offer>
+      <offer id="10005" available="true">
+        <url>http://www.example.com/product/10005</url>
+        <price>15000</price>
+        <model>Romana S4
+Угловая</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/05/s4-white.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="Габаритные размеры, мм">1000 x 710</param>
+        <param name="Высота, мм">2180</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">410</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">29.1</param>
+        <param name="Комплектация">Лестница гимнастическая, рукоход, канат, кольцо гимнастические, сетка для лазанья</param>
+      </offer>
+      <offer id="10006" available="true">
+        <url>http://www.example.com/product/10006</url>
+        <price>17100</price>
+        <model>Romana S7
+Допустимая нагрузка 100кг</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/05/s7-pastel-1.jpeg.webp</picture>
+        <picture>nan</picture>
+        <param name="Габаритные размеры, мм">844 x 1213</param>
+        <param name="Высота, мм">2180</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">410</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">32.1</param>
+        <param name="Комплектация">Лестница гимнастическая, рукоход, канат, кольцо гимнастические, сетка для лазанья</param>
+      </offer>
+      <offer id="10007" available="true">
+        <url>http://www.example.com/product/10007</url>
+        <price>18900</price>
+        <model>Romana S3
+Турник регулируется</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/05/s3-blue.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="Габаритные размеры, мм">1555 x 865</param>
+        <param name="Высота, мм">2200</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">490</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">29.3</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая, канат, кольца гимнастические, трапеция, сетка для лазанья</param>
+      </offer>
+      <offer id="10008" available="true">
+        <url>http://www.example.com/product/10008</url>
+        <price>22800</price>
+        <model>Romana R4</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/05/r4-blue.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="Габаритные размеры, мм">2035 x 860</param>
+        <param name="Высота, мм">2300-2800</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">490</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">31,4; 13,2</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая, рукоход, канат, кольца гимнастические, сетка для лазанья, баскетбольный щит</param>
+      </offer>
+      <offer id="10009" available="true">
+        <url>http://www.example.com/product/10009</url>
+        <price>13700</price>
+        <model>Romana R5 Kometa
+Допустимая нагрузка 100кг</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/webp-express/webp-images/uploads/2020/05/kometa5-green.jpg.webp</picture>
+        <picture>nan</picture>
+        <param name="Габаритные размеры, мм">860 x 755</param>
+        <param name="Высота, мм">2270-2800</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">490</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">26.1</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая, канат, кольца гимнастические, трапеция </param>
+      </offer>
+      <offer id="10010" available="true">
+        <url>http://www.example.com/product/10010</url>
+        <price>19800</price>
+        <model>Romana R3</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>d2c33ada-cf15-4b15-a8b7-8657fab001b7</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/r3-blue.jpg</picture>
+        <picture>nan</picture>
+        <param name="Габаритные размеры, мм">1560 x 770</param>
+        <param name="Высота, мм">2270-2800</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Расстояние между стойками, мм">490</param>
+        <param name="Тип ступени">массажная</param>
+        <param name="Вес с упаковкой, кг">34.1</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая, канат, кольца гимнастические, трапеция, сетка для лазанья</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
