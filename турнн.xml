@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="0b999238-9c0d-42f8-a4fb-feb3bfba4fe8">Турники</category>
+    </categories>
+    <offers>
+      <offer id="40001" available="true">
+        <url>http://www.example.com/product/40001</url>
+        <price>3800</price>
+        <model>Romana Dop1
+Турник-брусья на комплекс</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0b999238-9c0d-42f8-a4fb-feb3bfba4fe8</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/01/img2.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40002" available="true">
+        <url>http://www.example.com/product/40002</url>
+        <price>6500</price>
+        <model>Romana T6
+Турник-брусья настенный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0b999238-9c0d-42f8-a4fb-feb3bfba4fe8</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img-t6-1.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
