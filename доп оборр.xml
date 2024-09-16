@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="752f17f5-bce1-44d9-ba99-b86989cd70bf">Доп оборудование</category>
+    </categories>
+    <offers>
+      <offer id="30001" available="true">
+        <url>http://www.example.com/product/30001</url>
+        <price>3200</price>
+        <model>Комплект зацепов для лазания 12 штук</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2022/10/6620c9c6f562411ec14b67f52699b07c.jpeg</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2022/10/3696b3f4bd7b6faa09cd0374746fa423.jpeg</picture>
+      </offer>
+      <offer id="30002" available="true">
+        <url>http://www.example.com/product/30002</url>
+        <price>6200</price>
+        <model>Romana Качели гнездо</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2023/04/gnezdo-1.jpeg</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2023/04/gnezdo-3.jpeg</picture>
+      </offer>
+      <offer id="30003" available="true">
+        <url>http://www.example.com/product/30003</url>
+        <price>3900</price>
+        <model>ROMANA Качели цепные</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2021/08/kach-cepn1.jpg</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2021/08/kach-cepn2.jpg</picture>
+      </offer>
+      <offer id="30004" available="true">
+        <url>http://www.example.com/product/30004</url>
+        <price>2400</price>
+        <model>ROMANA Качели пластиковые</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/c175203f7efc2772ece2041d5a24cfde.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30005" available="true">
+        <url>http://www.example.com/product/30005</url>
+        <price>8500</price>
+        <model>ROMANA Качели лодочка</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>nan</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30006" available="true">
+        <url>http://www.example.com/product/30006</url>
+        <price>3000</price>
+        <model>Мягкий щит (Мат 1м*1м)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>nan</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30007" available="true">
+        <url>http://www.example.com/product/30007</url>
+        <price>4300</price>
+        <model>Мягкий щит (Мат 1м*1,5м)</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>nan</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30008" available="true">
+        <url>http://www.example.com/product/30008</url>
+        <price>6400</price>
+        <model>Брусья откидные</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img1-7.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30009" available="true">
+        <url>http://www.example.com/product/30009</url>
+        <price>5500</price>
+        <model>Брусья разборные</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img5.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30010" available="true">
+        <url>http://www.example.com/product/30010</url>
+        <price>2200</price>
+        <model>Щит баскетбольный</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img1-2.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30011" available="true">
+        <url>http://www.example.com/product/30011</url>
+        <price>2000</price>
+        <model>Качели</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img1-5.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30012" available="true">
+        <url>http://www.example.com/product/30012</url>
+        <price>900</price>
+        <model>Тарзанка</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/07/img1.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30013" available="true">
+        <url>http://www.example.com/product/30013</url>
+        <price>1400</price>
+        <model>Канат</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/01/img2-1.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30014" available="true">
+        <url>http://www.example.com/product/30014</url>
+        <price>1900</price>
+        <model>Лестница веревочная</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img1-3.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30015" available="true">
+        <url>http://www.example.com/product/30015</url>
+        <price>900</price>
+        <model>Подвес</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img2-4.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30016" available="true">
+        <url>http://www.example.com/product/30016</url>
+        <price>900</price>
+        <model>Кольца гимнастические</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img1-1.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="30017" available="true">
+        <url>http://www.example.com/product/30017</url>
+        <price>900</price>
+        <model>Трапеция</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>752f17f5-bce1-44d9-ba99-b86989cd70bf</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img2.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
