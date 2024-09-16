@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="b07f497c-ea81-477f-80e3-86a17edb9e07">Дачные комплексы</category>
+    </categories>
+    <offers>
+      <offer id="20001" available="true">
+        <url>http://www.example.com/product/20001</url>
+        <price>35000</price>
+        <model>Romana «Богатырь»</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b07f497c-ea81-477f-80e3-86a17edb9e07</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/02/WhatsApp-Image-2024-06-24-at-11.50.47-AM.jpeg</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/02/d1yl50k33leoe2bzrgj5e7qpsbrg58bp.jpg</picture>
+        <param name="Габаритные размеры, мм">2532 х 2443</param>
+        <param name="Высота, мм">1855</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Установка">бетонирование на глубину 500 мм</param>
+        <param name="Комплектация">Лестница гимнастическая, рукоход, кольца гимнастические, сетка для лазанья</param>
+      </offer>
+      <offer id="20002" available="true">
+        <url>http://www.example.com/product/20002</url>
+        <price>33000</price>
+        <model>Romana Fitness</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>b07f497c-ea81-477f-80e3-86a17edb9e07</categoryId>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img-fitness1.jpg</picture>
+        <picture>https://www.shved.kg/wp-content/uploads/2020/05/img-fitness-info2.jpg</picture>
+        <param name="Габаритные размеры, мм">2880 х 2470</param>
+        <param name="Высота, мм">2320</param>
+        <param name="Допустимая нагрузка на комплекс, кг">100</param>
+        <param name="Установка">бетонирование на глубину 500-550 мм</param>
+        <param name="Комплектация">Турник подвижный, лестница гимнастическая, рукоход, канат, кольца гимнастические, трапеция баскетбольный щит</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
