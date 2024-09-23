@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="99707b8a-0a6c-4590-9a88-81a60eaca341">PS4 игры</category>
+    </categories>
+    <offers>
+      <offer id="40001" available="true">
+        <url>http://www.example.com/product/40001</url>
+        <price>3522.6000000000004</price>
+        <model>Agents of Mayhem PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://sochi.com/upload/iblock/238/eff5902300888969cdccf5cbdf0e1017_1100x676.png</picture>
+        <picture>nan</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
