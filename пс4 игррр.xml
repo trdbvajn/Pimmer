@@ -1,0 +1,2427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="99707b8a-0a6c-4590-9a88-81a60eaca341">PS4 игры</category>
+    </categories>
+    <offers>
+      <offer id="40001" available="true">
+        <url>http://www.example.com/product/40001</url>
+        <price>3522.6000000000004</price>
+        <model>Agents of Mayhem PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40002" available="true">
+        <url>http://www.example.com/product/40002</url>
+        <price>3625.2</price>
+        <model>Alan Wake Remastered PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40003" available="true">
+        <url>http://www.example.com/product/40003</url>
+        <price>3691.89</price>
+        <model>Aliens Dark Descent  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40004" available="true">
+        <url>http://www.example.com/product/40004</url>
+        <price>2915.55</price>
+        <model>Apex Legends BloodHound Edition PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40005" available="true">
+        <url>http://www.example.com/product/40005</url>
+        <price>2915.55</price>
+        <model>Apex Legends Lifeline Edition PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40006" available="true">
+        <url>http://www.example.com/product/40006</url>
+        <price>4550.3099999999995</price>
+        <model>Armored Core6 Fires on Rubicon Launch Edition  [PS4, рус.титры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40007" available="true">
+        <url>http://www.example.com/product/40007</url>
+        <price>2111.85</price>
+        <model>ASSASIN'S CREED BLACK FLAG PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40008" available="true">
+        <url>http://www.example.com/product/40008</url>
+        <price>2257.2</price>
+        <model>ASSASIN'S CREED ORIGINS PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40009" available="true">
+        <url>http://www.example.com/product/40009</url>
+        <price>2171.7</price>
+        <model>Assasin's Creed Syndicate PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40010" available="true">
+        <url>http://www.example.com/product/40010</url>
+        <price>2089.62</price>
+        <model>ASSASIN'S CREED ЧЕРНЫЙ ФЛАГ PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40011" available="true">
+        <url>http://www.example.com/product/40011</url>
+        <price>2171.7</price>
+        <model>Assasin's Creed Энцио Аудиторе Коллекция PS4 (рус.версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40012" available="true">
+        <url>http://www.example.com/product/40012</url>
+        <price>4595.625</price>
+        <model>ASSASSIN'S CREED Mirage PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40013" available="true">
+        <url>http://www.example.com/product/40013</url>
+        <price>2511.135</price>
+        <model>ASSASSIN'S CREED Вальгалла PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40014" available="true">
+        <url>http://www.example.com/product/40014</url>
+        <price>2351.25</price>
+        <model>Assassin's Creed: Изгой - Обновленная версия PS4, руc. версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40015" available="true">
+        <url>http://www.example.com/product/40015</url>
+        <price>2129.805</price>
+        <model>Assassin’s Creed III. Обновленная версия [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40016" available="true">
+        <url>http://www.example.com/product/40016</url>
+        <price>2923.245</price>
+        <model>Asterix &amp; Obelix: Heroes [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40017" available="true">
+        <url>http://www.example.com/product/40017</url>
+        <price>3475.575</price>
+        <model>Atomic Heart [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40018" available="true">
+        <url>http://www.example.com/product/40018</url>
+        <price>3214.8</price>
+        <model>Aven Colony PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40019" available="true">
+        <url>http://www.example.com/product/40019</url>
+        <price>1994.715</price>
+        <model>BATMAN ARKHAM KNIGHT PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40020" available="true">
+        <url>http://www.example.com/product/40020</url>
+        <price>3018.1499999999996</price>
+        <model>BATMAN ARKHAM VR PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40021" available="true">
+        <url>http://www.example.com/product/40021</url>
+        <price>2185.38</price>
+        <model>BATMAN RETURN To ARKHAM PS4 rus, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40022" available="true">
+        <url>http://www.example.com/product/40022</url>
+        <price>2616.3</price>
+        <model>Battlezone (только для PS VR) [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40023" available="true">
+        <url>http://www.example.com/product/40023</url>
+        <price>3924.45</price>
+        <model>Ben 10: Мощное Приключение [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40024" available="true">
+        <url>http://www.example.com/product/40024</url>
+        <price>3186.5850000000005</price>
+        <model>BLOODBORNE PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40025" available="true">
+        <url>http://www.example.com/product/40025</url>
+        <price>4275.0</price>
+        <model>Bramble The Mountan King [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40026" available="true">
+        <url>http://www.example.com/product/40026</url>
+        <price>3214.8</price>
+        <model>Bravo Team (для VR) PS4 рус. версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40027" available="true">
+        <url>http://www.example.com/product/40027</url>
+        <price>5814.0</price>
+        <model>CALL OF DUTY Modern Warfare 2 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40028" available="true">
+        <url>http://www.example.com/product/40028</url>
+        <price>4416.075</price>
+        <model>Call of Duty Modern Warfare3 (Ps4, русская версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40029" available="true">
+        <url>http://www.example.com/product/40029</url>
+        <price>2944.62</price>
+        <model>CALL OF DUTY Vanguard PS4 CUSA 29143 рус , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40030" available="true">
+        <url>http://www.example.com/product/40030</url>
+        <price>2633.4</price>
+        <model>Civilization VI PS4  (рус.титры), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40031" available="true">
+        <url>http://www.example.com/product/40031</url>
+        <price>2536.7850000000003</price>
+        <model>Civilization VI PS4 англ, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40032" available="true">
+        <url>http://www.example.com/product/40032</url>
+        <price>4326.3</price>
+        <model>Code Vein PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40033" available="true">
+        <url>http://www.example.com/product/40033</url>
+        <price>2719.755</price>
+        <model>Control Ultimate Edition [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40034" available="true">
+        <url>http://www.example.com/product/40034</url>
+        <price>2754.81</price>
+        <model>Crash Bandicoot 4: Это Вопрос Времени [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40035" available="true">
+        <url>http://www.example.com/product/40035</url>
+        <price>2754.81</price>
+        <model>CRASH Bandicoot N-Sane Trilogy PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40036" available="true">
+        <url>http://www.example.com/product/40036</url>
+        <price>2754.81</price>
+        <model>CRASH team racing nitro fueled PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40037" available="true">
+        <url>http://www.example.com/product/40037</url>
+        <price>3420.0</price>
+        <model>CRISIS CORE  FINAL FANTASY VII REUNION PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40038" available="true">
+        <url>http://www.example.com/product/40038</url>
+        <price>3788.505</price>
+        <model>Crush Team Rumble Deluxe Edition PS4 (англ.версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40039" available="true">
+        <url>http://www.example.com/product/40039</url>
+        <price>3073.7250000000004</price>
+        <model>Cuphead [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40040" available="true">
+        <url>http://www.example.com/product/40040</url>
+        <price>2754.81</price>
+        <model>CyberPunk 2077 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40041" available="true">
+        <url>http://www.example.com/product/40041</url>
+        <price>2282.85</price>
+        <model>DARK SOULS REMASTERED PS4 рус.титры Cusa08495, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40042" available="true">
+        <url>http://www.example.com/product/40042</url>
+        <price>3189.1499999999996</price>
+        <model>Dark Souls Trilogy [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40043" available="true">
+        <url>http://www.example.com/product/40043</url>
+        <price>3388.3650000000002</price>
+        <model>Daymare:1994 SandCastle  [PS4, рус.титры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40044" available="true">
+        <url>http://www.example.com/product/40044</url>
+        <price>2411.1</price>
+        <model>Days Gone PS4 англ.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40045" available="true">
+        <url>http://www.example.com/product/40045</url>
+        <price>4322.88</price>
+        <model>DC Justice League Cosmic Chaos PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40046" available="true">
+        <url>http://www.example.com/product/40046</url>
+        <price>4371.615</price>
+        <model>Dead Island 2  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40047" available="true">
+        <url>http://www.example.com/product/40047</url>
+        <price>3206.25</price>
+        <model>Death Stranding [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40048" available="true">
+        <url>http://www.example.com/product/40048</url>
+        <price>1008.9000000000001</price>
+        <model>Destiny: The Taken Kings PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40049" available="true">
+        <url>http://www.example.com/product/40049</url>
+        <price>2009.25</price>
+        <model>Deus Ex Mankind Divided PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40050" available="true">
+        <url>http://www.example.com/product/40050</url>
+        <price>2977.9649999999997</price>
+        <model>Diablo Eternal Collection PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40051" available="true">
+        <url>http://www.example.com/product/40051</url>
+        <price>4654.62</price>
+        <model>Diablo IV [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40052" available="true">
+        <url>http://www.example.com/product/40052</url>
+        <price>2513.7</price>
+        <model>Dishonored2 PS4 eng, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40053" available="true">
+        <url>http://www.example.com/product/40053</url>
+        <price>2951.4600000000005</price>
+        <model>Disney Alladin and Lion King PS4 англ, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40054" available="true">
+        <url>http://www.example.com/product/40054</url>
+        <price>3762.0</price>
+        <model>Dolmen [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40055" available="true">
+        <url>http://www.example.com/product/40055</url>
+        <price>2254.635</price>
+        <model>DOOM Eternal [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40056" available="true">
+        <url>http://www.example.com/product/40056</url>
+        <price>2785.5899999999997</price>
+        <model>DOOM Slayers Collection PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40057" available="true">
+        <url>http://www.example.com/product/40057</url>
+        <price>2718.9</price>
+        <model>DOOM VFR PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40058" available="true">
+        <url>http://www.example.com/product/40058</url>
+        <price>3719.25</price>
+        <model>Dragons Dawn of New Riders PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40059" available="true">
+        <url>http://www.example.com/product/40059</url>
+        <price>3103.6499999999996</price>
+        <model>Dying Light 2 Stay Human[PS4 рус.титры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40060" available="true">
+        <url>http://www.example.com/product/40060</url>
+        <price>3324.2400000000002</price>
+        <model>Elden Ring [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40061" available="true">
+        <url>http://www.example.com/product/40061</url>
+        <price>4565.7</price>
+        <model>Evil West (Rus) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40062" available="true">
+        <url>http://www.example.com/product/40062</url>
+        <price>3924.45</price>
+        <model>F1 2017 PS4 rus, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40063" available="true">
+        <url>http://www.example.com/product/40063</url>
+        <price>5130.0</price>
+        <model>F1 22 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40064" available="true">
+        <url>http://www.example.com/product/40064</url>
+        <price>1915.1999999999998</price>
+        <model>Fallout 76 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40065" available="true">
+        <url>http://www.example.com/product/40065</url>
+        <price>2915.55</price>
+        <model>Far Cry. New Dawn [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40066" available="true">
+        <url>http://www.example.com/product/40066</url>
+        <price>2351.25</price>
+        <model>FARCRY 3 Classic Edition PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40067" available="true">
+        <url>http://www.example.com/product/40067</url>
+        <price>2282.85</price>
+        <model>FARCRY 5 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40068" available="true">
+        <url>http://www.example.com/product/40068</url>
+        <price>2334.15</price>
+        <model>FARCRY 6 PS4 рус.версия Cusa15779, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40069" available="true">
+        <url>http://www.example.com/product/40069</url>
+        <price>2513.7</price>
+        <model>FARCRY Primal PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40070" available="true">
+        <url>http://www.example.com/product/40070</url>
+        <price>2849.7149999999997</price>
+        <model>FIFA 23(Rus) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40071" available="true">
+        <url>http://www.example.com/product/40071</url>
+        <price>2513.7</price>
+        <model>Final Fantasy VIII - Remastered [PS4, английская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40072" available="true">
+        <url>http://www.example.com/product/40072</url>
+        <price>3625.2</price>
+        <model>Final Fantasy XV Day One Edition PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40073" available="true">
+        <url>http://www.example.com/product/40073</url>
+        <price>3475.575</price>
+        <model>Five Nights at Freddy's  [PS4, рус.титры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40074" available="true">
+        <url>http://www.example.com/product/40074</url>
+        <price>2683.8450000000003</price>
+        <model>Fortnite Anime Legeds PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40075" available="true">
+        <url>http://www.example.com/product/40075</url>
+        <price>2674.44</price>
+        <model>Fortnite Transformers Pack PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40076" available="true">
+        <url>http://www.example.com/product/40076</url>
+        <price>3522.6000000000004</price>
+        <model>Friday The 13th The Game PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40077" available="true">
+        <url>http://www.example.com/product/40077</url>
+        <price>2849.7149999999997</price>
+        <model>FС 24 CUSA 40325 (Rus) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40078" available="true">
+        <url>http://www.example.com/product/40078</url>
+        <price>2428.2</price>
+        <model>G.T.A. The Trilogy PS4 англ.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40079" available="true">
+        <url>http://www.example.com/product/40079</url>
+        <price>2089.62</price>
+        <model>G.T.A.5  PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40080" available="true">
+        <url>http://www.example.com/product/40080</url>
+        <price>3280.6349999999998</price>
+        <model>Ghostbusters: Spirits Unleashed PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40081" available="true">
+        <url>http://www.example.com/product/40081</url>
+        <price>3591.0</price>
+        <model>Gigantosaurus Dino Kart PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40082" available="true">
+        <url>http://www.example.com/product/40082</url>
+        <price>1710.0</price>
+        <model>GOD OF WAR  PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40083" available="true">
+        <url>http://www.example.com/product/40083</url>
+        <price>3291.75</price>
+        <model>GOD OF WAR  Ragnarek CUSA 34390 PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40084" available="true">
+        <url>http://www.example.com/product/40084</url>
+        <price>2087.9100000000003</price>
+        <model>GOD OF WAR 3 REMASTERED PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40085" available="true">
+        <url>http://www.example.com/product/40085</url>
+        <price>2279.43</price>
+        <model>God of war PS4 полностью на русском, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40086" available="true">
+        <url>http://www.example.com/product/40086</url>
+        <price>2754.81</price>
+        <model>Gran Turismo 7 PS4 рус.титры , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40087" available="true">
+        <url>http://www.example.com/product/40087</url>
+        <price>2282.85</price>
+        <model>Gran Turismo SPORT русская версия PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40088" available="true">
+        <url>http://www.example.com/product/40088</url>
+        <price>3522.6000000000004</price>
+        <model>GreedFall PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40089" available="true">
+        <url>http://www.example.com/product/40089</url>
+        <price>2977.9649999999997</price>
+        <model>Heavy Rain/За гранью-Две души PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40090" available="true">
+        <url>http://www.example.com/product/40090</url>
+        <price>3788.505</price>
+        <model>Hello Neighbor 2 [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40091" available="true">
+        <url>http://www.example.com/product/40091</url>
+        <price>2323.89</price>
+        <model>Hello Neighbor Hide&amp;Seek PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40092" available="true">
+        <url>http://www.example.com/product/40092</url>
+        <price>3704.7149999999997</price>
+        <model>Hogwards Legasy PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40093" available="true">
+        <url>http://www.example.com/product/40093</url>
+        <price>2279.43</price>
+        <model>Horizon Zero Dawn Complete Edition PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40094" available="true">
+        <url>http://www.example.com/product/40094</url>
+        <price>3457.62</price>
+        <model>Horizon Zero Forbidden West PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40095" available="true">
+        <url>http://www.example.com/product/40095</url>
+        <price>3702.1499999999996</price>
+        <model>Hot Wheels Unleashed2 TurboCharged [PS4, англ версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40096" available="true">
+        <url>http://www.example.com/product/40096</url>
+        <price>3924.45</price>
+        <model>Hunt ShowDown PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40097" available="true">
+        <url>http://www.example.com/product/40097</url>
+        <price>2718.9</price>
+        <model>Immortal Fenyx Rising [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40098" available="true">
+        <url>http://www.example.com/product/40098</url>
+        <price>2308.5</price>
+        <model>inFAMOUS Второй сын PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40099" available="true">
+        <url>http://www.example.com/product/40099</url>
+        <price>2234.115</price>
+        <model>Injustice 2 - Legendary Edition PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40100" available="true">
+        <url>http://www.example.com/product/40100</url>
+        <price>3134.43</price>
+        <model>Inspector Gadget-Mad Time Party  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40101" available="true">
+        <url>http://www.example.com/product/40101</url>
+        <price>2607.75</price>
+        <model>It Takes Two PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40102" available="true">
+        <url>http://www.example.com/product/40102</url>
+        <price>2915.55</price>
+        <model>Jagged Alliance: Rage! [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40103" available="true">
+        <url>http://www.example.com/product/40103</url>
+        <price>4464.8099999999995</price>
+        <model>JUJUTSU KAISEN CURSED CLASH  PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40104" available="true">
+        <url>http://www.example.com/product/40104</url>
+        <price>4625.55</price>
+        <model>Jurassic World Evolution2  [PS4], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40105" available="true">
+        <url>http://www.example.com/product/40105</url>
+        <price>2915.55</price>
+        <model>JUST CAUSE 4  PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40106" available="true">
+        <url>http://www.example.com/product/40106</url>
+        <price>4326.3</price>
+        <model>Just Dance 2022 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40107" available="true">
+        <url>http://www.example.com/product/40107</url>
+        <price>4625.55</price>
+        <model>Kena Bridge of Spirits PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40108" available="true">
+        <url>http://www.example.com/product/40108</url>
+        <price>4522.95</price>
+        <model>Kingdom Come Deliverence Special Edition PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40109" available="true">
+        <url>http://www.example.com/product/40109</url>
+        <price>3924.45</price>
+        <model>Kingdom Hearts III PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40110" available="true">
+        <url>http://www.example.com/product/40110</url>
+        <price>2718.9</price>
+        <model>KNACK 2 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40111" available="true">
+        <url>http://www.example.com/product/40111</url>
+        <price>2593.2149999999997</price>
+        <model>KNACK 2 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40112" available="true">
+        <url>http://www.example.com/product/40112</url>
+        <price>2992.5</price>
+        <model>Lego 2K Drive PS4 (eng), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40113" available="true">
+        <url>http://www.example.com/product/40113</url>
+        <price>3876.57</price>
+        <model>Lego BRAWLS [PS4, рус.титры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40114" available="true">
+        <url>http://www.example.com/product/40114</url>
+        <price>2234.115</price>
+        <model>LEGO City UnderCover PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40115" available="true">
+        <url>http://www.example.com/product/40115</url>
+        <price>2218.725</price>
+        <model>LEGO Harry Potter Collection PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40116" available="true">
+        <url>http://www.example.com/product/40116</url>
+        <price>2394.0</price>
+        <model>LEGO MARVEL  Avengers PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40117" available="true">
+        <url>http://www.example.com/product/40117</url>
+        <price>2218.725</price>
+        <model>LEGO MARVEL Super Heroes 2  PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40118" available="true">
+        <url>http://www.example.com/product/40118</url>
+        <price>2218.725</price>
+        <model>LEGO MARVEL Super Heroes PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40119" available="true">
+        <url>http://www.example.com/product/40119</url>
+        <price>2234.115</price>
+        <model>LEGO MOVIE 2 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40120" available="true">
+        <url>http://www.example.com/product/40120</url>
+        <price>2479.5</price>
+        <model>LEGO MOVIE PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40121" available="true">
+        <url>http://www.example.com/product/40121</url>
+        <price>3279.7799999999997</price>
+        <model>LEGO Star Wars The SkyWalker Saga [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40122" available="true">
+        <url>http://www.example.com/product/40122</url>
+        <price>2033.19</price>
+        <model>Lego Worlds PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40123" available="true">
+        <url>http://www.example.com/product/40123</url>
+        <price>2234.115</price>
+        <model>Lego Звездные войны пробуждение силы (RU) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40124" available="true">
+        <url>http://www.example.com/product/40124</url>
+        <price>2265.75</price>
+        <model>LEGO Ниндзяго PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40125" available="true">
+        <url>http://www.example.com/product/40125</url>
+        <price>2304.225</price>
+        <model>LEGO: BATMAN3 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40126" available="true">
+        <url>http://www.example.com/product/40126</url>
+        <price>2479.5</price>
+        <model>LEGO: BATMAN3 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40127" available="true">
+        <url>http://www.example.com/product/40127</url>
+        <price>4464.8099999999995</price>
+        <model>Lies of P PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40128" available="true">
+        <url>http://www.example.com/product/40128</url>
+        <price>4939.335</price>
+        <model>Like a Dragon: Infinite Wealth [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40129" available="true">
+        <url>http://www.example.com/product/40129</url>
+        <price>2087.9100000000003</price>
+        <model>LITTLE BIG  PLANET 3 PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40130" available="true">
+        <url>http://www.example.com/product/40130</url>
+        <price>2470.0950000000003</price>
+        <model>LITTLE NightMares 2 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40131" available="true">
+        <url>http://www.example.com/product/40131</url>
+        <price>4642.65</price>
+        <model>Lord of the Ring Gollum PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40132" available="true">
+        <url>http://www.example.com/product/40132</url>
+        <price>2616.3</price>
+        <model>MAD MAX PS4 рус. версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40133" available="true">
+        <url>http://www.example.com/product/40133</url>
+        <price>2374.335</price>
+        <model>Mafia Trilogy PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40134" available="true">
+        <url>http://www.example.com/product/40134</url>
+        <price>3249.0</price>
+        <model>MARVEL Guardians of the Galaxy PS4 (русская версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40135" available="true">
+        <url>http://www.example.com/product/40135</url>
+        <price>2753.1000000000004</price>
+        <model>Marvel's Spider-Man Miles Morales PS4 русская версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40136" available="true">
+        <url>http://www.example.com/product/40136</url>
+        <price>3134.43</price>
+        <model>Marvel's Spider-Man русская версия GOTY PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40137" available="true">
+        <url>http://www.example.com/product/40137</url>
+        <price>2812.95</price>
+        <model>Mass Effect Legendary Edition PS4 (русская версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40138" available="true">
+        <url>http://www.example.com/product/40138</url>
+        <price>2915.55</price>
+        <model>METAL GEAR SOLID V PHANTOM PAIN PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40139" available="true">
+        <url>http://www.example.com/product/40139</url>
+        <price>3214.8</price>
+        <model>METAL GEAR SOLID V PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40140" available="true">
+        <url>http://www.example.com/product/40140</url>
+        <price>3108.7799999999997</price>
+        <model>MINECRAFT Dungens ULTIMATE PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40141" available="true">
+        <url>http://www.example.com/product/40141</url>
+        <price>4080.06</price>
+        <model>Minecraft Legends Deluxe Edition  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40142" available="true">
+        <url>http://www.example.com/product/40142</url>
+        <price>2915.55</price>
+        <model>MINECRAFT PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40143" available="true">
+        <url>http://www.example.com/product/40143</url>
+        <price>2915.55</price>
+        <model>Monster Hunter World PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40144" available="true">
+        <url>http://www.example.com/product/40144</url>
+        <price>1899.81</price>
+        <model>MORTAL COMBAT 11 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40145" available="true">
+        <url>http://www.example.com/product/40145</url>
+        <price>2240.1</price>
+        <model>MORTAL COMBAT 11 Ultimate PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40146" available="true">
+        <url>http://www.example.com/product/40146</url>
+        <price>3214.8</price>
+        <model>MOSS VR PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40147" available="true">
+        <url>http://www.example.com/product/40147</url>
+        <price>3214.8</price>
+        <model>MURDERED PS4  рус. версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40148" available="true">
+        <url>http://www.example.com/product/40148</url>
+        <price>2659.9049999999997</price>
+        <model>My Little Pony A Maretime Bay Adventure PS4 (англ.версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40149" available="true">
+        <url>http://www.example.com/product/40149</url>
+        <price>4275.0</price>
+        <model>Naruto X Boruto Ultimate Ninja Strom Connetions (PS4, рус.титры), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40150" available="true">
+        <url>http://www.example.com/product/40150</url>
+        <price>2807.82</price>
+        <model>Naruto:Shippuden ultimate ninja storm4, Road to Boruto, Sinobi Striker  [PS4, рус.титры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40151" available="true">
+        <url>http://www.example.com/product/40151</url>
+        <price>1910.07</price>
+        <model>NBA 2K23 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40152" available="true">
+        <url>http://www.example.com/product/40152</url>
+        <price>3420.0</price>
+        <model>NBA 2K24 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40153" available="true">
+        <url>http://www.example.com/product/40153</url>
+        <price>2565.0</price>
+        <model>Need for Speed Heat [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40154" available="true">
+        <url>http://www.example.com/product/40154</url>
+        <price>2089.62</price>
+        <model>Need For Speed Payback PS4 полн русская, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40155" available="true">
+        <url>http://www.example.com/product/40155</url>
+        <price>2513.7</price>
+        <model>Need For Speed PS4 полн русская, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40156" available="true">
+        <url>http://www.example.com/product/40156</url>
+        <price>5283.045</price>
+        <model>NHL 23 (eng) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40157" available="true">
+        <url>http://www.example.com/product/40157</url>
+        <price>4084.3350000000005</price>
+        <model>NHL 24 (eng) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40158" available="true">
+        <url>http://www.example.com/product/40158</url>
+        <price>3609.81</price>
+        <model>Nickelodeon All-Star Brawl 2 ps4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40159" available="true">
+        <url>http://www.example.com/product/40159</url>
+        <price>4690.53</price>
+        <model>One Piece ODYSSEY [PS4], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40160" available="true">
+        <url>http://www.example.com/product/40160</url>
+        <price>2835.18</price>
+        <model>Paw Patrol On a Roll PS4 англ.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40161" available="true">
+        <url>http://www.example.com/product/40161</url>
+        <price>4464.8099999999995</price>
+        <model>Persona 3 Reload [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40162" available="true">
+        <url>http://www.example.com/product/40162</url>
+        <price>3475.575</price>
+        <model>PJMASKS Power Heroes Mighty Alliance PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40163" available="true">
+        <url>http://www.example.com/product/40163</url>
+        <price>2469.24</price>
+        <model>Plants vs Zombies Battle for Neighborville PS4 (рус.титры), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40164" available="true">
+        <url>http://www.example.com/product/40164</url>
+        <price>2650.5</price>
+        <model>Plants vs Zombies GW2 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40165" available="true">
+        <url>http://www.example.com/product/40165</url>
+        <price>2633.4</price>
+        <model>Plants vs. Zombies Garden Warfare [PS4, английская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40166" available="true">
+        <url>http://www.example.com/product/40166</url>
+        <price>2915.55</price>
+        <model>PlayerUnknown's BattleGrounds PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40167" available="true">
+        <url>http://www.example.com/product/40167</url>
+        <price>4275.0</price>
+        <model>Prince of Persia The Lost Crown [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40168" available="true">
+        <url>http://www.example.com/product/40168</url>
+        <price>2915.55</price>
+        <model>PROJECT CARS PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40169" available="true">
+        <url>http://www.example.com/product/40169</url>
+        <price>2718.9</price>
+        <model>Rage 2 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40170" available="true">
+        <url>http://www.example.com/product/40170</url>
+        <price>2308.5</price>
+        <model>Ratchet Clank (RU) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40171" available="true">
+        <url>http://www.example.com/product/40171</url>
+        <price>2513.7</price>
+        <model>RAYMAN LEGENDS PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40172" available="true">
+        <url>http://www.example.com/product/40172</url>
+        <price>1994.715</price>
+        <model>RAYMAN LEGENDS PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40173" available="true">
+        <url>http://www.example.com/product/40173</url>
+        <price>2821.5</price>
+        <model>Red Dead Redemption  [PS4, анг.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40174" available="true">
+        <url>http://www.example.com/product/40174</url>
+        <price>3411.45</price>
+        <model>Red Dead Redemption CUSA 36843 [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40175" available="true">
+        <url>http://www.example.com/product/40175</url>
+        <price>2374.335</price>
+        <model>Red Dead Redemption II PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40176" available="true">
+        <url>http://www.example.com/product/40176</url>
+        <price>2163.15</price>
+        <model>RESIDENT EVIL 2 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40177" available="true">
+        <url>http://www.example.com/product/40177</url>
+        <price>2375.19</price>
+        <model>Resident Evil 3  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40178" available="true">
+        <url>http://www.example.com/product/40178</url>
+        <price>3704.7149999999997</price>
+        <model>RESIDENT EVIL 4 Remake PS4 (рус.версия), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40179" available="true">
+        <url>http://www.example.com/product/40179</url>
+        <price>3039.5249999999996</price>
+        <model>Resident Evil VII.I.AGE GOLD EDITION [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40180" available="true">
+        <url>http://www.example.com/product/40180</url>
+        <price>2411.1</price>
+        <model>RIGS: Mechanized Combat League (только для PS VR) [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40181" available="true">
+        <url>http://www.example.com/product/40181</url>
+        <price>1972.4850000000001</price>
+        <model>Rise of the Tomb Raider PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40182" available="true">
+        <url>http://www.example.com/product/40182</url>
+        <price>2348.685</price>
+        <model>Rush VR PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40183" available="true">
+        <url>http://www.example.com/product/40183</url>
+        <price>2817.2250000000004</price>
+        <model>Sackboy A Big Adventure PS4 рус версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40184" available="true">
+        <url>http://www.example.com/product/40184</url>
+        <price>2914.695</price>
+        <model>Saints Row PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40185" available="true">
+        <url>http://www.example.com/product/40185</url>
+        <price>3214.8</price>
+        <model>Sairento (только для PS VR) PS4, англ, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40186" available="true">
+        <url>http://www.example.com/product/40186</url>
+        <price>3750.0299999999997</price>
+        <model>Sekiro: Shadows Die Twice [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40187" available="true">
+        <url>http://www.example.com/product/40187</url>
+        <price>2718.9</price>
+        <model>Shadow of the Tomb Raider [PS4, англ.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40188" available="true">
+        <url>http://www.example.com/product/40188</url>
+        <price>2513.7</price>
+        <model>SHADOW WARRIOR  PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40189" available="true">
+        <url>http://www.example.com/product/40189</url>
+        <price>2944.62</price>
+        <model>Shadow Warrior Definitive Edition  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40190" available="true">
+        <url>http://www.example.com/product/40190</url>
+        <price>2718.9</price>
+        <model>Shenmue I &amp; II [PS4, английская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40191" available="true">
+        <url>http://www.example.com/product/40191</url>
+        <price>4224.554999999999</price>
+        <model>SIFU [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40192" available="true">
+        <url>http://www.example.com/product/40192</url>
+        <price>3672.2250000000004</price>
+        <model>SIFU Vengeance Edition [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40193" available="true">
+        <url>http://www.example.com/product/40193</url>
+        <price>2171.7</price>
+        <model>Sims 4 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40194" available="true">
+        <url>http://www.example.com/product/40194</url>
+        <price>3388.3650000000002</price>
+        <model>Smurfs Kart  [PS4, англ.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40195" available="true">
+        <url>http://www.example.com/product/40195</url>
+        <price>3134.43</price>
+        <model>SNIPER ELITE 5 PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40196" available="true">
+        <url>http://www.example.com/product/40196</url>
+        <price>4121.1</price>
+        <model>Sniper Ghost Warrior Contracts 2 рус.титры PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40197" available="true">
+        <url>http://www.example.com/product/40197</url>
+        <price>3420.0</price>
+        <model>Snow Runner (PS4 русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40198" available="true">
+        <url>http://www.example.com/product/40198</url>
+        <price>2436.75</price>
+        <model>Sonic Forces  PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40199" available="true">
+        <url>http://www.example.com/product/40199</url>
+        <price>3594.42</price>
+        <model>Sonic Frontiers  PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40200" available="true">
+        <url>http://www.example.com/product/40200</url>
+        <price>2392.29</price>
+        <model>Sonic Mania Plus PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40201" available="true">
+        <url>http://www.example.com/product/40201</url>
+        <price>3788.505</price>
+        <model>Sonic Origins Plus  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40202" available="true">
+        <url>http://www.example.com/product/40202</url>
+        <price>3702.1499999999996</price>
+        <model>Sonic SuperStars [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40203" available="true">
+        <url>http://www.example.com/product/40203</url>
+        <price>2089.62</price>
+        <model>Sonic Team Racing PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40204" available="true">
+        <url>http://www.example.com/product/40204</url>
+        <price>2915.55</price>
+        <model>SoulCalibur VI PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40205" available="true">
+        <url>http://www.example.com/product/40205</url>
+        <price>3522.6000000000004</price>
+        <model>South Park: The Fractured but Whole [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40206" available="true">
+        <url>http://www.example.com/product/40206</url>
+        <price>4326.3</price>
+        <model>Spike VolleyBALL PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40207" available="true">
+        <url>http://www.example.com/product/40207</url>
+        <price>2469.24</price>
+        <model>Spyro Reignited Trilogy PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40208" available="true">
+        <url>http://www.example.com/product/40208</url>
+        <price>3018.1499999999996</price>
+        <model>Squishies (только для PS VR) [PS4, английская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40209" available="true">
+        <url>http://www.example.com/product/40209</url>
+        <price>3420.0</price>
+        <model>STAR WARS Squadrons PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40210" available="true">
+        <url>http://www.example.com/product/40210</url>
+        <price>3120.75</price>
+        <model>StarBLOOD Arena VR PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40211" available="true">
+        <url>http://www.example.com/product/40211</url>
+        <price>2565.0</price>
+        <model>STRAY (PS4 русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40212" available="true">
+        <url>http://www.example.com/product/40212</url>
+        <price>4371.615</price>
+        <model>StreetFighter 6 [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40213" available="true">
+        <url>http://www.example.com/product/40213</url>
+        <price>3609.81</price>
+        <model>Super Crazy Rhythm Castle [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40214" available="true">
+        <url>http://www.example.com/product/40214</url>
+        <price>2214.45</price>
+        <model>Super Stardust Ultra (с поддержкой PS VR) [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40215" available="true">
+        <url>http://www.example.com/product/40215</url>
+        <price>3514.9049999999997</price>
+        <model>Sword of the Vagrant [PS4, англ.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40216" available="true">
+        <url>http://www.example.com/product/40216</url>
+        <price>2442.735</price>
+        <model>Syberia 3 [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40217" available="true">
+        <url>http://www.example.com/product/40217</url>
+        <price>4104.0</price>
+        <model>Tales of Symphonia Remastered PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40218" available="true">
+        <url>http://www.example.com/product/40218</url>
+        <price>4838.445000000001</price>
+        <model>Teenage Mutant Ninja Turtles: Shredder's Revenge  PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40219" available="true">
+        <url>http://www.example.com/product/40219</url>
+        <price>2374.335</price>
+        <model>TEKKEN 7 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40220" available="true">
+        <url>http://www.example.com/product/40220</url>
+        <price>3821.8500000000004</price>
+        <model>The Banner Saga Trilogy - Bonus Edition [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40221" available="true">
+        <url>http://www.example.com/product/40221</url>
+        <price>4760.64</price>
+        <model>The Calisto Protocol  [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40222" available="true">
+        <url>http://www.example.com/product/40222</url>
+        <price>2040.03</price>
+        <model>The CREW 2 PS4 rus, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40223" available="true">
+        <url>http://www.example.com/product/40223</url>
+        <price>4369.905</price>
+        <model>The CREW Motorfest PS4 rus, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40224" available="true">
+        <url>http://www.example.com/product/40224</url>
+        <price>2317.05</price>
+        <model>The CREW Ultimate Edition (RU) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40225" available="true">
+        <url>http://www.example.com/product/40225</url>
+        <price>4084.3350000000005</price>
+        <model>The Dark Pictures Anthology  (Rus) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40226" available="true">
+        <url>http://www.example.com/product/40226</url>
+        <price>3400.3350000000005</price>
+        <model>The Devil in ME (Rus) PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40227" available="true">
+        <url>http://www.example.com/product/40227</url>
+        <price>2180.25</price>
+        <model>The Last of US II PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40228" available="true">
+        <url>http://www.example.com/product/40228</url>
+        <price>2279.43</price>
+        <model>The Last of US PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40229" available="true">
+        <url>http://www.example.com/product/40229</url>
+        <price>2009.25</price>
+        <model>THE ORDER 1886  PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40230" available="true">
+        <url>http://www.example.com/product/40230</url>
+        <price>4146.75</price>
+        <model>The Quarry [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40231" available="true">
+        <url>http://www.example.com/product/40231</url>
+        <price>3411.45</price>
+        <model>The Smurfs Village Party [PS4], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40232" available="true">
+        <url>http://www.example.com/product/40232</url>
+        <price>3420.0</price>
+        <model>The Surge [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40233" available="true">
+        <url>http://www.example.com/product/40233</url>
+        <price>3924.45</price>
+        <model>The Surge 2 [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40234" available="true">
+        <url>http://www.example.com/product/40234</url>
+        <price>3582.45</price>
+        <model>The Texas Chain Saw Massacre  [PS4, англ.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40235" available="true">
+        <url>http://www.example.com/product/40235</url>
+        <price>4275.0</price>
+        <model>Theatrhythm Final Bar Line PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40236" available="true">
+        <url>http://www.example.com/product/40236</url>
+        <price>2214.45</price>
+        <model>THIEF PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40237" available="true">
+        <url>http://www.example.com/product/40237</url>
+        <price>2317.05</price>
+        <model>TOM CLANCY'S RAINBOW SIX Осада PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40238" available="true">
+        <url>http://www.example.com/product/40238</url>
+        <price>2915.55</price>
+        <model>TOM CLANCY'S The Division PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40239" available="true">
+        <url>http://www.example.com/product/40239</url>
+        <price>3420.0</price>
+        <model>TOM CLANCY'S The Division PS4 рус , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40240" available="true">
+        <url>http://www.example.com/product/40240</url>
+        <price>1972.4850000000001</price>
+        <model>TOMB RAIDER: Definitive edition PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40241" available="true">
+        <url>http://www.example.com/product/40241</url>
+        <price>3989.43</price>
+        <model>TopSpin 2k25 [PS4, англ.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40242" available="true">
+        <url>http://www.example.com/product/40242</url>
+        <price>2470.95</price>
+        <model>UFC 4 PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40243" available="true">
+        <url>http://www.example.com/product/40243</url>
+        <price>2318.76</price>
+        <model>Uncharted 4: Утраченное наследие PS4 CUSA 09564 полн.русский, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40244" available="true">
+        <url>http://www.example.com/product/40244</url>
+        <price>2279.43</price>
+        <model>UNCHARTED The Nathan Drake Collection CUSA 02344 PS4 полн рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40245" available="true">
+        <url>http://www.example.com/product/40245</url>
+        <price>2317.05</price>
+        <model>UNCHARTED The Nathan Drake Collection PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40246" available="true">
+        <url>http://www.example.com/product/40246</url>
+        <price>2009.25</price>
+        <model>UNTIL DAWN PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40247" available="true">
+        <url>http://www.example.com/product/40247</url>
+        <price>3420.0</price>
+        <model>Vampire The Masquarade - SwanSong [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40248" available="true">
+        <url>http://www.example.com/product/40248</url>
+        <price>2009.25</price>
+        <model>W2K18 PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40249" available="true">
+        <url>http://www.example.com/product/40249</url>
+        <price>4522.95</price>
+        <model>W2K20 PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40250" available="true">
+        <url>http://www.example.com/product/40250</url>
+        <price>4322.88</price>
+        <model>W2k23 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40251" available="true">
+        <url>http://www.example.com/product/40251</url>
+        <price>4275.0</price>
+        <model>W2k24 PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40252" available="true">
+        <url>http://www.example.com/product/40252</url>
+        <price>2240.1</price>
+        <model>Watch Dogs 2 CUSA 04295 PS4  рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40253" available="true">
+        <url>http://www.example.com/product/40253</url>
+        <price>3924.45</price>
+        <model>Watch Dogs Legion PS4  рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40254" available="true">
+        <url>http://www.example.com/product/40254</url>
+        <price>2915.55</price>
+        <model>Wolfenstein The New Colossus PS4 , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40255" available="true">
+        <url>http://www.example.com/product/40255</url>
+        <price>3420.0</price>
+        <model>Wolfenstein The New Order +The Old Blood PS4  рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40256" available="true">
+        <url>http://www.example.com/product/40256</url>
+        <price>4322.88</price>
+        <model>WoLong Fallen Dynasty PS4 рус, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40257" available="true">
+        <url>http://www.example.com/product/40257</url>
+        <price>3924.45</price>
+        <model>Zombie Army 4 Dead War [PS4, русские субтитры], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40258" available="true">
+        <url>http://www.example.com/product/40258</url>
+        <price>2915.55</price>
+        <model>Zone of the Enders: The 2nd Runner - Mars (PS VR) PS4 eng, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40259" available="true">
+        <url>http://www.example.com/product/40259</url>
+        <price>2374.335</price>
+        <model>Ведьмак3 Дикая Охота +доп PS4 рус.титры, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40260" available="true">
+        <url>http://www.example.com/product/40260</url>
+        <price>2513.7</price>
+        <model>Грёзы [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40261" available="true">
+        <url>http://www.example.com/product/40261</url>
+        <price>2112.705</price>
+        <model>Дожить до Рассвета PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40262" available="true">
+        <url>http://www.example.com/product/40262</url>
+        <price>2872.8</price>
+        <model>Жизнь После PS4 рус.версия, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40263" available="true">
+        <url>http://www.example.com/product/40263</url>
+        <price>2783.0249999999996</price>
+        <model>Звёздные Войны Джедаи: Павший Орден [PS4, рус.версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40264" available="true">
+        <url>http://www.example.com/product/40264</url>
+        <price>2374.335</price>
+        <model>Метро: Исход [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40265" available="true">
+        <url>http://www.example.com/product/40265</url>
+        <price>4522.95</price>
+        <model>Мстители Marvel [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40266" available="true">
+        <url>http://www.example.com/product/40266</url>
+        <price>5429.25</price>
+        <model>Мстители Marvel. Издание Deluxe [PS4, русская версия]   , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40267" available="true">
+        <url>http://www.example.com/product/40267</url>
+        <price>3821.8500000000004</price>
+        <model>Пациент (только для VR) [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+      <offer id="40268" available="true">
+        <url>http://www.example.com/product/40268</url>
+        <price>3400.3350000000005</price>
+        <model>Призрак Цусимы Director's Cut [PS4, русская версия], шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>99707b8a-0a6c-4590-9a88-81a60eaca341</categoryId>
+        <picture>https://filearchive.cnews.ru/img/zoom/2020/07/22/ps4games.jpg</picture>
+        <picture>nan</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
