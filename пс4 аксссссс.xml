@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="e4ac329f-10b1-4b96-a5ee-6367896492e9">PS4 аксессуары</category>
+    </categories>
+    <offers>
+      <offer id="50001" available="true">
+        <url>http://www.example.com/product/50001</url>
+        <price>5414.715</price>
+        <model>DUALSHOCK 4 for PS4 черный CUH-ZCT2G, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>e4ac329f-10b1-4b96-a5ee-6367896492e9</categoryId>
+        <picture>https://hgworld.in/wp-content/uploads/2020/06/ps4-v2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет">Черный</param>
+        <param name="Модель/Издание">CUH-ZCT2G</param>
+        <param name="Беспроводной">Да</param>
+        <param name="Совместимость">PS4, PS5 (огранич.)</param>
+      </offer>
+      <offer id="50002" available="true">
+        <url>http://www.example.com/product/50002</url>
+        <price>4924.8</price>
+        <model>Nacon PS4 Controller Black беспроводной, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>e4ac329f-10b1-4b96-a5ee-6367896492e9</categoryId>
+        <picture>https://cdn.bazar.kg/bazar/images/a/7/3/a73c2c10d36f09e4620b5e99c8ee4805_640x480.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет">Черный</param>
+        <param name="Модель/Издание">Nacon Wireless</param>
+        <param name="Беспроводной">Да</param>
+        <param name="Совместимость">PS4</param>
+      </offer>
+      <offer id="50003" available="true">
+        <url>http://www.example.com/product/50003</url>
+        <price>3847.5</price>
+        <model>Nacon PS4 Controller Camo Green, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>e4ac329f-10b1-4b96-a5ee-6367896492e9</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNeNfMiaP4IKP-UgOKELR037O6jBsz_7F7w&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет">Камуфляжный зеленый</param>
+        <param name="Модель/Издание">Nacon Wired</param>
+        <param name="Беспроводной">Нет</param>
+        <param name="Совместимость">PS4</param>
+      </offer>
+      <offer id="50004" available="true">
+        <url>http://www.example.com/product/50004</url>
+        <price>3847.5</price>
+        <model>Nacon PS4 Controller Light Blue, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>e4ac329f-10b1-4b96-a5ee-6367896492e9</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGE0YxzFy0Mslo6d79gSjc2t17rzBsLz7Mg&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет">Светло-голубой</param>
+        <param name="Модель/Издание">Nacon Wired</param>
+        <param name="Беспроводной">Нет</param>
+        <param name="Совместимость">PS4</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
