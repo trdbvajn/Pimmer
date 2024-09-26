@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="4603078a-1e9a-470c-8c79-292d81fd86a7">Webcam</category>
+    </categories>
+    <offers>
+      <offer id="60001" available="true">
+        <url>http://www.example.com/product/60001</url>
+        <price>15104.43</price>
+        <model>LOGITECH WEBCAM Brio 4K, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://resource.logitech.com/content/dam/logitech/en/products/webcams/brio/gallery/brio-gallery-1.png</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">4K (3840x2160)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">HDR, автофокус, поддержка Windows Hello</param>
+      </offer>
+      <offer id="60002" available="true">
+        <url>http://www.example.com/product/60002</url>
+        <price>5540.4</price>
+        <model>LOGITECH WEBCAM Brio300 1080p, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://resource.logitech.com/content/dam/logitech/en/products/webcams/brio-300/gallery/brio-300-gallery-graphite-1.png</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Автофокус, шумоподавление</param>
+      </offer>
+      <offer id="60003" available="true">
+        <url>http://www.example.com/product/60003</url>
+        <price>7985.700000000001</price>
+        <model>LOGITECH WEBCAM Brio500 1080p, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://resource.logitech.com/content/dam/logitech/en/products/webcams/brio-500/gallery/brio-500-gallery-graphite-1.png</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB-C</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Автофокус, наклон камеры</param>
+      </offer>
+      <offer id="60004" available="true">
+        <url>http://www.example.com/product/60004</url>
+        <price>2718.9</price>
+        <model>LOGITECH WEBCAM C270, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://img.tehnomaks.ru/img/prod/full/fdea02153ecd06e0d36a22c4ba18e33f28b3e421.png</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">720p (1280x720)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Автонастройка света</param>
+      </offer>
+      <offer id="60005" available="true">
+        <url>http://www.example.com/product/60005</url>
+        <price>7942.950000000001</price>
+        <model>LOGITECH WEBCAM C920 PRO (1080p), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://resource.logitech.com/content/dam/logitech/en/products/webcams/c920/gallery/c920-gallery-1.png</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Стереомикрофон, автофокус</param>
+      </offer>
+      <offer id="60006" available="true">
+        <url>http://www.example.com/product/60006</url>
+        <price>5540.4</price>
+        <model>LOGITECH WEBCAM C920e, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://resource.logitech.com/w_800,c_lpad,ar_1:1,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/c920e/gallery-2.png?v=1</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Стереомикрофон, автофокус</param>
+      </offer>
+      <offer id="60007" available="true">
+        <url>http://www.example.com/product/60007</url>
+        <price>7421.4</price>
+        <model>LOGITECH WEBCAM C925E, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://vivo.tech/cdn/shop/products/61_800x.png?v=1666296596</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Широкий угол обзора, автофокус</param>
+      </offer>
+      <offer id="60008" available="true">
+        <url>http://www.example.com/product/60008</url>
+        <price>6174.8099999999995</price>
+        <model>RAZER KIYO BroadCasting Camera, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://cdn.bazar.kg/bazar/images/1/5/a/15a0510a8ff57f11071fc1171d68504b_640x480.jpg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Встроенная кольцевая подсветка</param>
+      </offer>
+      <offer id="60009" available="true">
+        <url>http://www.example.com/product/60009</url>
+        <price>17955.0</price>
+        <model>RAZER KIYO PRO Camera, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71svP8z5CuL._AC_UF894,1000_QL80_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">60 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Автофокус, HDR, светочувствительный сенсор</param>
+      </offer>
+      <offer id="60010" available="true">
+        <url>http://www.example.com/product/60010</url>
+        <price>7942.950000000001</price>
+        <model>RAZER KIYO X, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/05/Kiyo-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Поддержка потоковой передачи</param>
+      </offer>
+      <offer id="60011" available="true">
+        <url>http://www.example.com/product/60011</url>
+        <price>3710.7</price>
+        <model>Thronmax Stream Go HD WebCam 1080p/30fps, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4603078a-1e9a-470c-8c79-292d81fd86a7</categoryId>
+        <picture>https://www.thronmax.com/wp-content/uploads/2021/05/x1pro.jpg</picture>
+        <picture>nan</picture>
+        <param name="Разрешение видео">1080p (1920x1080)</param>
+        <param name="Частота кадров">30 fps</param>
+        <param name="Тип подключения">USB</param>
+        <param name="Встроенный микрофон">Да</param>
+        <param name="Особенности">Шумоподавление, автофокус</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
