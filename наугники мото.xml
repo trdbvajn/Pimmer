@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="4df1eeef-430e-4d26-a796-6f4485baf919">Наушники Motospeed</category>
+    </categories>
+    <offers>
+      <offer id="1001" available="true">
+        <url>http://www.example.com/product/1001</url>
+        <price>3420.0</price>
+        <model>MotoSpeed C919 USB 7.1 RGB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4df1eeef-430e-4d26-a796-6f4485baf919</categoryId>
+        <picture>https://static-eg.com/wp-content/uploads/2023/04/motospeed-g919-gaming-headset-rgb-1-600x600.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Регулируемый микрофон, шумоподавление</param>
+        <param name="Особенности">Игровая гарнитура, RGB-подсветка</param>
+      </offer>
+      <offer id="1002" available="true">
+        <url>http://www.example.com/product/1002</url>
+        <price>1812.6</price>
+        <model>MotoSpeed H11 USB 7.1, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4df1eeef-430e-4d26-a796-6f4485baf919</categoryId>
+        <picture>https://m.media-amazon.com/images/I/81dFJhfNhdL.__AC_SX300_SY300_QL70_ML2_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон, шумоподавление</param>
+        <param name="Особенности">Легкий дизайн, удобные амбушюры</param>
+      </offer>
+      <offer id="1003" available="true">
+        <url>http://www.example.com/product/1003</url>
+        <price>3214.8</price>
+        <model>MotoSpeed H18 USB 7.1, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4df1eeef-430e-4d26-a796-6f4485baf919</categoryId>
+        <picture>https://lv2.pigugroup.eu/colours/242/733/91/24273391/spelu-austinas-motospeed-h18-pro-usb-rgb-c32a5_reference.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон, шумоподавление</param>
+        <param name="Особенности">Эргономичная форма</param>
+      </offer>
+      <offer id="1004" available="true">
+        <url>http://www.example.com/product/1004</url>
+        <price>2915.55</price>
+        <model>MotoSpeed H60 USB 7.1, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>4df1eeef-430e-4d26-a796-6f4485baf919</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/12b/12bba28967fe2645e074625a0ff4ae4b.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон, шумоподавление</param>
+        <param name="Особенности">Высокая совместимость с ПК</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
