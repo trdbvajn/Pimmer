@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1a607d0c-6cc7-4ebf-8bcd-48808bdf7967">Игровые Приставки</category>
+    </categories>
+    <offers>
+      <offer id="80001" available="true">
+        <url>http://www.example.com/product/80001</url>
+        <price>58738.5</price>
+        <model>Asus ROG Ally Z1 Extreme 512gb , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/07/rogally-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Портативная</param>
+        <param name="Объем памяти">512 ГБ SSD</param>
+        <param name="Экран">7-дюймовый, 1080p</param>
+        <param name="Процессор">AMD Ryzen Z1 Extreme</param>
+        <param name="Особенности">Сенсорный экран, высокопроизводительный чип</param>
+      </offer>
+      <offer id="80002" available="true">
+        <url>http://www.example.com/product/80002</url>
+        <price>2785.5899999999997</price>
+        <model>GD10 PRO game console 128GB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/4fe/4fee287fec2be88643654d89d1e9df0b.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Портативная</param>
+        <param name="Объем памяти">128 ГБ</param>
+        <param name="Экран">7-дюймовый, 720p</param>
+        <param name="Процессор">ARM Cortex</param>
+        <param name="Особенности">Портативная игровая консоль, бюджетный вариант</param>
+      </offer>
+      <offer id="80003" available="true">
+        <url>http://www.example.com/product/80003</url>
+        <price>25171.199999999997</price>
+        <model>Nintendo Switch Oled Black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://cdn11.bigcommerce.com/s-ahgfi493tw/images/stencil/original/products/3492/8610/Iron_Black_-_Nintendo_Switch_OLED_Mock_Up__33301.1627601859.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Гибридная</param>
+        <param name="Объем памяти">Встроенная 64 ГБ</param>
+        <param name="Экран">7-дюймовый OLED, 720p</param>
+        <param name="Процессор">NVIDIA Tegra X1</param>
+        <param name="Особенности">Док-станция для подключения к ТВ</param>
+      </offer>
+      <offer id="80004" available="true">
+        <url>http://www.example.com/product/80004</url>
+        <price>26693.954999999998</price>
+        <model>Nintendo Switch Oled Pokemon, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/PokNS-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Гибридная</param>
+        <param name="Объем памяти">Встроенная 64 ГБ</param>
+        <param name="Экран">7-дюймовый OLED, 720p</param>
+        <param name="Процессор">NVIDIA Tegra X1</param>
+        <param name="Особенности">Специальная версия с Pokemon дизайном</param>
+      </offer>
+      <offer id="80005" available="true">
+        <url>http://www.example.com/product/80005</url>
+        <price>26693.954999999998</price>
+        <model>Nintendo Switch Oled Splatoon3, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/en_US/products/hardware/nintendo-switch-oled-model-splatoon-3-edition-112869/112869-nintendo-switch-oled-model-splatoon-3-edition-console-in-dock-joy-con-grip-1200x675</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Гибридная</param>
+        <param name="Объем памяти">Встроенная 64 ГБ</param>
+        <param name="Экран">7-дюймовый OLED, 720p</param>
+        <param name="Процессор">NVIDIA Tegra X1</param>
+        <param name="Особенности">Специальная версия с дизайном Splatoon 3</param>
+      </offer>
+      <offer id="80006" available="true">
+        <url>http://www.example.com/product/80006</url>
+        <price>26693.954999999998</price>
+        <model>Nintendo Switch Oled Zelda, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/My%20Nintendo%20Store/EN-US/Hardware/nintendo-switch-oled-model-the-legend-of-zelda-tears-of-the-kingdom-edition-112870/112870-legend-of-zelda-tears-of-the-kingdom-switch-oled-special-edition-items-1200x675</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Гибридная</param>
+        <param name="Объем памяти">Встроенная 64 ГБ</param>
+        <param name="Экран">7-дюймовый OLED, 720p</param>
+        <param name="Процессор">NVIDIA Tegra X1</param>
+        <param name="Особенности">Специальная версия с дизайном Zelda</param>
+      </offer>
+      <offer id="80007" available="true">
+        <url>http://www.example.com/product/80007</url>
+        <price>24055.425000000003</price>
+        <model>SONY Playstation Portal, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://jjstore.ru/image/cache/catalog/sony/mqerq6hr874-1181x865.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Портативная</param>
+        <param name="Объем памяти">-</param>
+        <param name="Экран">8-дюймовый LCD</param>
+        <param name="Процессор">-</param>
+        <param name="Особенности">Для стриминга игр с PS5</param>
+      </offer>
+      <offer id="80008" available="true">
+        <url>http://www.example.com/product/80008</url>
+        <price>26802.54</price>
+        <model>SONY PS4 1TB Slim, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://telefon.kg/image/cache/catalog/new/Igrovye%20pristavki/PS4%20PRO%201TB%20CUH-7216B/1-1200x800.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Домашняя</param>
+        <param name="Объем памяти">1 ТБ HDD</param>
+        <param name="Экран">-</param>
+        <param name="Процессор">AMD Jaguar 8-ядерный</param>
+        <param name="Особенности">Компактная версия PS4, поддержка HDR</param>
+      </offer>
+      <offer id="80009" available="true">
+        <url>http://www.example.com/product/80009</url>
+        <price>24334.155000000002</price>
+        <model>SONY PS4 500GB SLIM, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://ramas.co.za/wp-content/uploads/2024/07/PS4-500GB-Slim.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Домашняя</param>
+        <param name="Объем памяти">500 ГБ HDD</param>
+        <param name="Экран">-</param>
+        <param name="Процессор">AMD Jaguar 8-ядерный</param>
+        <param name="Особенности">Компактная версия PS4, поддержка HDR</param>
+      </offer>
+      <offer id="80010" available="true">
+        <url>http://www.example.com/product/80010</url>
+        <price>40245.705</price>
+        <model>SONY PS5 1TB SLIM (Asia), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://systema.kg/529191-medium_default/sony-ps5-1tb-slim-asia.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Домашняя</param>
+        <param name="Объем памяти">1 ТБ SSD</param>
+        <param name="Экран">-</param>
+        <param name="Процессор">AMD Ryzen Zen 2, RDNA 2 GPU</param>
+        <param name="Особенности">Поддержка 4K, быстрая загрузка игр</param>
+      </offer>
+      <offer id="80011" available="true">
+        <url>http://www.example.com/product/80011</url>
+        <price>41656.455</price>
+        <model>SONY PS5 1TB SLIM (Asia)+Spider Man 2, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/09/ps5spider2-5.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Домашняя</param>
+        <param name="Объем памяти">1 ТБ SSD</param>
+        <param name="Экран">-</param>
+        <param name="Процессор">AMD Ryzen Zen 2, RDNA 2 GPU</param>
+        <param name="Особенности">Версия с игрой Spider Man 2</param>
+      </offer>
+      <offer id="80012" available="true">
+        <url>http://www.example.com/product/80012</url>
+        <price>38304.0</price>
+        <model>SONY PS5 1TB SLIM digital, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://megastore.kg/upload/iblock/e4b/e4bccf49c7219dec88cc2fbd7245bfca.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Домашняя</param>
+        <param name="Объем памяти">1 ТБ SSD</param>
+        <param name="Экран">-</param>
+        <param name="Процессор">AMD Ryzen Zen 2, RDNA 2 GPU</param>
+        <param name="Особенности">Без дисковода, поддержка 4K</param>
+      </offer>
+      <offer id="80013" available="true">
+        <url>http://www.example.com/product/80013</url>
+        <price>63079.335</price>
+        <model>SteamDeck 1tb oled, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://m.media-amazon.com/images/I/31WG71-V8EL._AC_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Портативная</param>
+        <param name="Объем памяти">1 ТБ SSD</param>
+        <param name="Экран">7-дюймовый OLED</param>
+        <param name="Процессор">AMD APU (Zen 2 + RDNA 2)</param>
+        <param name="Особенности">Поддержка SteamOS, высокое разрешение</param>
+      </offer>
+      <offer id="80014" available="true">
+        <url>http://www.example.com/product/80014</url>
+        <price>55004.715000000004</price>
+        <model>SteamDeck 512gb oled, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://www.tccq.com/image/cache/catalog/0201007/Steam%20Deck%20Console%20512GB%20(OLED)%20(4)-1000x1000.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Портативная</param>
+        <param name="Объем памяти">512 ГБ SSD</param>
+        <param name="Экран">7-дюймовый OLED</param>
+        <param name="Процессор">AMD APU (Zen 2 + RDNA 2)</param>
+        <param name="Особенности">Поддержка SteamOS, доступ к библиотеке Steam</param>
+      </offer>
+      <offer id="80015" available="true">
+        <url>http://www.example.com/product/80015</url>
+        <price>40270.5</price>
+        <model>Xbox ONE Series X 1tb, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>1a607d0c-6cc7-4ebf-8bcd-48808bdf7967</categoryId>
+        <picture>https://m.media-amazon.com/images/I/51hV2qz3WuL._SL1080_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип консоли">Домашняя</param>
+        <param name="Объем памяти">1 ТБ SSD</param>
+        <param name="Экран">-</param>
+        <param name="Процессор">AMD Zen 2, RDNA 2 GPU</param>
+        <param name="Особенности">Поддержка 4K, быстрая загрузка</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
