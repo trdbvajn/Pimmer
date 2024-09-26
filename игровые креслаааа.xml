@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="a098cdae-ae1e-479d-9655-a5d4a98afc61">Игровые кресла</category>
+    </categories>
+    <offers>
+      <offer id="70001" available="true">
+        <url>http://www.example.com/product/70001</url>
+        <price>37370.34</price>
+        <model>Corsair T3-RUSH-CHAR, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1Y4JKQZZGISVfKK69kyah6gbFDgLDeCjww&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Ткань, серо-черный</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Регулируемые подлокотники, наклон спинки</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70002" available="true">
+        <url>http://www.example.com/product/70002</url>
+        <price>37370.34</price>
+        <model>Corsair TC200-FBRC-BLK, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Gaming-Chairs/CF-9010051-WW/Gallery/CF-9010051_01.webp</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Ткань, черный</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Эргономичный дизайн, регулируемая высота</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70003" available="true">
+        <url>http://www.example.com/product/70003</url>
+        <price>37370.34</price>
+        <model>Corsair TC200-FBRC-GRYWHT, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://www.tradeinn.com/f/14039/140392745_3/corsair-tc200-gaming-chair.webp</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Ткань, серо-белый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Регулируемый угол наклона, подушки для поясницы</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70004" available="true">
+        <url>http://www.example.com/product/70004</url>
+        <price>37370.34</price>
+        <model>Corsair TC200-LTHR-BLK, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61cSJIrcpqL._AC_UF894,1000_QL80_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, черный</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Искусственная кожа, эргономичная конструкция</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70005" available="true">
+        <url>http://www.example.com/product/70005</url>
+        <price>8379.0</price>
+        <model>Defender Crater, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://www.kivano.kg/images/product/137301/171756794495395_full.png</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Ткань, черный</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Мягкие подлокотники, наклон спинки</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70006" available="true">
+        <url>http://www.example.com/product/70006</url>
+        <price>24111.0</price>
+        <model>Игровое компьютерное кресло, DxRacer GC/P132/PW (розово-белое) 120кг, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://dxstore.ru/wp-content/uploads/2022/06/kompyuternoe-kreslo-dxracer-oh-p88-pw-02.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, розово-белый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Поддержка поясницы, эргономичный дизайн</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70007" available="true">
+        <url>http://www.example.com/product/70007</url>
+        <price>32679.81</price>
+        <model>Игровое компьютерное кресло, DXRacer,  GC/G001/NR (Чёрно-красное) 135кг, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_867_411_0_6.png</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-красный</param>
+        <param name="Максимальная нагрузка">135 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Регулировка угла наклона, подушка для шеи</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70008" available="true">
+        <url>http://www.example.com/product/70008</url>
+        <price>27531.0</price>
+        <model>Игровое компьютерное кресло, DXRacer,  GC/P88/NR (черно-красное) 90кг, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://img.oe.kz/bitrix-catalog/4427/1720290379-u604u9ms8yu338kxxmj47g0t73359nhr.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-красный</param>
+        <param name="Максимальная нагрузка">90 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Мягкие подлокотники, газлифт</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70009" available="true">
+        <url>http://www.example.com/product/70009</url>
+        <price>27360.0</price>
+        <model>Игровое компьютерное кресло, DxRacer, GC/GN23/NB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3drEhCjE_9_v0BUw9wjf-sSbzxv_9f_u6SQ&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-синий</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Мягкие подлокотники, подушка для поясницы</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70010" available="true">
+        <url>http://www.example.com/product/70010</url>
+        <price>27360.0</price>
+        <model>Игровое компьютерное кресло, DxRacer, GC/GN23/NG, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJInmW8VkW9QIZXZFVXqBjkwNH7Qv_ETFNA&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-зелёный</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Поддержка поясницы, эргономичный дизайн</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70011" available="true">
+        <url>http://www.example.com/product/70011</url>
+        <price>27360.0</price>
+        <model>Игровое компьютерное кресло, DxRacer, GC/GN23/NW, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://img.al-style.kz/52847_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-белый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Регулируемые подлокотники, наклон спинки</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70012" available="true">
+        <url>http://www.example.com/product/70012</url>
+        <price>27360.0</price>
+        <model>Игровое компьютерное кресло, DxRacer, GC/GN23/RW, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffvxkj6aysKTaqM16WNsbuOSjNz2Ejzc45g&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, красно-белый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Подушка для шеи, регулируемый угол наклона</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70013" available="true">
+        <url>http://www.example.com/product/70013</url>
+        <price>33259.5</price>
+        <model>Игровое кресло, Cougar, RANGER, Чёрно-Золотой, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqTqaLPY8CYgyw4szoMNXDg7Ahge1G2l_rw&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Ткань, черно-золотой</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Поддержка спины, регулируемый угол наклона</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70014" available="true">
+        <url>http://www.example.com/product/70014</url>
+        <price>27360.0</price>
+        <model>Компьютерное кресло, Cougar  Armor Elite ORG, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://img.telemart.ua/530326-679787/cougar-armor-elite-blackorange.png</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, оранжевый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Мягкие подлокотники, подушка для поясницы</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70015" available="true">
+        <url>http://www.example.com/product/70015</url>
+        <price>27360.0</price>
+        <model>Компьютерное кресло, Cougar  Armor Elite ROYAL, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdMT50tOF5tmQ2aiLBi-u4XxzRFohz6-e4w&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрный с золотом</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Эргономичный дизайн, регулируемый угол наклона</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70016" available="true">
+        <url>http://www.example.com/product/70016</url>
+        <price>27763.56</price>
+        <model>Компьютерное кресло, Cougar  Armor One BLK, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-UgSV6aPWaufbuIMhzmjwkIQkc8Bi87tCvA&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрный</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Поддержка поясницы, газлифт</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70017" available="true">
+        <url>http://www.example.com/product/70017</url>
+        <price>27763.56</price>
+        <model>Компьютерное кресло, Cougar  Armor One Blue, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://www.cougar-world.ru/upload/iblock/be1/b_01.png</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-синий</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Регулируемый наклон, поддержка спины</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70018" available="true">
+        <url>http://www.example.com/product/70018</url>
+        <price>27763.56</price>
+        <model>Компьютерное кресло, Cougar  Armor One ORG, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://xstore.md/images/product/2023/04/xstore.md-Scaun-Gaming-Cougar-Armor-Air,-Black-Orange-(9).png</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Кожа, чёрно-оранжевый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Подушка для шеи, регулируемая высота</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70019" available="true">
+        <url>http://www.example.com/product/70019</url>
+        <price>22230.0</price>
+        <model>Компьютерное кресло, Cougar, Fusion S, Чёрно-Оранжевый , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://ants.kz/upload/resize_cache/webp/upload/iblock/695/u7em17ydd8pungdv5uvz85r1ys3jmtel.webp</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Ткань, чёрно-оранжевый</param>
+        <param name="Максимальная нагрузка">120 кг</param>
+        <param name="Размеры (см)">-</param>
+        <param name="Дополнительные особенности">Регулируемый угол наклона, мягкие подлокотники</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70020" available="true">
+        <url>http://www.example.com/product/70020</url>
+        <price>23512.5</price>
+        <model>Компьютерный стол Defender Spirit RGB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://api.technodom.kz/f3/api/v1/images/igrovoj_kompyuternyj_stol_defender_extreme_rgb_64307_275813_3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">ДСП, черный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">120 x 60 см</param>
+        <param name="Дополнительные особенности">RGB подсветка, эргономичный дизайн</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70021" available="true">
+        <url>http://www.example.com/product/70021</url>
+        <price>37876.5</price>
+        <model>Компьютерный стол Ritmix TBL-120 черн, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_1442_15_0_6_jzcysk.png</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">ДСП, черный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">120 x 60 см</param>
+        <param name="Дополнительные особенности">Простая сборка, эргономичный дизайн</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70022" available="true">
+        <url>http://www.example.com/product/70022</url>
+        <price>23085.0</price>
+        <model>Компьютерный стол Trust  GXT 711 DOMINUS, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCc8V6PsBMUDCNN8XL-ENDHlqK8c4OMF6tyg&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">ДСП, чёрный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">115 x 75 x 76 см</param>
+        <param name="Дополнительные особенности">Держатель для наушников, чехол для кабелей</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70023" available="true">
+        <url>http://www.example.com/product/70023</url>
+        <price>27360.0</price>
+        <model>Компьютерный стол Trust  GXT1175 IMPERIUS, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrP-cw-fGuKB8jUOFX9pDJkw3a8bCQui_8A&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">ДСП, чёрный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">140 x 66 см</param>
+        <param name="Дополнительные особенности">Металлическая рама, держатель для монитора</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70024" available="true">
+        <url>http://www.example.com/product/70024</url>
+        <price>27360.0</price>
+        <model>Компьютерный стол, DXRacer, LT/009/N-1 140 x 69~115 x 60 см, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThszAQr3gjCH1Tz0t1QWV4PvHWnJmchMUwvw&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Металл и пластик, чёрный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">140 x 69~115 x 60 см</param>
+        <param name="Дополнительные особенности">Регулируемая высота, прочная конструкция</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70025" available="true">
+        <url>http://www.example.com/product/70025</url>
+        <price>4227.975</price>
+        <model>Напольный игровой ковер DEFENDER Cybe 1020*1220*4мм,черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DlflGcYW1IpjWW-5zCdqjSQZwhZa6kImbA&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Резина, черный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">1020 x 1220 x 4 мм</param>
+        <param name="Дополнительные особенности">Нескользящая поверхность</param>
+        <param name="Особенности">nan</param>
+      </offer>
+      <offer id="70026" available="true">
+        <url>http://www.example.com/product/70026</url>
+        <price>3663.675</price>
+        <model>Напольный игровой ковер DEFENDER Tekta 1.16м-1.16м, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a098cdae-ae1e-479d-9655-a5d4a98afc61</categoryId>
+        <picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLLZw8E8rMBo4W2-t4xCWSRITdloBqAxFZw&amp;s</picture>
+        <picture>nan</picture>
+        <param name="Цвет/Материал">Резина, черный</param>
+        <param name="Максимальная нагрузка">-</param>
+        <param name="Размеры (см)">1160 x 1160 мм</param>
+        <param name="Дополнительные особенности">Нескользящая поверхность</param>
+        <param name="Особенности">nan</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
