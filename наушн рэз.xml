@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="73693d03-69fb-45de-873f-f990e68734b8">Наушники RAZER</category>
+    </categories>
+    <offers>
+      <offer id="2001" available="true">
+        <url>http://www.example.com/product/2001</url>
+        <price>7504.335</price>
+        <model>Razer  Quartz Edition : KRAKEN  , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/128447/full/1698393660_21730500.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон, поддержка многоплатформ</param>
+        <param name="Особенности">Игровая гарнитура, Quartz Edition</param>
+      </offer>
+      <offer id="2002" available="true">
+        <url>http://www.example.com/product/2002</url>
+        <price>7541.1</price>
+        <model>RAZER ADARO ANALOG DJ HEADPHONES, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://m.media-amazon.com/images/I/519bPaWL5WL.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Лёгкий дизайн, регулируемые чашки</param>
+        <param name="Особенности">Наушники для DJ</param>
+      </offer>
+      <offer id="2003" available="true">
+        <url>http://www.example.com/product/2003</url>
+        <price>15817.5</price>
+        <model>Razer Barracuda Wireless Multi-platform Gaming and Mobile, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.cclonline.com/images/shopblocks/RZ04-03790100-R3M1-PNG.png?width=775&amp;height=582&amp;scale=canvas&amp;format=jpg&amp;trim.threshold=80</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, поддержка мобильных</param>
+        <param name="Особенности">Многоплатформенная гарнитура</param>
+      </offer>
+      <offer id="2004" available="true">
+        <url>http://www.example.com/product/2004</url>
+        <price>8454.24</price>
+        <model>Razer Barracuda X Wireless Multi-platform Gaming and Mobile, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.abboudtrading.com/product/image/medium/razer1349_barracuda-x-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, легкий дизайн</param>
+        <param name="Особенности">Многоплатформенная гарнитура</param>
+      </offer>
+      <offer id="2005" available="true">
+        <url>http://www.example.com/product/2005</url>
+        <price>8454.24</price>
+        <model>Razer Barracuda X Wireless Multi-platform Gaming and Mobile (белые), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://m.media-amazon.com/images/I/411blSGdVYL._AC_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, легкий дизайн</param>
+        <param name="Особенности">Белая версия</param>
+      </offer>
+      <offer id="2006" available="true">
+        <url>http://www.example.com/product/2006</url>
+        <price>8454.24</price>
+        <model>Razer Barracuda X Wireless Multi-platform Gaming and Mobile (розовые), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://media.gamestop.com/i/gamestop/11200419_quartz_ALT01/Razer-Barracuda-X-Wireless-Multi-Platform-Gaming-and-Mobile-Headset-with-Bluetooth-Quartz-Pink-quartz?$pdp$</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, легкий дизайн</param>
+        <param name="Особенности">Розовая версия</param>
+      </offer>
+      <offer id="2007" available="true">
+        <url>http://www.example.com/product/2007</url>
+        <price>17100.0</price>
+        <model>RAZER Blackshark V2 PRO Wireless esports headset, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2024/04/blacksharkV2pro-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, съёмный микрофон</param>
+        <param name="Особенности">Профессиональная киберспортивная гарнитура</param>
+      </offer>
+      <offer id="2008" available="true">
+        <url>http://www.example.com/product/2008</url>
+        <price>4654.62</price>
+        <model>RAZER BlackShark V2 X, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/blackshark-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Лёгкий дизайн</param>
+      </offer>
+      <offer id="2009" available="true">
+        <url>http://www.example.com/product/2009</url>
+        <price>4654.62</price>
+        <model>RAZER BlackShark V2 X Green Edition, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/257636-large_default/razer-blackshark-v2-x-green-edition.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Зелёная версия</param>
+      </offer>
+      <offer id="2010" available="true">
+        <url>http://www.example.com/product/2010</url>
+        <price>4664.025</price>
+        <model>RAZER BlackShark V2 X Quartz Edition, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/116252/full/1673927448_94847400.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Quartz Edition</param>
+      </offer>
+      <offer id="2011" available="true">
+        <url>http://www.example.com/product/2011</url>
+        <price>6554.429999999999</price>
+        <model>RAZER BlackShark V2 X USB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://img.al-style.kz/47281_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Подключение через USB</param>
+        <param name="Особенности">Лёгкий дизайн</param>
+      </offer>
+      <offer id="2012" available="true">
+        <url>http://www.example.com/product/2012</url>
+        <price>4664.025</price>
+        <model>RAZER BlackShark V2 X White Edition, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71MGiPTwXAL.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Белая версия</param>
+      </offer>
+      <offer id="2013" available="true">
+        <url>http://www.example.com/product/2013</url>
+        <price>9564.03</price>
+        <model>RAZER BlackShark V2+USB Sound Card, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/257880-large_default/razer-blackshark-v2usb-sound-card.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Звуковая карта USB</param>
+        <param name="Особенности">Усовершенствованное звучание</param>
+      </offer>
+      <offer id="2014" available="true">
+        <url>http://www.example.com/product/2014</url>
+        <price>6138.9</price>
+        <model>RAZER HAMMERHEAD Duo, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/81643/full/1594731571_64967000.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+        <param name="Особенности">Двойные динамики</param>
+      </offer>
+      <offer id="2015" available="true">
+        <url>http://www.example.com/product/2015</url>
+        <price>16529.715</price>
+        <model>RAZER HAMMERHEAD HyperSpeed Multi Platform (PS5) Mercury Edition, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://assets3.razerzone.com/y43KzNfDKqzfTGLdlkBEyAcCtZE=/1920x1280/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb0%2Fha7%2F9447214219294%2Fhammerhead-hyperspeed-ps-v2-500x500.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение</param>
+        <param name="Особенности">Поддержка PS5, Mercury Edition</param>
+      </offer>
+      <offer id="2016" available="true">
+        <url>http://www.example.com/product/2016</url>
+        <price>6540.75</price>
+        <model>RAZER HAMMERHEAD True Wireless, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/hammerhead-13.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Встроенный микрофон</param>
+        <param name="Особенности">Компактные True Wireless</param>
+      </offer>
+      <offer id="2017" available="true">
+        <url>http://www.example.com/product/2017</url>
+        <price>6540.75</price>
+        <model>RAZER HAMMERHEAD True Wireless Mercury Edition, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434487_41ef730a.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Встроенный микрофон</param>
+        <param name="Особенности">Mercury Edition</param>
+      </offer>
+      <offer id="2018" available="true">
+        <url>http://www.example.com/product/2018</url>
+        <price>7550.505</price>
+        <model>RAZER HAMMERHEAD True Wireless RGB (2021), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://content.rozetka.com.ua/goods/images/big/227787251.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Встроенный микрофон, RGB-подсветка</param>
+        <param name="Особенности">Обновлённая версия 2021 года</param>
+      </offer>
+      <offer id="2019" available="true">
+        <url>http://www.example.com/product/2019</url>
+        <price>3787.6499999999996</price>
+        <model>RAZER HAMMERHEAD True Wireless X, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/hammerhead-14.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Встроенный микрофон</param>
+        <param name="Особенности">Компактные True Wireless</param>
+      </offer>
+      <offer id="2020" available="true">
+        <url>http://www.example.com/product/2020</url>
+        <price>12978.900000000001</price>
+        <model>RAZER KAIRA Playstation Wireless, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2024/06/kaira-ps5-1-1024x1024.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, совместимость с PS</param>
+        <param name="Особенности">Оптимизировано для PlayStation</param>
+      </offer>
+      <offer id="2021" available="true">
+        <url>http://www.example.com/product/2021</url>
+        <price>7447.049999999999</price>
+        <model>RAZER KAIRA X PLASTATION, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/292460-medium_default/razer-kaira-x-plastation.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Совместимость с PlayStation</param>
+      </offer>
+      <offer id="2022" available="true">
+        <url>http://www.example.com/product/2022</url>
+        <price>2915.55</price>
+        <model>RAZER Kitty Ears for Razer Kraken (Green), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/292490-large_default/razer-kitty-ears-for-razer-kraken-green.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Аксессуар</param>
+        <param name="Аудио система">-</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Украшение для наушников</param>
+        <param name="Особенности">Кошачьи ушки, зелёная версия</param>
+      </offer>
+      <offer id="2023" available="true">
+        <url>http://www.example.com/product/2023</url>
+        <price>2915.55</price>
+        <model>RAZER Kitty Ears for Razer Kraken (Pink), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/292554-large_default/razer-kitty-ears-for-razer-kraken-pink.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Аксессуар</param>
+        <param name="Аудио система">-</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Украшение для наушников</param>
+        <param name="Особенности">Кошачьи ушки, розовая версия</param>
+      </offer>
+      <offer id="2024" available="true">
+        <url>http://www.example.com/product/2024</url>
+        <price>6174.8099999999995</price>
+        <model>RAZER KRAKEN BT KITTY EDITION - Pink, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/kraken-bt-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Беспроводное соединение, кошачьи ушки</param>
+        <param name="Особенности">Розовая версия с подсветкой</param>
+      </offer>
+      <offer id="2025" available="true">
+        <url>http://www.example.com/product/2025</url>
+        <price>11286.0</price>
+        <model>Razer Kraken Kitty BT V2 - Quartz Ed., шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/137347/full/1717650972_08005800.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Беспроводное соединение, кошачьи ушки</param>
+        <param name="Особенности">Quartz Edition</param>
+      </offer>
+      <offer id="2026" available="true">
+        <url>http://www.example.com/product/2026</url>
+        <price>16672.5</price>
+        <model>RAZER KRAKEN KITTY EDITION - Black , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_2001_1_6.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Кошачьи ушки, RGB-подсветка</param>
+        <param name="Особенности">Чёрная версия</param>
+      </offer>
+      <offer id="2027" available="true">
+        <url>http://www.example.com/product/2027</url>
+        <price>11286.0</price>
+        <model>Razer Kraken Kitty V2 - Black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/128446/full/1698393485_40958800.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Кошачьи ушки, RGB-подсветка</param>
+        <param name="Особенности">Чёрная версия</param>
+      </offer>
+      <offer id="2028" available="true">
+        <url>http://www.example.com/product/2028</url>
+        <price>20349.0</price>
+        <model>RAZER KRAKEN KITTY V2 Pro - Black , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/128446/full/1698393485_40958800.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Профессиональная игровая гарнитура, кошачьи ушки</param>
+        <param name="Особенности">Чёрная версия</param>
+      </offer>
+      <offer id="2029" available="true">
+        <url>http://www.example.com/product/2029</url>
+        <price>20349.0</price>
+        <model>RAZER KRAKEN KITTY V2 Pro - Quartz, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://www.kivano.kg/images/product/128447/full/1698393660_21730500.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Профессиональная игровая гарнитура, кошачьи ушки</param>
+        <param name="Особенности">Quartz Edition</param>
+      </offer>
+      <offer id="2030" available="true">
+        <url>http://www.example.com/product/2030</url>
+        <price>7695.0</price>
+        <model>RAZER KRAKEN Multi-Platform 7.1 Green, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/257647-medium_default/razer-kraken-multi-platform-71-green.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Поддержка многоплатформ</param>
+        <param name="Особенности">Зелёная версия</param>
+      </offer>
+      <offer id="2031" available="true">
+        <url>http://www.example.com/product/2031</url>
+        <price>5531.85</price>
+        <model>RAZER KRAKEN PRO  BLACK 2015, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://images.bit-tech.net/content_images/2015/08/razer-kraken-pro-review/krakenpro-6b.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Чёрная версия 2015 года</param>
+      </offer>
+      <offer id="2032" available="true">
+        <url>http://www.example.com/product/2032</url>
+        <price>6942.6</price>
+        <model>RAZER KRAKEN PRO V2  BLACK, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/503938-medium_default/razer-kraken-pro-v2-black.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Чёрная версия V2</param>
+      </offer>
+      <offer id="2033" available="true">
+        <url>http://www.example.com/product/2033</url>
+        <price>11970.0</price>
+        <model>Razer Kraken V3 Hypersense, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71PRgAvq52L.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Технология Hypersense, виброотклик</param>
+        <param name="Особенности">Продвинутые тактильные эффекты</param>
+      </offer>
+      <offer id="2034" available="true">
+        <url>http://www.example.com/product/2034</url>
+        <price>16501.5</price>
+        <model>RAZER KRAKEN V3 PRO wireless, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://m.media-amazon.com/images/I/71JUY29gBWL._AC_UF894,1000_QL80_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Беспроводное соединение, технология Hypersense</param>
+        <param name="Особенности">Профессиональная игровая гарнитура</param>
+      </offer>
+      <offer id="2035" available="true">
+        <url>http://www.example.com/product/2035</url>
+        <price>8074.62</price>
+        <model>Razer Kraken V3 USB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://img.al-style.kz/48126_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Подключение через USB, виброотклик</param>
+        <param name="Особенности">Поддержка 7.1 и виброэффекты</param>
+      </offer>
+      <offer id="2036" available="true">
+        <url>http://www.example.com/product/2036</url>
+        <price>6942.6</price>
+        <model>RAZER KRAKEN V3 X usb, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2021/04/blakcsharkV3x-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Подключение через USB</param>
+        <param name="Особенности">Удобные амбушюры</param>
+      </offer>
+      <offer id="2037" available="true">
+        <url>http://www.example.com/product/2037</url>
+        <price>8037.0</price>
+        <model>RAZER KRAKEN V3X USB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://img.al-style.kz/48126_2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">USB</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Подключение через USB</param>
+        <param name="Особенности">Поддержка 7.1 и RGB</param>
+      </offer>
+      <offer id="2038" available="true">
+        <url>http://www.example.com/product/2038</url>
+        <price>3361.86</price>
+        <model>RAZER KRAKEN X Essential, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://cdn.bazar.kg/bazar/images/2/a/a/2aaafe18eaa31c351e6537f3dd296239_640x480.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Легкий дизайн, регулируемый микрофон</param>
+        <param name="Особенности">Лёгкие и комфортные</param>
+      </offer>
+      <offer id="2039" available="true">
+        <url>http://www.example.com/product/2039</url>
+        <price>3704.7149999999997</price>
+        <model>RAZER KRAKEN X Lite, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_1556_0_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Легкий дизайн, регулируемый микрофон</param>
+        <param name="Особенности">Экономичная версия</param>
+      </offer>
+      <offer id="2040" available="true">
+        <url>http://www.example.com/product/2040</url>
+        <price>4617.0</price>
+        <model>RAZER KRAKEN X Multi-Platform , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/257582-medium_default/razer-kraken-x-multi-platform.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Легкий дизайн, поддержка многоплатформ</param>
+        <param name="Особенности">Поддержка 7.1 Surround</param>
+      </offer>
+      <offer id="2041" available="true">
+        <url>http://www.example.com/product/2041</url>
+        <price>18604.8</price>
+        <model>RAZER NARI ULTIMATE - HyperSense Thechnology , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61wAtXsytCL._AC_SX679_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Технология виброотклика Hypersense</param>
+        <param name="Особенности">Беспроводные с виброэффектом</param>
+      </offer>
+      <offer id="2042" available="true">
+        <url>http://www.example.com/product/2042</url>
+        <price>5604.525</price>
+        <model>Razer Opus X, Green, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_1870_2_6.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Активное шумоподавление (ANC), лёгкий дизайн</param>
+        <param name="Особенности">Зелёная версия</param>
+      </offer>
+      <offer id="2043" available="true">
+        <url>http://www.example.com/product/2043</url>
+        <price>5604.525</price>
+        <model>Razer Opus X, Mercury, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/503507-large_default/razer-opus-x-mercury.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Активное шумоподавление (ANC), лёгкий дизайн</param>
+        <param name="Особенности">Mercury Edition</param>
+      </offer>
+      <offer id="2044" available="true">
+        <url>http://www.example.com/product/2044</url>
+        <price>5604.525</price>
+        <model>Razer Opus X, Quartz, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_1872_2_6.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Активное шумоподавление (ANC), лёгкий дизайн</param>
+        <param name="Особенности">Quartz Edition</param>
+      </offer>
+      <offer id="2045" available="true">
+        <url>http://www.example.com/product/2045</url>
+        <price>10961.099999999999</price>
+        <model>RAZER THRESHER 7.1 для Sony PS4, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://microless.com/cdn/products/abd19d21d6bdab71d5e6d16bdb28b578-hi.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, поддержка PS4</param>
+        <param name="Особенности">Игровая гарнитура для PS4</param>
+      </offer>
+      <offer id="2046" available="true">
+        <url>http://www.example.com/product/2046</url>
+        <price>8951.85</price>
+        <model>RAZER THRESHER TE , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>73693d03-69fb-45de-873f-f990e68734b8</categoryId>
+        <picture>https://systema.kg/503931-medium_default/razer-thresher-te.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Регулируемый микрофон</param>
+        <param name="Особенности">Многоплатформенная поддержка, профессиональная</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
