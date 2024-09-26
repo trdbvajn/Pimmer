@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="a345635a-3f69-4eaa-a0c7-37ff348bd9c9">Микрофоны</category>
+    </categories>
+    <offers>
+      <offer id="90001" available="true">
+        <url>http://www.example.com/product/90001</url>
+        <price>3324.2400000000002</price>
+        <model>FIFINE A6 USB RGB black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/229/229ae43acfee6e77004c62c90aa710cf.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90002" available="true">
+        <url>http://www.example.com/product/90002</url>
+        <price>3324.2400000000002</price>
+        <model>FIFINE A6 USB RGB blue, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/A6-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90003" available="true">
+        <url>http://www.example.com/product/90003</url>
+        <price>3324.2400000000002</price>
+        <model>FIFINE A6 USB RGB white, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/abd/abd7f9b9d17204a42e5562679b5d38c7.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90004" available="true">
+        <url>http://www.example.com/product/90004</url>
+        <price>3945.825</price>
+        <model>FIFINE A6T USB RGB black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/11/a6t-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка, штатив</param>
+      </offer>
+      <offer id="90005" available="true">
+        <url>http://www.example.com/product/90005</url>
+        <price>3945.825</price>
+        <model>FIFINE A6T USB RGB blue, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/11/a6t-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка, штатив</param>
+      </offer>
+      <offer id="90006" available="true">
+        <url>http://www.example.com/product/90006</url>
+        <price>3945.825</price>
+        <model>FIFINE A6TW USB RGB white, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/abd/abd7f9b9d17204a42e5562679b5d38c7.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка, штатив</param>
+      </offer>
+      <offer id="90007" available="true">
+        <url>http://www.example.com/product/90007</url>
+        <price>3324.2400000000002</price>
+        <model>FIFINE A6V USB RGB black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.kivano.kg/images/product/134934/full/1711595818_67591300.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90008" available="true">
+        <url>http://www.example.com/product/90008</url>
+        <price>3945.825</price>
+        <model>FIFINE A8 USB RGB condenser microphone blue, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/A8-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90009" available="true">
+        <url>http://www.example.com/product/90009</url>
+        <price>3945.825</price>
+        <model>FIFINE A8 USB RGB condenser microphone белый, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/-14/956/075/771/124/442/600011550494b0.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90010" available="true">
+        <url>http://www.example.com/product/90010</url>
+        <price>3945.825</price>
+        <model>FIFINE A8 USB RGB condenser microphone черн, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/A8-3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90011" available="true">
+        <url>http://www.example.com/product/90011</url>
+        <price>4654.62</price>
+        <model>FIFINE AM8 USB  condenser microphone, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://yabloki.ua/media/cache/sylius_shop_product_original/ba/de/usb-mikrofon-a8-plus-fifine_ff5a25d9-2b10-40db-9093-bcb6fc05ab18-2.png.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка, поворотная подставка</param>
+      </offer>
+      <offer id="90012" available="true">
+        <url>http://www.example.com/product/90012</url>
+        <price>1878.435</price>
+        <model>Fifine BM63 mid end boom arm  white (пантограф), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2024/05/bm63-6.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Поворотная конструкция</param>
+      </offer>
+      <offer id="90013" available="true">
+        <url>http://www.example.com/product/90013</url>
+        <price>3303.7200000000003</price>
+        <model>Fifine BM88 low profile boom arm (пантограф), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://megastore.kg/upload/iblock/5f8/5f818669d6709d85ea3c0fb521738aca.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Низкопрофильная конструкция</param>
+      </offer>
+      <offer id="90014" available="true">
+        <url>http://www.example.com/product/90014</url>
+        <price>1026.0</price>
+        <model>Fifine CS1 Boom Arm Stand Accessories (пантограф), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/dbc/dbc70ba5f495b17d5523aca03812283a.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Регулируемая высота</param>
+      </offer>
+      <offer id="90015" available="true">
+        <url>http://www.example.com/product/90015</url>
+        <price>4446.0</price>
+        <model>Fifine K031B UHF wireless microphone lavalier +headset microphone , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://fifinemicrophone.com/cdn/shop/products/FIFINEK031BUSBWirelessSystem_1024x1024.jpg?v=1623298099</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Петличный, гарнитура</param>
+        <param name="Интерфейс">UHF</param>
+        <param name="Дополнительные функции">Беспроводная система</param>
+      </offer>
+      <offer id="90016" available="true">
+        <url>http://www.example.com/product/90016</url>
+        <price>8661.15</price>
+        <model>FIFINE KSH1  (soundcard SC6+K740+H8 kit), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://megastore.kg/upload/iblock/984/9847d6d477cf6368852b12911fa99584.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Комплект для записи</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Включает звуковую карту, штатив</param>
+      </offer>
+      <offer id="90017" available="true">
+        <url>http://www.example.com/product/90017</url>
+        <price>6023.475</price>
+        <model>Fifine T732 микрофон, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://bobbystore.kg/wa-data/public/shop/products/00/webp/83/82/68283/images/23474/23474.440.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Поп-фильтр и штатив в комплекте</param>
+      </offer>
+      <offer id="90018" available="true">
+        <url>http://www.example.com/product/90018</url>
+        <price>10687.5</price>
+        <model>Razer Seiren BT for mobile streaming, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.netcombrunei.com/media/catalog/product/cache/7fba28f2ffd14e7be21e170ce6bb6de8/r/a/razer-661.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный</param>
+        <param name="Интерфейс">Bluetooth</param>
+        <param name="Дополнительные функции">Подходит для мобильного стриминга</param>
+      </offer>
+      <offer id="90019" available="true">
+        <url>http://www.example.com/product/90019</url>
+        <price>4179.24</price>
+        <model>Razer Seiren Mini, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/razer56.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90020" available="true">
+        <url>http://www.example.com/product/90020</url>
+        <price>4104.0</price>
+        <model>Razer Seirēn Mini - Mercury, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/6d2/6d2d2b8813518ed2f2e9b51364a7c364.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90021" available="true">
+        <url>http://www.example.com/product/90021</url>
+        <price>14748.75</price>
+        <model>RAZER Seiren V3 Chroma, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.kivano.kg/images/product/137350/171765165595398_full.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90022" available="true">
+        <url>http://www.example.com/product/90022</url>
+        <price>5283.045</price>
+        <model>Razer Seiren V3 Mini, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.kivano.kg/images/product/137353/full/1717652036_14502400.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90023" available="true">
+        <url>http://www.example.com/product/90023</url>
+        <price>5283.045</price>
+        <model>Razer Seiren V3 Mini Quartz, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://4frag.ru/image/cache/data/product/razer-seiren-v3-mini-quartz-1-1000x1000.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90024" available="true">
+        <url>http://www.example.com/product/90024</url>
+        <price>5283.045</price>
+        <model>Razer Seiren V3 Mini White, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.kivano.kg/images/product/137353/full/1717652036_14502400.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90025" available="true">
+        <url>http://www.example.com/product/90025</url>
+        <price>20520.0</price>
+        <model>SteelSeries Alias, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/96/62/966208ef-cf01-436c-9c06-08520ff3ee5d/alias_black_pdp_img_buy_02.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Поддержка стриминга</param>
+      </offer>
+      <offer id="90026" available="true">
+        <url>http://www.example.com/product/90026</url>
+        <price>5814.0</price>
+        <model>Thronmax M20 Streaming Kit, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.gentec-intl.com/cdn/shop/products/TMM20KIT_1.jpg?v=1659550070&amp;width=1200</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Комплект для стриминга</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Включает штатив и поп-фильтр</param>
+      </offer>
+      <offer id="90027" available="true">
+        <url>http://www.example.com/product/90027</url>
+        <price>6327.0</price>
+        <model>Thronmax MDRILL DOME PLUS (черный) USB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434610_26a12cc3.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Простое подключение через USB</param>
+      </offer>
+      <offer id="90028" available="true">
+        <url>http://www.example.com/product/90028</url>
+        <price>2394.0</price>
+        <model>Thronmax MDRILL FIREBALL USB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434612_6bfcb577.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90029" available="true">
+        <url>http://www.example.com/product/90029</url>
+        <price>4275.0</price>
+        <model>Thronmax MDRILL M30 Kits (черный) M30KIT, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.thronmax.com/wp-content/uploads/2023/06/M30-0.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Комплект для стриминга</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Включает штатив и поп-фильтр</param>
+      </offer>
+      <offer id="90030" available="true">
+        <url>http://www.example.com/product/90030</url>
+        <price>4659.75</price>
+        <model>Thronmax MDRILL ONE (черный) M2, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://6e616e6f7465680a.ultracdn.net/radix/img/items/20200207/14/5e3d53d67cfee-202002071411.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Профессиональная запись звука</param>
+      </offer>
+      <offer id="90031" available="true">
+        <url>http://www.example.com/product/90031</url>
+        <price>9456.3</price>
+        <model>Thronmax MDRILL ONE KIT (черный) USB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434614_fa0b0899.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Комплект для стриминга</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Включает штатив</param>
+      </offer>
+      <offer id="90032" available="true">
+        <url>http://www.example.com/product/90032</url>
+        <price>5608.799999999999</price>
+        <model>Thronmax MDRILL Pulse PRO RGB (черный) M8Pro, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://img5.lalafo.com/i/posters/original/2f/90/6d/2d5cf893feca88170fc1e7657b.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90033" available="true">
+        <url>http://www.example.com/product/90033</url>
+        <price>5600.25</price>
+        <model>Thronmax MDRILL Rosa (pink) M4R, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.bhphotovideo.com/images/fb/thronmax_m4r_rosa_usb_mic_with_1701013.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90034" available="true">
+        <url>http://www.example.com/product/90034</url>
+        <price>3710.7</price>
+        <model>Thronmax MDRILL USB Capsule Mic V8 RGB, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/e62/e623957dc7914fb3c42cdde566988cd4.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка</param>
+      </offer>
+      <offer id="90035" available="true">
+        <url>http://www.example.com/product/90035</url>
+        <price>1795.5</price>
+        <model>Thronmax P1 POP FILTER, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://m.media-amazon.com/images/I/818WTlEbBdL._AC_SY879_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Поп-фильтр</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Уменьшает шум при записи</param>
+      </offer>
+      <offer id="90036" available="true">
+        <url>http://www.example.com/product/90036</url>
+        <price>6669.0</price>
+        <model>Thronmax S1 Caster Microphone Boom Arm USB (пантограф-стойка), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/thronmax_s1_usb_s1_desk_arm_1587648308_1556816.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Для крепления микрофона</param>
+      </offer>
+      <offer id="90037" available="true">
+        <url>http://www.example.com/product/90037</url>
+        <price>8464.5</price>
+        <model>Thronmax S1 PRO Caster Microphone Boom Arm USB (пантограф-стойка), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/thronmax_s1_usb_s1_desk_arm_1587648308_1556816.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Профессиональная стойка</param>
+      </offer>
+      <offer id="90038" available="true">
+        <url>http://www.example.com/product/90038</url>
+        <price>6840.0</price>
+        <model>Thronmax S2 Caster Microphone Boom Arm XLR (пантограф-стойка), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.thronmax.com/wp-content/uploads/2021/09/1589300566_1556817.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Профессиональная стойка</param>
+      </offer>
+      <offer id="90039" available="true">
+        <url>http://www.example.com/product/90039</url>
+        <price>6327.0</price>
+        <model>Thronmax S4 Phantom Boom Arm (пантограф-стойка), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://m.media-amazon.com/images/I/61OPCqc2iiL.__AC_SX300_SY300_QL70_FMwebp_.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Пантограф</param>
+        <param name="Интерфейс">-</param>
+        <param name="Дополнительные функции">Профессиональная стойка</param>
+      </offer>
+      <offer id="90040" available="true">
+        <url>http://www.example.com/product/90040</url>
+        <price>7124.715</price>
+        <model>Микрофон HyperX DuoCast , шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/duocast-2.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Поддержка стриминга и подкастов</param>
+      </offer>
+      <offer id="90041" available="true">
+        <url>http://www.example.com/product/90041</url>
+        <price>9405.0</price>
+        <model>Микрофон HyperX QuadCast 4P5P6AA (HX-MicQC-BK), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://ultra.kg/upload/resize_cache/iblock/dd0/1000_1000_1d0e97ea46f4438969ab06dd5b311ca67/dd0f56c7acc92a12e1bd4b70c4ad473d.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Подсветка и поп-фильтр в комплекте</param>
+      </offer>
+      <offer id="90042" available="true">
+        <url>http://www.example.com/product/90042</url>
+        <price>11179.98</price>
+        <model>Микрофон HyperX QuadCast S HMIQ1S-XX-RG, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://ultra.kg/upload/resize_cache/iblock/412/1080_1080_1d0e97ea46f4438969ab06dd5b311ca67/412c6fa51c39fcf7ba98c4f6798f954a.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка, поддержка стриминга</param>
+      </offer>
+      <offer id="90043" available="true">
+        <url>http://www.example.com/product/90043</url>
+        <price>11397.150000000001</price>
+        <model>Микрофон HyperX QuadCast S бел, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/05/quadcast-w-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">RGB-подсветка, поддержка стриминга</param>
+      </offer>
+      <offer id="90044" available="true">
+        <url>http://www.example.com/product/90044</url>
+        <price>1234.62</price>
+        <model>Микрофон вокальный Ritmix RDM-150 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://images.satu.kz/213497770_mikrofon-vokalnyj-ritmix.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Динамический</param>
+        <param name="Интерфейс">XLR</param>
+        <param name="Дополнительные функции">Подходит для вокала</param>
+      </offer>
+      <offer id="90045" available="true">
+        <url>http://www.example.com/product/90045</url>
+        <price>1519.335</price>
+        <model>Микрофон вокальный Ritmix RDM-155 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.kivano.kg/images/product/135064/171204752137322_full.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Динамический</param>
+        <param name="Интерфейс">XLR</param>
+        <param name="Дополнительные функции">Подходит для вокала</param>
+      </offer>
+      <offer id="90046" available="true">
+        <url>http://www.example.com/product/90046</url>
+        <price>7124.715</price>
+        <model>Микрофонная беспроводная система RITMIX RWM-221 серебро, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.itsklad.kz/upload/iblock/4d2/jdbs8w10w5natf6v5u9qzu4t1tz7xp8e/ed53db12_54ab_11e7_9ebf_5ac1c01e7446_9a46050d_2ecf_11ee_8f95_e610b22270a7.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Беспроводная система</param>
+        <param name="Интерфейс">UHF</param>
+        <param name="Дополнительные функции">Включает 2 микрофона</param>
+      </offer>
+      <offer id="90047" available="true">
+        <url>http://www.example.com/product/90047</url>
+        <price>3229.3350000000005</price>
+        <model>Микрофонная система Ritmix RWM-210, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/352/3524a8e0d27cc9bef1e55a762a3e26b7.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Беспроводная система</param>
+        <param name="Интерфейс">UHF</param>
+        <param name="Дополнительные функции">Включает микрофон</param>
+      </offer>
+      <offer id="90048" available="true">
+        <url>http://www.example.com/product/90048</url>
+        <price>6934.905</price>
+        <model>Настольный игровой микрофон Ritmix RDM-177 USB черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://basket-13.wbcontent.net/vol2001/part200105/200105038/images/big/1.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Поп-фильтр и штатив</param>
+      </offer>
+      <offer id="90049" available="true">
+        <url>http://www.example.com/product/90049</url>
+        <price>855.0</price>
+        <model>Настольный микрофон Ritmix RDM-120 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434626_d5abefd9.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90050" available="true">
+        <url>http://www.example.com/product/90050</url>
+        <price>1329.525</price>
+        <model>Настольный микрофон Ritmix RDM-126 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434627_eb978085.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90051" available="true">
+        <url>http://www.example.com/product/90051</url>
+        <price>2279.43</price>
+        <model>Настольный микрофон Ritmix RDM-127 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434628_9367aaba.png</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Компактный дизайн</param>
+      </offer>
+      <offer id="90052" available="true">
+        <url>http://www.example.com/product/90052</url>
+        <price>3924.45</price>
+        <model>Студийный микрофон Ritmix RDM-160 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://max.kg/nal/img/13929/b_tov_11434629_add8d605.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный</param>
+        <param name="Интерфейс">XLR</param>
+        <param name="Дополнительные функции">Подходит для студийной записи</param>
+      </offer>
+      <offer id="90053" available="true">
+        <url>http://www.example.com/product/90053</url>
+        <price>3704.7149999999997</price>
+        <model>Студийный микрофон Ritmix RDM-175 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://7745.by/img/imagecache/card_modal_big/sites/default/files/products/01-69f342b7101fffbeabccfa3bbded25ca.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный</param>
+        <param name="Интерфейс">XLR</param>
+        <param name="Дополнительные функции">Для профессиональной записи</param>
+      </offer>
+      <offer id="90054" available="true">
+        <url>http://www.example.com/product/90054</url>
+        <price>4654.62</price>
+        <model>Студийный микрофон Ritmix RDM-230 черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://itmag.kz/upload/iblock/29/02/product_image_76202_1202466.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный</param>
+        <param name="Интерфейс">XLR</param>
+        <param name="Дополнительные функции">Высокая чувствительность, для студий</param>
+      </offer>
+      <offer id="90055" available="true">
+        <url>http://www.example.com/product/90055</url>
+        <price>9879.525</price>
+        <model>Студийный микрофон Ritmix RDM-260 USB Eloquence черный, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>a345635a-3f69-4eaa-a0c7-37ff348bd9c9</categoryId>
+        <picture>https://netco.kz/upload/iblock/277/s2mw3nka956tb7j4mxw3l5efb6zenw8d.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип микрофона">Конденсаторный USB</param>
+        <param name="Интерфейс">USB</param>
+        <param name="Дополнительные функции">Подходит для студийной записи</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
