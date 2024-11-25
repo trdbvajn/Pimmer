@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="f7c9d64b-2d43-446d-9936-19eeafd54f14">Наушники SteelSeries</category>
+    </categories>
+    <offers>
+      <offer id="3001" available="true">
+        <url>http://www.example.com/product/3001</url>
+        <price>5167.62</price>
+        <model>STEELSERIES Arctis 1 PC/PS5, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/47/56/4756edc6-c64d-4781-8fa6-7ccd0656e592/buyimg_arctis1w_main_005.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Съёмный микрофон, совместимость с PC и PS5</param>
+        <param name="Особенности">Лёгкий дизайн</param>
+      </offer>
+      <offer id="3002" available="true">
+        <url>http://www.example.com/product/3002</url>
+        <price>7695.0</price>
+        <model>STEELSERIES Arctis 1 Wireless, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/arctis12-21.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с разными платформами, съёмный микрофон</param>
+        <param name="Особенности">Беспроводное соединение</param>
+      </offer>
+      <offer id="3003" available="true">
+        <url>http://www.example.com/product/3003</url>
+        <price>10639.619999999999</price>
+        <model>STEELSERIES Arctis 1 Wireless PS5, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/arcticc-6.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с PS5, съёмный микрофон</param>
+        <param name="Особенности">Беспроводное соединение</param>
+      </offer>
+      <offer id="3004" available="true">
+        <url>http://www.example.com/product/3004</url>
+        <price>9864.99</price>
+        <model>STEELSERIES Arctis 1 Wireless XBOX, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/catalog/items/61502/86ab014140924c7ca989a301153e3e7e.png.500x400_q100_crop-fit_optimize.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Поддержка Xbox, съёмный микрофон</param>
+        <param name="Особенности">Беспроводное соединение</param>
+      </offer>
+      <offer id="3005" available="true">
+        <url>http://www.example.com/product/3005</url>
+        <price>4604.175</price>
+        <model>STEELSERIES Arctis 1 XBOX, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/a8/df/a8dfdcb5-685b-4530-9f6a-a3ebd25ee2f4/arctis_1x_pkg_render_front.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Съёмный микрофон, совместимость с Xbox</param>
+        <param name="Особенности">Лёгкий дизайн</param>
+      </offer>
+      <offer id="3006" available="true">
+        <url>http://www.example.com/product/3006</url>
+        <price>7046.91</price>
+        <model>STEELSERIES Arctis 3 PS4/PS5/PC, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/ss-a3-1.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с PS4, PS5 и PC</param>
+        <param name="Особенности">Универсальная совместимость</param>
+      </offer>
+      <offer id="3007" available="true">
+        <url>http://www.example.com/product/3007</url>
+        <price>9253.665</price>
+        <model>STEELSERIES Arctis 5, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/steel-series-1.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Съёмный микрофон, поддержка 7.1 аудио</param>
+        <param name="Особенности">Поддержка нескольких устройств</param>
+      </offer>
+      <offer id="3008" available="true">
+        <url>http://www.example.com/product/3008</url>
+        <price>16997.4</price>
+        <model>STEELSERIES Arctis 7X wireless XBOX черн, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/ae/3c/ae3cc410-c0b8-4f85-8c47-04c0f3349042/a7x_buyimg_02.png__992x429_crop-scale_optimize_subsampling-2.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение с Xbox</param>
+        <param name="Особенности">Длительное время работы, 7.1 аудио</param>
+      </offer>
+      <offer id="3009" available="true">
+        <url>http://www.example.com/product/3009</url>
+        <price>5224.905</price>
+        <model>SteelSeries Arctis Nova 1 Black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_1931_3_1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Универсальная совместимость</param>
+        <param name="Особенности">Черный цвет</param>
+      </offer>
+      <offer id="3010" available="true">
+        <url>http://www.example.com/product/3010</url>
+        <price>5543.820000000001</price>
+        <model>STEELSERIES Arctis Nova 1P, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2024/01/nova1x-2.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с PS5</param>
+        <param name="Особенности">Профессиональная гарнитура</param>
+      </offer>
+      <offer id="3011" available="true">
+        <url>http://www.example.com/product/3011</url>
+        <price>5604.525</price>
+        <model>STEELSERIES Arctis Nova 1P (белые), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://robby.com.ua/image/cache/catalog/zalivka120922/pr-2022-8-22-15-32-3-528-10-400x400.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с PS5</param>
+        <param name="Особенности">Белый цвет</param>
+      </offer>
+      <offer id="3012" available="true">
+        <url>http://www.example.com/product/3012</url>
+        <price>5604.525</price>
+        <model>STEELSERIES Arctis Nova 1X, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/product/steelseries-arctis-nova-1p-x/</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с Xbox</param>
+        <param name="Особенности">Легкий дизайн</param>
+      </offer>
+      <offer id="3013" available="true">
+        <url>http://www.example.com/product/3013</url>
+        <price>7504.335</price>
+        <model>SteelSeries Arctis Nova 3 Black, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_1933_0_1.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">RGB</param>
+        <param name="Дополнительные функции">Совместимость с ПК и консолями, подсветка RGB</param>
+        <param name="Особенности">Черный цвет</param>
+      </offer>
+      <offer id="3014" available="true">
+        <url>http://www.example.com/product/3014</url>
+        <price>13680.0</price>
+        <model>SteelSeries Arctis Nova 7 Wireless (черные), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Photo/img_0_83_1933_0_1.webp</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Беспроводное соединение, совместимость с ПК и консолью</param>
+        <param name="Особенности">Длительное время работы</param>
+      </offer>
+      <offer id="3015" available="true">
+        <url>http://www.example.com/product/3015</url>
+        <price>14724.81</price>
+        <model>SteelSeries Arctis Nova 7P Wireless (белые), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/arctisnova-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с PlayStation, беспроводное соединение</param>
+        <param name="Особенности">Белый цвет</param>
+      </offer>
+      <offer id="3016" available="true">
+        <url>http://www.example.com/product/3016</url>
+        <price>14724.81</price>
+        <model>SteelSeries Arctis Nova 7P Wireless (черные), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://content1.rozetka.com.ua/goods/images/big/441781766.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с PlayStation, беспроводное соединение</param>
+        <param name="Особенности">Черный цвет</param>
+      </offer>
+      <offer id="3017" available="true">
+        <url>http://www.example.com/product/3017</url>
+        <price>17004.239999999998</price>
+        <model>SteelSeries Arctis Nova 7X Wireless (белые), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2024/01/arctis7x-3.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с Xbox, беспроводное соединение</param>
+        <param name="Особенности">Белый цвет</param>
+      </offer>
+      <offer id="3018" available="true">
+        <url>http://www.example.com/product/3018</url>
+        <price>17004.239999999998</price>
+        <model>SteelSeries Arctis Nova 7X Wireless (черные), шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://www.megastore.kg/upload/iblock/909/909ed3940151e0f5932b8fe63f65ddda.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Совместимость с Xbox, беспроводное соединение</param>
+        <param name="Особенности">Черный цвет</param>
+      </offer>
+      <offer id="3019" available="true">
+        <url>http://www.example.com/product/3019</url>
+        <price>27189.0</price>
+        <model>SteelSeries Arctis Nova Pro Wireless, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/2023/07/arctis-nova-pro-wireless-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Беспроводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Премиум гарнитура, беспроводное соединение</param>
+        <param name="Особенности">Высокое качество звука</param>
+      </offer>
+      <offer id="3020" available="true">
+        <url>http://www.example.com/product/3020</url>
+        <price>19237.5</price>
+        <model>SteelSeries Arctis Nova Pro X, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://netco.kg/upload/iblock/988/1vh38m1gmfvsl12gdqp5bgnn211znrhe.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Профессиональный звук</param>
+        <param name="Особенности">Оптимизировано для Xbox</param>
+      </offer>
+      <offer id="3021" available="true">
+        <url>http://www.example.com/product/3021</url>
+        <price>11970.0</price>
+        <model>STEELSERIES Arctis Prime esport headset, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://media.steelseriescdn.com/thumbs/filer_public/fb/b3/fbb3ec6c-3aff-4d48-8fbc-e41b88c32ddb/buyimg_arctis_prime_006.png__1920x1080_crop-fit_optimize_subsampling-2.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Оптимизировано для киберспорта</param>
+        <param name="Особенности">Комфортное ношение в течение долгих сессий</param>
+      </offer>
+      <offer id="3022" available="true">
+        <url>http://www.example.com/product/3022</url>
+        <price>12119.625</price>
+        <model>STEELSERIES Arctis Pro, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://gamestore.kg/wp-content/uploads/arctis-pro-w-1.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Высококачественное аудио</param>
+        <param name="Особенности">Профессиональная гарнитура</param>
+      </offer>
+      <offer id="3023" available="true">
+        <url>http://www.example.com/product/3023</url>
+        <price>17381.295</price>
+        <model>STEELSERIES Arctis Pro+GameDAC, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://m.media-amazon.com/images/I/518Q444IQ+L.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Встроенный GameDAC для настраиваемого звука</param>
+        <param name="Особенности">Премиальная гарнитура с высоким качеством звука</param>
+      </offer>
+      <offer id="3024" available="true">
+        <url>http://www.example.com/product/3024</url>
+        <price>18697.14</price>
+        <model>STEELSERIES Arctis Pro+GameDAC белые, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://netco.kg/upload/iblock/ec5/a1ogwe8zboz9pslav3mis429eovm59fu.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">7.1 Surround</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Встроенный GameDAC</param>
+        <param name="Особенности">Белый цвет</param>
+      </offer>
+      <offer id="3025" available="true">
+        <url>http://www.example.com/product/3025</url>
+        <price>4603.320000000001</price>
+        <model>STEELSERIES SIBERIA 200 бел, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://main-cdn.sbermegamarket.ru/big2/hlr-system/1629098/100000024351b0.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Лёгкий и удобный дизайн</param>
+        <param name="Особенности">Универсальная совместимость, белый цвет</param>
+      </offer>
+      <offer id="3026" available="true">
+        <url>http://www.example.com/product/3026</url>
+        <price>4603.320000000001</price>
+        <model>STEELSERIES SIBERIA 200 черн, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://www.kivano.kg/images/product/34363/34363_full.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Лёгкий и удобный дизайн</param>
+        <param name="Особенности">Универсальная совместимость, чёрный цвет</param>
+      </offer>
+      <offer id="3027" available="true">
+        <url>http://www.example.com/product/3027</url>
+        <price>3704.7149999999997</price>
+        <model>SteelSeries TUSQ in ear gaming headset, шт</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>f7c9d64b-2d43-446d-9936-19eeafd54f14</categoryId>
+        <picture>https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/6/1/61650.png</picture>
+        <picture>nan</picture>
+        <param name="Тип подключения">Проводные</param>
+        <param name="Аудио система">Стерео</param>
+        <param name="Подсветка">Нет</param>
+        <param name="Дополнительные функции">Встроенный микрофон, лёгкий дизайн</param>
+        <param name="Особенности">Внутриканальная гарнитура для геймеров</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
